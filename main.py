@@ -46,6 +46,7 @@ def get_user_stats(key):
     return user_stats
 
 for key in keys:
+    print("key: ", key)
     user_details = get_user_details(key)
     stats = get_user_stats(key)
 
