@@ -1,4 +1,4 @@
-from datetime import date
+from datetime import date, timedelta
 import json
 import os
 import requests
@@ -9,7 +9,8 @@ if keys:
     keys = keys.split(",")
 
 BASE_URL = 'https://wakatime.com/api/v1/users/current'
-today = date.today().strftime('%d-%m-%Y')
+yesterday = date.today() - timedelta(days=1)
+formatted_date = yesterday.strftime('%d-%m-%Y')
 combined_stats = {}
 
 def make_request(endpoint: str, params: dict):
@@ -39,8 +40,8 @@ def get_user_stats(key):
     endpoint = '/summaries'
     params = {
         "api_key": key,
-        "start": today,
-        "end": today
+        "start": formatted_date,
+        "end": formatted_date
     }
     user_stats = make_request(endpoint, params)
     return user_stats
@@ -58,6 +59,6 @@ for key in keys:
         username: stats
     })
 
-file = open(os.path.join('logs', f'{today}.json'), mode='w+')
+file = open(os.path.join('logs', f'{formatted_date}.json'), mode='w+')
 file.write(json.dumps(combined_stats, indent=2))
 file.close()
