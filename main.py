@@ -5,6 +5,8 @@ import requests
 
 keys = os.environ.get('WAKATIME_API_KEYS')
 
+print(keys)
+
 if keys:
     keys = keys.split(",")
 
@@ -46,7 +48,6 @@ def get_user_stats(key):
     return user_stats
 
 for key in keys:
-    print("key: ", key)
     user_details = get_user_details(key)
     stats = get_user_stats(key)
 
