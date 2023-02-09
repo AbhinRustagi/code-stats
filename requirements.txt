@@ -1,2 +1,2 @@
 datetime==5.0
-requests==1.26.13
+requests
