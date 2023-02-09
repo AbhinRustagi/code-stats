@@ -5,8 +5,6 @@ import requests
 
 keys = os.environ.get('WAKATIME_API_KEYS')
 
-print(keys)
-
 if keys:
     keys = keys.split(",")
 
@@ -53,6 +51,8 @@ for key in keys:
 
     username = user_details.get('data').get('username')
     stats = stats.get('data')
+
+    print(f"adding stats for {username}")
 
     combined_stats.update({
         username: stats
