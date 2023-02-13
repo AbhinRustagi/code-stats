@@ -1,0 +1,326 @@
+{
+  "abhinr": [
+    {
+      "categories": [],
+      "dependencies": [],
+      "editors": [],
+      "grand_total": {
+        "decimal": "0.00",
+        "digital": "0:00",
+        "hours": 0,
+        "minutes": 0,
+        "text": "0 secs",
+        "total_seconds": 0.0
+      },
+      "languages": [],
+      "machines": [],
+      "operating_systems": [],
+      "projects": [],
+      "range": {
+        "date": "2023-02-12",
+        "end": "2023-02-12T18:29:59Z",
+        "start": "2023-02-11T18:30:00Z",
+        "text": "Sun Feb 12th 2023",
+        "timezone": "Asia/Kolkata"
+      }
+    }
+  ],
+  "oh_abhin": [
+    {
+      "categories": [
+        {
+          "decimal": "1.28",
+          "digital": "1:17:25",
+          "hours": 1,
+          "minutes": 17,
+          "name": "Coding",
+          "percent": 100.0,
+          "seconds": 25,
+          "text": "1 hr 17 mins",
+          "total_seconds": 4645.71502
+        }
+      ],
+      "dependencies": [
+        {
+          "decimal": "0.05",
+          "digital": "0:03:18",
+          "hours": 0,
+          "minutes": 3,
+          "name": "celery",
+          "percent": 16.9,
+          "seconds": 18,
+          "text": "3 mins",
+          "total_seconds": 198.526878
+        },
+        {
+          "decimal": "0.05",
+          "digital": "0:03:02",
+          "hours": 0,
+          "minutes": 3,
+          "name": "apps",
+          "percent": 15.56,
+          "seconds": 2,
+          "text": "3 mins",
+          "total_seconds": 182.71462
+        },
+        {
+          "decimal": "0.03",
+          "digital": "0:02:55",
+          "hours": 0,
+          "minutes": 2,
+          "name": "django",
+          "percent": 14.95,
+          "seconds": 55,
+          "text": "2 mins",
+          "total_seconds": 175.603032
+        },
+        {
+          "decimal": "0.03",
+          "digital": "0:02:52",
+          "hours": 0,
+          "minutes": 2,
+          "name": "logging",
+          "percent": 14.69,
+          "seconds": 52,
+          "text": "2 mins",
+          "total_seconds": 172.490652
+        },
+        {
+          "decimal": "0.03",
+          "digital": "0:02:51",
+          "hours": 0,
+          "minutes": 2,
+          "name": "datetime",
+          "percent": 14.6,
+          "seconds": 51,
+          "text": "2 mins",
+          "total_seconds": 171.416668
+        },
+        {
+          "decimal": "0.02",
+          "digital": "0:01:54",
+          "hours": 0,
+          "minutes": 1,
+          "name": "sentry_sdk",
+          "percent": 9.74,
+          "seconds": 54,
+          "text": "1 min",
+          "total_seconds": 114.43704
+        },
+        {
+          "decimal": "0.02",
+          "digital": "0:01:19",
+          "hours": 0,
+          "minutes": 1,
+          "name": "json",
+          "percent": 6.79,
+          "seconds": 19,
+          "text": "1 min",
+          "total_seconds": 79.744849
+        },
+        {
+          "decimal": "0.02",
+          "digital": "0:01:12",
+          "hours": 0,
+          "minutes": 1,
+          "name": "pytz",
+          "percent": 6.14,
+          "seconds": 12,
+          "text": "1 min",
+          "total_seconds": 72.139343
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:02",
+          "hours": 0,
+          "minutes": 0,
+          "name": "simple_history",
+          "percent": 0.21,
+          "seconds": 2,
+          "text": "2 secs",
+          "total_seconds": 2.442755
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:02",
+          "hours": 0,
+          "minutes": 0,
+          "name": "jsonfield",
+          "percent": 0.21,
+          "seconds": 2,
+          "text": "2 secs",
+          "total_seconds": 2.442755
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:02",
+          "hours": 0,
+          "minutes": 0,
+          "name": "django_extensions",
+          "percent": 0.21,
+          "seconds": 2,
+          "text": "2 secs",
+          "total_seconds": 2.442755
+        }
+      ],
+      "editors": [
+        {
+          "decimal": "1.28",
+          "digital": "1:17:25",
+          "hours": 1,
+          "minutes": 17,
+          "name": "VS Code",
+          "percent": 100.0,
+          "seconds": 25,
+          "text": "1 hr 17 mins",
+          "total_seconds": 4645.71502
+        }
+      ],
+      "grand_total": {
+        "decimal": "1.28",
+        "digital": "1:17",
+        "hours": 1,
+        "minutes": 17,
+        "text": "1 hr 17 mins",
+        "total_seconds": 4645.71502
+      },
+      "languages": [
+        {
+          "decimal": "0.48",
+          "digital": "0:29:44",
+          "hours": 0,
+          "minutes": 29,
+          "name": "Markdown",
+          "percent": 38.41,
+          "seconds": 44,
+          "text": "29 mins",
+          "total_seconds": 1784.224429
+        },
+        {
+          "decimal": "0.37",
+          "digital": "0:22:50",
+          "hours": 0,
+          "minutes": 22,
+          "name": "YAML",
+          "percent": 29.49,
+          "seconds": 50,
+          "text": "22 mins",
+          "total_seconds": 1370.190861
+        },
+        {
+          "decimal": "0.27",
+          "digital": "0:16:14",
+          "hours": 0,
+          "minutes": 16,
+          "name": "INI",
+          "percent": 20.98,
+          "seconds": 14,
+          "text": "16 mins",
+          "total_seconds": 974.703189
+        },
+        {
+          "decimal": "0.08",
+          "digital": "0:05:02",
+          "hours": 0,
+          "minutes": 5,
+          "name": "Python",
+          "percent": 6.51,
+          "seconds": 2,
+          "text": "5 mins",
+          "total_seconds": 302.341305
+        },
+        {
+          "decimal": "0.02",
+          "digital": "0:01:37",
+          "hours": 0,
+          "minutes": 1,
+          "name": "Docker",
+          "percent": 2.1,
+          "seconds": 37,
+          "text": "1 min",
+          "total_seconds": 97.365127
+        },
+        {
+          "decimal": "0.02",
+          "digital": "0:01:26",
+          "hours": 0,
+          "minutes": 1,
+          "name": "Other",
+          "percent": 1.86,
+          "seconds": 26,
+          "text": "1 min",
+          "total_seconds": 86.254606
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:30",
+          "hours": 0,
+          "minutes": 0,
+          "name": "Bash",
+          "percent": 0.66,
+          "seconds": 30,
+          "text": "30 secs",
+          "total_seconds": 30.635503
+        }
+      ],
+      "machines": [
+        {
+          "decimal": "1.28",
+          "digital": "1:17:25",
+          "hours": 1,
+          "machine_name_id": "ad33c723-053a-4c62-a1c5-bfcd154df747",
+          "minutes": 17,
+          "name": "macs-MacBook-Pro.local",
+          "percent": 100.0,
+          "seconds": 25,
+          "text": "1 hr 17 mins",
+          "total_seconds": 4645.71502
+        }
+      ],
+      "operating_systems": [
+        {
+          "decimal": "1.28",
+          "digital": "1:17:25",
+          "hours": 1,
+          "minutes": 17,
+          "name": "Mac",
+          "percent": 100.0,
+          "seconds": 25,
+          "text": "1 hr 17 mins",
+          "total_seconds": 4645.71502
+        }
+      ],
+      "projects": [
+        {
+          "decimal": "1.27",
+          "digital": "1:16:37",
+          "hours": 1,
+          "minutes": 16,
+          "name": "oh-api",
+          "percent": 98.96,
+          "seconds": 37,
+          "text": "1 hr 16 mins",
+          "total_seconds": 4597.465629
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:48",
+          "hours": 0,
+          "minutes": 0,
+          "name": "oh-scheduler",
+          "percent": 1.04,
+          "seconds": 48,
+          "text": "48 secs",
+          "total_seconds": 48.249391
+        }
+      ],
+      "range": {
+        "date": "2023-02-12",
+        "end": "2023-02-12T18:29:59Z",
+        "start": "2023-02-11T18:30:00Z",
+        "text": "Sun Feb 12th 2023",
+        "timezone": "Asia/Kolkata"
+      }
+    }
+  ]
+}
