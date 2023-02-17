@@ -1,0 +1,568 @@
+{
+  "abhinr": [
+    {
+      "categories": [],
+      "dependencies": [],
+      "editors": [],
+      "grand_total": {
+        "decimal": "0.00",
+        "digital": "0:00",
+        "hours": 0,
+        "minutes": 0,
+        "text": "0 secs",
+        "total_seconds": 0.0
+      },
+      "languages": [],
+      "machines": [],
+      "operating_systems": [],
+      "projects": [],
+      "range": {
+        "date": "2023-02-16",
+        "end": "2023-02-16T18:29:59Z",
+        "start": "2023-02-15T18:30:00Z",
+        "text": "Thu Feb 16th 2023",
+        "timezone": "Asia/Kolkata"
+      }
+    }
+  ],
+  "oh_abhin": [
+    {
+      "categories": [
+        {
+          "decimal": "5.20",
+          "digital": "5:12:57",
+          "hours": 5,
+          "minutes": 12,
+          "name": "Coding",
+          "percent": 99.33,
+          "seconds": 57,
+          "text": "5 hrs 12 mins",
+          "total_seconds": 18777.492355
+        },
+        {
+          "decimal": "0.03",
+          "digital": "0:02:06",
+          "hours": 0,
+          "minutes": 2,
+          "name": "Debugging",
+          "percent": 0.67,
+          "seconds": 6,
+          "text": "2 mins",
+          "total_seconds": 126.90396
+        }
+      ],
+      "dependencies": [
+        {
+          "decimal": "3.85",
+          "digital": "3:51:13",
+          "hours": 3,
+          "minutes": 51,
+          "name": "apps",
+          "percent": 27.0,
+          "seconds": 13,
+          "text": "3 hrs 51 mins",
+          "total_seconds": 13873.597148
+        },
+        {
+          "decimal": "3.67",
+          "digital": "3:40:06",
+          "hours": 3,
+          "minutes": 40,
+          "name": "logging",
+          "percent": 25.71,
+          "seconds": 6,
+          "text": "3 hrs 40 mins",
+          "total_seconds": 13206.814454
+        },
+        {
+          "decimal": "2.42",
+          "digital": "2:25:43",
+          "hours": 2,
+          "minutes": 25,
+          "name": "django",
+          "percent": 17.02,
+          "seconds": 43,
+          "text": "2 hrs 25 mins",
+          "total_seconds": 8743.667094
+        },
+        {
+          "decimal": "2.15",
+          "digital": "2:09:44",
+          "hours": 2,
+          "minutes": 9,
+          "name": "rest_framework",
+          "percent": 15.15,
+          "seconds": 44,
+          "text": "2 hrs 9 mins",
+          "total_seconds": 7784.225866
+        },
+        {
+          "decimal": "1.03",
+          "digital": "1:02:16",
+          "hours": 1,
+          "minutes": 2,
+          "name": "django_filters",
+          "percent": 7.27,
+          "seconds": 16,
+          "text": "1 hr 2 mins",
+          "total_seconds": 3736.349104
+        },
+        {
+          "decimal": "0.25",
+          "digital": "0:15:06",
+          "hours": 0,
+          "minutes": 15,
+          "name": "drf_yasg",
+          "percent": 1.76,
+          "seconds": 6,
+          "text": "15 mins",
+          "total_seconds": 906.174659
+        },
+        {
+          "decimal": "0.22",
+          "digital": "0:13:20",
+          "hours": 0,
+          "minutes": 13,
+          "name": "drf_rw_serializers",
+          "percent": 1.56,
+          "seconds": 20,
+          "text": "13 mins",
+          "total_seconds": 800.771606
+        },
+        {
+          "decimal": "0.15",
+          "digital": "0:09:46",
+          "hours": 0,
+          "minutes": 9,
+          "name": "pickletools",
+          "percent": 1.14,
+          "seconds": 46,
+          "text": "9 mins",
+          "total_seconds": 586.976565
+        },
+        {
+          "decimal": "0.08",
+          "digital": "0:05:38",
+          "hours": 0,
+          "minutes": 5,
+          "name": "uuid",
+          "percent": 0.66,
+          "seconds": 38,
+          "text": "5 mins",
+          "total_seconds": 338.369856
+        },
+        {
+          "decimal": "0.08",
+          "digital": "0:05:19",
+          "hours": 0,
+          "minutes": 5,
+          "name": "json",
+          "percent": 0.62,
+          "seconds": 19,
+          "text": "5 mins",
+          "total_seconds": 319.811151
+        },
+        {
+          "decimal": "0.07",
+          "digital": "0:04:02",
+          "hours": 0,
+          "minutes": 4,
+          "name": "celery",
+          "percent": 0.47,
+          "seconds": 2,
+          "text": "4 mins",
+          "total_seconds": 242.65532
+        },
+        {
+          "decimal": "0.03",
+          "digital": "0:02:57",
+          "hours": 0,
+          "minutes": 2,
+          "name": "requests",
+          "percent": 0.35,
+          "seconds": 57,
+          "text": "2 mins",
+          "total_seconds": 177.973004
+        },
+        {
+          "decimal": "0.03",
+          "digital": "0:02:54",
+          "hours": 0,
+          "minutes": 2,
+          "name": "wsgiref",
+          "percent": 0.34,
+          "seconds": 54,
+          "text": "2 mins",
+          "total_seconds": 174.68156
+        },
+        {
+          "decimal": "0.02",
+          "digital": "0:01:03",
+          "hours": 0,
+          "minutes": 1,
+          "name": "pyotp",
+          "percent": 0.12,
+          "seconds": 3,
+          "text": "1 min",
+          "total_seconds": 63.596421
+        },
+        {
+          "decimal": "0.02",
+          "digital": "0:01:03",
+          "hours": 0,
+          "minutes": 1,
+          "name": "random",
+          "percent": 0.12,
+          "seconds": 3,
+          "text": "1 min",
+          "total_seconds": 63.11627
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:56",
+          "hours": 0,
+          "minutes": 0,
+          "name": "sentry_sdk",
+          "percent": 0.11,
+          "seconds": 56,
+          "text": "56 secs",
+          "total_seconds": 56.174584
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:35",
+          "hours": 0,
+          "minutes": 0,
+          "name": "axios",
+          "percent": 0.07,
+          "seconds": 35,
+          "text": "35 secs",
+          "total_seconds": 35.23177
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:35",
+          "hours": 0,
+          "minutes": 0,
+          "name": "auth",
+          "percent": 0.07,
+          "seconds": 35,
+          "text": "35 secs",
+          "total_seconds": 35.23177
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:35",
+          "hours": 0,
+          "minutes": 0,
+          "name": "common",
+          "percent": 0.07,
+          "seconds": 35,
+          "text": "35 secs",
+          "total_seconds": 35.23177
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:35",
+          "hours": 0,
+          "minutes": 0,
+          "name": "utils",
+          "percent": 0.07,
+          "seconds": 35,
+          "text": "35 secs",
+          "total_seconds": 35.23177
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:35",
+          "hours": 0,
+          "minutes": 0,
+          "name": "lodash",
+          "percent": 0.07,
+          "seconds": 35,
+          "text": "35 secs",
+          "total_seconds": 35.23177
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:35",
+          "hours": 0,
+          "minutes": 0,
+          "name": "constants",
+          "percent": 0.07,
+          "seconds": 35,
+          "text": "35 secs",
+          "total_seconds": 35.23177
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:35",
+          "hours": 0,
+          "minutes": 0,
+          "name": "helpers",
+          "percent": 0.07,
+          "seconds": 35,
+          "text": "35 secs",
+          "total_seconds": 35.23177
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:12",
+          "hours": 0,
+          "minutes": 0,
+          "name": "re",
+          "percent": 0.02,
+          "seconds": 12,
+          "text": "12 secs",
+          "total_seconds": 12.412852
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:10",
+          "hours": 0,
+          "minutes": 0,
+          "name": "messagebird",
+          "percent": 0.02,
+          "seconds": 10,
+          "text": "10 secs",
+          "total_seconds": 10.528149
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:06",
+          "hours": 0,
+          "minutes": 0,
+          "name": "datetime",
+          "percent": 0.01,
+          "seconds": 6,
+          "text": "6 secs",
+          "total_seconds": 6.491376
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:05",
+          "hours": 0,
+          "minutes": 0,
+          "name": "copy",
+          "percent": 0.01,
+          "seconds": 5,
+          "text": "5 secs",
+          "total_seconds": 5.30253
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:04",
+          "hours": 0,
+          "minutes": 0,
+          "name": "simple_history",
+          "percent": 0.01,
+          "seconds": 4,
+          "text": "4 secs",
+          "total_seconds": 4.253613
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:04",
+          "hours": 0,
+          "minutes": 0,
+          "name": "django_extensions",
+          "percent": 0.01,
+          "seconds": 4,
+          "text": "4 secs",
+          "total_seconds": 4.253613
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:03",
+          "hours": 0,
+          "minutes": 0,
+          "name": "xlrd",
+          "percent": 0.01,
+          "seconds": 3,
+          "text": "3 secs",
+          "total_seconds": 3.584903
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:02",
+          "hours": 0,
+          "minutes": 0,
+          "name": "openpyxl",
+          "percent": 0.0,
+          "seconds": 2,
+          "text": "2 secs",
+          "total_seconds": 2.113717
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:02",
+          "hours": 0,
+          "minutes": 0,
+          "name": "webcolors",
+          "percent": 0.0,
+          "seconds": 2,
+          "text": "2 secs",
+          "total_seconds": 2.113717
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:01",
+          "hours": 0,
+          "minutes": 0,
+          "name": "faker",
+          "percent": 0.0,
+          "seconds": 1,
+          "text": "1 sec",
+          "total_seconds": 1.464263
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:01",
+          "hours": 0,
+          "minutes": 0,
+          "name": "numpy",
+          "percent": 0.0,
+          "seconds": 1,
+          "text": "1 sec",
+          "total_seconds": 1.076641
+        }
+      ],
+      "editors": [
+        {
+          "decimal": "5.25",
+          "digital": "5:15:04",
+          "hours": 5,
+          "minutes": 15,
+          "name": "VS Code",
+          "percent": 100.0,
+          "seconds": 4,
+          "text": "5 hrs 15 mins",
+          "total_seconds": 18904.396315
+        }
+      ],
+      "grand_total": {
+        "decimal": "5.25",
+        "digital": "5:15",
+        "hours": 5,
+        "minutes": 15,
+        "text": "5 hrs 15 mins",
+        "total_seconds": 18904.396315
+      },
+      "languages": [
+        {
+          "decimal": "4.10",
+          "digital": "4:06:42",
+          "hours": 4,
+          "minutes": 6,
+          "name": "Python",
+          "percent": 78.3,
+          "seconds": 42,
+          "text": "4 hrs 6 mins",
+          "total_seconds": 14802.699488
+        },
+        {
+          "decimal": "1.05",
+          "digital": "1:03:04",
+          "hours": 1,
+          "minutes": 3,
+          "name": "Other",
+          "percent": 20.02,
+          "seconds": 4,
+          "text": "1 hr 3 mins",
+          "total_seconds": 3784.799753
+        },
+        {
+          "decimal": "0.03",
+          "digital": "0:02:58",
+          "hours": 0,
+          "minutes": 2,
+          "name": "JSON",
+          "percent": 0.94,
+          "seconds": 58,
+          "text": "2 mins",
+          "total_seconds": 178.003207
+        },
+        {
+          "decimal": "0.02",
+          "digital": "0:01:43",
+          "hours": 0,
+          "minutes": 1,
+          "name": "CSV",
+          "percent": 0.55,
+          "seconds": 43,
+          "text": "1 min",
+          "total_seconds": 103.662097
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:35",
+          "hours": 0,
+          "minutes": 0,
+          "name": "JavaScript",
+          "percent": 0.19,
+          "seconds": 35,
+          "text": "35 secs",
+          "total_seconds": 35.23177
+        }
+      ],
+      "machines": [
+        {
+          "decimal": "5.25",
+          "digital": "5:15:04",
+          "hours": 5,
+          "machine_name_id": "a75f32b6-ad81-4a60-92cb-e590ddd9b26c",
+          "minutes": 15,
+          "name": "macs-MacBook-Pro.local",
+          "percent": 100.0,
+          "seconds": 4,
+          "text": "5 hrs 15 mins",
+          "total_seconds": 18904.396315
+        }
+      ],
+      "operating_systems": [
+        {
+          "decimal": "5.25",
+          "digital": "5:15:04",
+          "hours": 5,
+          "minutes": 15,
+          "name": "Mac",
+          "percent": 100.0,
+          "seconds": 4,
+          "text": "5 hrs 15 mins",
+          "total_seconds": 18904.396315
+        }
+      ],
+      "projects": [
+        {
+          "decimal": "5.05",
+          "digital": "5:03:56",
+          "hours": 5,
+          "minutes": 3,
+          "name": "oh-api",
+          "percent": 96.47,
+          "seconds": 56,
+          "text": "5 hrs 3 mins",
+          "total_seconds": 18236.356967
+        },
+        {
+          "decimal": "0.18",
+          "digital": "0:11:08",
+          "hours": 0,
+          "minutes": 11,
+          "name": "admin-portal",
+          "percent": 3.53,
+          "seconds": 8,
+          "text": "11 mins",
+          "total_seconds": 668.039348
+        }
+      ],
+      "range": {
+        "date": "2023-02-16",
+        "end": "2023-02-16T18:29:59Z",
+        "start": "2023-02-15T18:30:00Z",
+        "text": "Thu Feb 16th 2023",
+        "timezone": "Asia/Kolkata"
+      }
+    }
+  ]
+}
