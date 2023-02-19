@@ -1,0 +1,183 @@
+{
+  "abhinr": [
+    {
+      "categories": [],
+      "dependencies": [],
+      "editors": [],
+      "grand_total": {
+        "decimal": "0.00",
+        "digital": "0:00",
+        "hours": 0,
+        "minutes": 0,
+        "text": "0 secs",
+        "total_seconds": 0.0
+      },
+      "languages": [],
+      "machines": [],
+      "operating_systems": [],
+      "projects": [],
+      "range": {
+        "date": "2023-02-18",
+        "end": "2023-02-18T18:29:59Z",
+        "start": "2023-02-17T18:30:00Z",
+        "text": "Sat Feb 18th 2023",
+        "timezone": "Asia/Kolkata"
+      }
+    }
+  ],
+  "oh_abhin": [
+    {
+      "categories": [
+        {
+          "decimal": "0.00",
+          "digital": "0:00:00",
+          "hours": 0,
+          "minutes": 0,
+          "name": "Coding",
+          "percent": 0,
+          "seconds": 0,
+          "text": "0 secs",
+          "total_seconds": 0.0
+        }
+      ],
+      "dependencies": [
+        {
+          "decimal": "0.00",
+          "digital": "0:00:00",
+          "hours": 0,
+          "minutes": 0,
+          "name": "github.com/google/uuid",
+          "percent": 0,
+          "seconds": 0,
+          "text": "0 secs",
+          "total_seconds": 0.0
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:00",
+          "hours": 0,
+          "minutes": 0,
+          "name": "oh-helios/src/core/database",
+          "percent": 0,
+          "seconds": 0,
+          "text": "0 secs",
+          "total_seconds": 0.0
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:00",
+          "hours": 0,
+          "minutes": 0,
+          "name": "oh-helios/src/core/models",
+          "percent": 0,
+          "seconds": 0,
+          "text": "0 secs",
+          "total_seconds": 0.0
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:00",
+          "hours": 0,
+          "minutes": 0,
+          "name": "oh-helios/src/functions/user-analytics/queries",
+          "percent": 0,
+          "seconds": 0,
+          "text": "0 secs",
+          "total_seconds": 0.0
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:00",
+          "hours": 0,
+          "minutes": 0,
+          "name": "oh-helios/src/core/utilities",
+          "percent": 0,
+          "seconds": 0,
+          "text": "0 secs",
+          "total_seconds": 0.0
+        }
+      ],
+      "editors": [
+        {
+          "decimal": "0.00",
+          "digital": "0:00:00",
+          "hours": 0,
+          "minutes": 0,
+          "name": "VS Code",
+          "percent": 0,
+          "seconds": 0,
+          "text": "0 secs",
+          "total_seconds": 0.0
+        }
+      ],
+      "grand_total": {
+        "decimal": "0.00",
+        "digital": "0:00",
+        "hours": 0,
+        "minutes": 0,
+        "text": "0 secs",
+        "total_seconds": 0.0
+      },
+      "languages": [
+        {
+          "decimal": "0.00",
+          "digital": "0:00:00",
+          "hours": 0,
+          "minutes": 0,
+          "name": "Go",
+          "percent": 0,
+          "seconds": 0,
+          "text": "0 secs",
+          "total_seconds": 0.0
+        }
+      ],
+      "machines": [
+        {
+          "decimal": "0.00",
+          "digital": "0:00:00",
+          "hours": 0,
+          "machine_name_id": "3e3b4156-2295-468d-bef6-0772b8665e4b",
+          "minutes": 0,
+          "name": "macs-MacBook-Pro.local",
+          "percent": 0,
+          "seconds": 0,
+          "text": "0 secs",
+          "total_seconds": 0.0
+        }
+      ],
+      "operating_systems": [
+        {
+          "decimal": "0.00",
+          "digital": "0:00:00",
+          "hours": 0,
+          "minutes": 0,
+          "name": "Mac",
+          "percent": 0,
+          "seconds": 0,
+          "text": "0 secs",
+          "total_seconds": 0.0
+        }
+      ],
+      "projects": [
+        {
+          "decimal": "0.00",
+          "digital": "0:00:00",
+          "hours": 0,
+          "minutes": 0,
+          "name": "helios",
+          "percent": 0,
+          "seconds": 0,
+          "text": "0 secs",
+          "total_seconds": 0.0
+        }
+      ],
+      "range": {
+        "date": "2023-02-18",
+        "end": "2023-02-18T18:29:59Z",
+        "start": "2023-02-17T18:30:00Z",
+        "text": "Sat Feb 18th 2023",
+        "timezone": "Asia/Kolkata"
+      }
+    }
+  ]
+}
