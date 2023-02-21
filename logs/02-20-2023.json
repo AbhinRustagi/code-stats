@@ -1,0 +1,689 @@
+{
+  "abhinr": [
+    {
+      "categories": [],
+      "dependencies": [],
+      "editors": [],
+      "grand_total": {
+        "decimal": "0.00",
+        "digital": "0:00",
+        "hours": 0,
+        "minutes": 0,
+        "text": "0 secs",
+        "total_seconds": 0.0
+      },
+      "languages": [],
+      "machines": [],
+      "operating_systems": [],
+      "projects": [],
+      "range": {
+        "date": "2023-02-20",
+        "end": "2023-02-20T18:29:59Z",
+        "start": "2023-02-19T18:30:00Z",
+        "text": "Mon Feb 20th 2023",
+        "timezone": "Asia/Kolkata"
+      }
+    }
+  ],
+  "oh_abhin": [
+    {
+      "categories": [
+        {
+          "decimal": "2.42",
+          "digital": "2:25:46",
+          "hours": 2,
+          "minutes": 25,
+          "name": "Coding",
+          "percent": 100.0,
+          "seconds": 46,
+          "text": "2 hrs 25 mins",
+          "total_seconds": 8746.507633
+        }
+      ],
+      "dependencies": [
+        {
+          "decimal": "1.30",
+          "digital": "1:18:47",
+          "hours": 1,
+          "minutes": 18,
+          "name": "apps",
+          "percent": 14.06,
+          "seconds": 47,
+          "text": "1 hr 18 mins",
+          "total_seconds": 4727.791902
+        },
+        {
+          "decimal": "1.30",
+          "digital": "1:18:16",
+          "hours": 1,
+          "minutes": 18,
+          "name": "django",
+          "percent": 13.97,
+          "seconds": 16,
+          "text": "1 hr 18 mins",
+          "total_seconds": 4696.327546
+        },
+        {
+          "decimal": "1.22",
+          "digital": "1:13:36",
+          "hours": 1,
+          "minutes": 13,
+          "name": "logging",
+          "percent": 13.14,
+          "seconds": 36,
+          "text": "1 hr 13 mins",
+          "total_seconds": 4416.778747
+        },
+        {
+          "decimal": "1.15",
+          "digital": "1:09:13",
+          "hours": 1,
+          "minutes": 9,
+          "name": "celery",
+          "percent": 12.35,
+          "seconds": 13,
+          "text": "1 hr 9 mins",
+          "total_seconds": 4153.379422
+        },
+        {
+          "decimal": "0.92",
+          "digital": "0:55:50",
+          "hours": 0,
+          "minutes": 55,
+          "name": "json",
+          "percent": 9.97,
+          "seconds": 50,
+          "text": "55 mins",
+          "total_seconds": 3350.621648
+        },
+        {
+          "decimal": "0.92",
+          "digital": "0:55:17",
+          "hours": 0,
+          "minutes": 55,
+          "name": "datetime",
+          "percent": 9.87,
+          "seconds": 17,
+          "text": "55 mins",
+          "total_seconds": 3317.059064
+        },
+        {
+          "decimal": "0.57",
+          "digital": "0:34:27",
+          "hours": 0,
+          "minutes": 34,
+          "name": "uuid",
+          "percent": 6.15,
+          "seconds": 27,
+          "text": "34 mins",
+          "total_seconds": 2067.848969
+        },
+        {
+          "decimal": "0.48",
+          "digital": "0:29:04",
+          "hours": 0,
+          "minutes": 29,
+          "name": "copy",
+          "percent": 5.19,
+          "seconds": 4,
+          "text": "29 mins",
+          "total_seconds": 1744.371669
+        },
+        {
+          "decimal": "0.37",
+          "digital": "0:22:00",
+          "hours": 0,
+          "minutes": 22,
+          "name": "pytz",
+          "percent": 3.93,
+          "seconds": 0,
+          "text": "22 mins",
+          "total_seconds": 1320.663331
+        },
+        {
+          "decimal": "0.25",
+          "digital": "0:15:26",
+          "hours": 0,
+          "minutes": 15,
+          "name": "oh-helios/src/core/config",
+          "percent": 2.76,
+          "seconds": 26,
+          "text": "15 mins",
+          "total_seconds": 926.328629
+        },
+        {
+          "decimal": "0.22",
+          "digital": "0:13:55",
+          "hours": 0,
+          "minutes": 13,
+          "name": "rest_framework",
+          "percent": 2.48,
+          "seconds": 55,
+          "text": "13 mins",
+          "total_seconds": 835.343005
+        },
+        {
+          "decimal": "0.13",
+          "digital": "0:08:53",
+          "hours": 0,
+          "minutes": 8,
+          "name": "encoding/base64",
+          "percent": 1.59,
+          "seconds": 53,
+          "text": "8 mins",
+          "total_seconds": 533.386174
+        },
+        {
+          "decimal": "0.05",
+          "digital": "0:03:16",
+          "hours": 0,
+          "minutes": 3,
+          "name": "django_extensions",
+          "percent": 0.59,
+          "seconds": 16,
+          "text": "3 mins",
+          "total_seconds": 196.926599
+        },
+        {
+          "decimal": "0.05",
+          "digital": "0:03:16",
+          "hours": 0,
+          "minutes": 3,
+          "name": "jsonfield",
+          "percent": 0.59,
+          "seconds": 16,
+          "text": "3 mins",
+          "total_seconds": 196.926599
+        },
+        {
+          "decimal": "0.05",
+          "digital": "0:03:16",
+          "hours": 0,
+          "minutes": 3,
+          "name": "simple_history",
+          "percent": 0.59,
+          "seconds": 16,
+          "text": "3 mins",
+          "total_seconds": 196.926599
+        },
+        {
+          "decimal": "0.03",
+          "digital": "0:02:46",
+          "hours": 0,
+          "minutes": 2,
+          "name": "oh-helios/src/core/constants",
+          "percent": 0.5,
+          "seconds": 46,
+          "text": "2 mins",
+          "total_seconds": 166.676167
+        },
+        {
+          "decimal": "0.02",
+          "digital": "0:01:48",
+          "hours": 0,
+          "minutes": 1,
+          "name": "oh-helios/src/core/utilities",
+          "percent": 0.32,
+          "seconds": 48,
+          "text": "1 min",
+          "total_seconds": 108.213135
+        },
+        {
+          "decimal": "0.02",
+          "digital": "0:01:39",
+          "hours": 0,
+          "minutes": 1,
+          "name": "oh-helios/src/core/services",
+          "percent": 0.3,
+          "seconds": 39,
+          "text": "1 min",
+          "total_seconds": 99.328516
+        },
+        {
+          "decimal": "0.02",
+          "digital": "0:01:10",
+          "hours": 0,
+          "minutes": 1,
+          "name": "github.com/spf13/cast",
+          "percent": 0.21,
+          "seconds": 10,
+          "text": "1 min",
+          "total_seconds": 70.891763
+        },
+        {
+          "decimal": "0.02",
+          "digital": "0:01:10",
+          "hours": 0,
+          "minutes": 1,
+          "name": "strings",
+          "percent": 0.21,
+          "seconds": 10,
+          "text": "1 min",
+          "total_seconds": 70.891763
+        },
+        {
+          "decimal": "0.02",
+          "digital": "0:01:04",
+          "hours": 0,
+          "minutes": 1,
+          "name": "django_filters",
+          "percent": 0.19,
+          "seconds": 4,
+          "text": "1 min",
+          "total_seconds": 64.072781
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:42",
+          "hours": 0,
+          "minutes": 0,
+          "name": "oh-helios/src/functions/user-analytics/handlers",
+          "percent": 0.13,
+          "seconds": 42,
+          "text": "42 secs",
+          "total_seconds": 42.236417
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:37",
+          "hours": 0,
+          "minutes": 0,
+          "name": "oh-helios/src/core/database",
+          "percent": 0.11,
+          "seconds": 37,
+          "text": "37 secs",
+          "total_seconds": 37.321372
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:37",
+          "hours": 0,
+          "minutes": 0,
+          "name": "oh-helios/src/core/models",
+          "percent": 0.11,
+          "seconds": 37,
+          "text": "37 secs",
+          "total_seconds": 37.321372
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:30",
+          "hours": 0,
+          "minutes": 0,
+          "name": "github.com/aws/aws-lambda-go/lambda",
+          "percent": 0.09,
+          "seconds": 30,
+          "text": "30 secs",
+          "total_seconds": 30.599843
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:27",
+          "hours": 0,
+          "minutes": 0,
+          "name": "net/http",
+          "percent": 0.08,
+          "seconds": 27,
+          "text": "27 secs",
+          "total_seconds": 27.816019
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:27",
+          "hours": 0,
+          "minutes": 0,
+          "name": "encoding/json",
+          "percent": 0.08,
+          "seconds": 27,
+          "text": "27 secs",
+          "total_seconds": 27.816019
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:26",
+          "hours": 0,
+          "minutes": 0,
+          "name": "github.com/aws/aws-lambda-go/events",
+          "percent": 0.08,
+          "seconds": 26,
+          "text": "26 secs",
+          "total_seconds": 26.206451
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:24",
+          "hours": 0,
+          "minutes": 0,
+          "name": "messagebird",
+          "percent": 0.07,
+          "seconds": 24,
+          "text": "24 secs",
+          "total_seconds": 24.831671
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:15",
+          "hours": 0,
+          "minutes": 0,
+          "name": "requests",
+          "percent": 0.05,
+          "seconds": 15,
+          "text": "15 secs",
+          "total_seconds": 15.962201
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:15",
+          "hours": 0,
+          "minutes": 0,
+          "name": "drf_yasg",
+          "percent": 0.05,
+          "seconds": 15,
+          "text": "15 secs",
+          "total_seconds": 15.84258
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:15",
+          "hours": 0,
+          "minutes": 0,
+          "name": "github.com/google/uuid",
+          "percent": 0.05,
+          "seconds": 15,
+          "text": "15 secs",
+          "total_seconds": 15.35847
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:12",
+          "hours": 0,
+          "minutes": 0,
+          "name": "drf_rw_serializers",
+          "percent": 0.04,
+          "seconds": 12,
+          "text": "12 secs",
+          "total_seconds": 12.022192
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:11",
+          "hours": 0,
+          "minutes": 0,
+          "name": "oh-helios/src/functions/user-analytics/queries",
+          "percent": 0.03,
+          "seconds": 11,
+          "text": "11 secs",
+          "total_seconds": 11.114921
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:07",
+          "hours": 0,
+          "minutes": 0,
+          "name": "oh-helios/src/functions/user-event/crud",
+          "percent": 0.02,
+          "seconds": 7,
+          "text": "7 secs",
+          "total_seconds": 7.988941
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:04",
+          "hours": 0,
+          "minutes": 0,
+          "name": "pyotp",
+          "percent": 0.01,
+          "seconds": 4,
+          "text": "4 secs",
+          "total_seconds": 4.364924
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:04",
+          "hours": 0,
+          "minutes": 0,
+          "name": "time",
+          "percent": 0.01,
+          "seconds": 4,
+          "text": "4 secs",
+          "total_seconds": 4.243549
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:03",
+          "hours": 0,
+          "minutes": 0,
+          "name": "github.com/jackc/pgtype",
+          "percent": 0.01,
+          "seconds": 3,
+          "text": "3 secs",
+          "total_seconds": 3.807041
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:02",
+          "hours": 0,
+          "minutes": 0,
+          "name": "googlemaps",
+          "percent": 0.01,
+          "seconds": 2,
+          "text": "2 secs",
+          "total_seconds": 2.690516
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:01",
+          "hours": 0,
+          "minutes": 0,
+          "name": "random",
+          "percent": 0.01,
+          "seconds": 1,
+          "text": "1 sec",
+          "total_seconds": 1.794649
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:01",
+          "hours": 0,
+          "minutes": 0,
+          "name": "string",
+          "percent": 0.01,
+          "seconds": 1,
+          "text": "1 sec",
+          "total_seconds": 1.794649
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:01",
+          "hours": 0,
+          "minutes": 0,
+          "name": "bytes",
+          "percent": 0.0,
+          "seconds": 1,
+          "text": "1 sec",
+          "total_seconds": 1.609568
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:01",
+          "hours": 0,
+          "minutes": 0,
+          "name": "oh-helios/src/functions/lead-updated/crud",
+          "percent": 0.0,
+          "seconds": 1,
+          "text": "1 sec",
+          "total_seconds": 1.239803
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:00",
+          "hours": 0,
+          "minutes": 0,
+          "name": "xlrd",
+          "percent": 0.0,
+          "seconds": 0,
+          "text": "0 secs",
+          "total_seconds": 0.965792
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:00",
+          "hours": 0,
+          "minutes": 0,
+          "name": "openpyxl",
+          "percent": 0.0,
+          "seconds": 0,
+          "text": "0 secs",
+          "total_seconds": 0.965792
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:00",
+          "hours": 0,
+          "minutes": 0,
+          "name": "unittest",
+          "percent": 0.0,
+          "seconds": 0,
+          "text": "0 secs",
+          "total_seconds": 0.965792
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:00",
+          "hours": 0,
+          "minutes": 0,
+          "name": "webcolors",
+          "percent": 0.0,
+          "seconds": 0,
+          "text": "0 secs",
+          "total_seconds": 0.965792
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:00",
+          "hours": 0,
+          "minutes": 0,
+          "name": "channels",
+          "percent": 0.0,
+          "seconds": 0,
+          "text": "0 secs",
+          "total_seconds": 0.809049
+        }
+      ],
+      "editors": [
+        {
+          "decimal": "2.42",
+          "digital": "2:25:46",
+          "hours": 2,
+          "minutes": 25,
+          "name": "VS Code",
+          "percent": 100.0,
+          "seconds": 46,
+          "text": "2 hrs 25 mins",
+          "total_seconds": 8746.507633
+        }
+      ],
+      "grand_total": {
+        "decimal": "2.42",
+        "digital": "2:25",
+        "hours": 2,
+        "minutes": 25,
+        "text": "2 hrs 25 mins",
+        "total_seconds": 8746.507633
+      },
+      "languages": [
+        {
+          "decimal": "1.70",
+          "digital": "1:42:44",
+          "hours": 1,
+          "minutes": 42,
+          "name": "Python",
+          "percent": 70.48,
+          "seconds": 44,
+          "text": "1 hr 42 mins",
+          "total_seconds": 6164.526845
+        },
+        {
+          "decimal": "0.67",
+          "digital": "0:40:12",
+          "hours": 0,
+          "minutes": 40,
+          "name": "Go",
+          "percent": 27.58,
+          "seconds": 12,
+          "text": "40 mins",
+          "total_seconds": 2412.531554
+        },
+        {
+          "decimal": "0.03",
+          "digital": "0:02:49",
+          "hours": 0,
+          "minutes": 2,
+          "name": "YAML",
+          "percent": 1.94,
+          "seconds": 49,
+          "text": "2 mins",
+          "total_seconds": 169.449234
+        }
+      ],
+      "machines": [
+        {
+          "decimal": "2.42",
+          "digital": "2:25:46",
+          "hours": 2,
+          "machine_name_id": "09e98481-9fdf-41f7-a9ef-b36c31194941",
+          "minutes": 25,
+          "name": "macs-MacBook-Pro.local",
+          "percent": 100.0,
+          "seconds": 46,
+          "text": "2 hrs 25 mins",
+          "total_seconds": 8746.507633
+        }
+      ],
+      "operating_systems": [
+        {
+          "decimal": "2.42",
+          "digital": "2:25:46",
+          "hours": 2,
+          "minutes": 25,
+          "name": "Mac",
+          "percent": 100.0,
+          "seconds": 46,
+          "text": "2 hrs 25 mins",
+          "total_seconds": 8746.507633
+        }
+      ],
+      "projects": [
+        {
+          "decimal": "1.70",
+          "digital": "1:42:44",
+          "hours": 1,
+          "minutes": 42,
+          "name": "oh-api",
+          "percent": 70.48,
+          "seconds": 44,
+          "text": "1 hr 42 mins",
+          "total_seconds": 6164.526845
+        },
+        {
+          "decimal": "0.72",
+          "digital": "0:43:01",
+          "hours": 0,
+          "minutes": 43,
+          "name": "helios",
+          "percent": 29.52,
+          "seconds": 1,
+          "text": "43 mins",
+          "total_seconds": 2581.980788
+        }
+      ],
+      "range": {
+        "date": "2023-02-20",
+        "end": "2023-02-20T18:29:59Z",
+        "start": "2023-02-19T18:30:00Z",
+        "text": "Mon Feb 20th 2023",
+        "timezone": "Asia/Kolkata"
+      }
+    }
+  ]
+}
