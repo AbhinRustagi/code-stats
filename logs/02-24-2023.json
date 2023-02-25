@@ -1,0 +1,227 @@
+{
+  "abhinr": [
+    {
+      "categories": [],
+      "dependencies": [],
+      "editors": [],
+      "grand_total": {
+        "decimal": "0.00",
+        "digital": "0:00",
+        "hours": 0,
+        "minutes": 0,
+        "text": "0 secs",
+        "total_seconds": 0.0
+      },
+      "languages": [],
+      "machines": [],
+      "operating_systems": [],
+      "projects": [],
+      "range": {
+        "date": "2023-02-24",
+        "end": "2023-02-24T18:29:59Z",
+        "start": "2023-02-23T18:30:00Z",
+        "text": "Fri Feb 24th 2023",
+        "timezone": "Asia/Kolkata"
+      }
+    }
+  ],
+  "oh_abhin": [
+    {
+      "categories": [
+        {
+          "decimal": "0.15",
+          "digital": "0:09:25",
+          "hours": 0,
+          "minutes": 9,
+          "name": "Coding",
+          "percent": 100.0,
+          "seconds": 25,
+          "text": "9 mins",
+          "total_seconds": 565.218499
+        }
+      ],
+      "dependencies": [
+        {
+          "decimal": "0.12",
+          "digital": "0:07:08",
+          "hours": 0,
+          "minutes": 7,
+          "name": "common",
+          "percent": 47.02,
+          "seconds": 8,
+          "text": "7 mins",
+          "total_seconds": 428.541956
+        },
+        {
+          "decimal": "0.10",
+          "digital": "0:06:18",
+          "hours": 0,
+          "minutes": 6,
+          "name": "app.service",
+          "percent": 41.52,
+          "seconds": 18,
+          "text": "6 mins",
+          "total_seconds": 378.463198
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:40",
+          "hours": 0,
+          "minutes": 0,
+          "name": "core",
+          "percent": 4.42,
+          "seconds": 40,
+          "text": "40 secs",
+          "total_seconds": 40.240656
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:40",
+          "hours": 0,
+          "minutes": 0,
+          "name": "app.module",
+          "percent": 4.42,
+          "seconds": 40,
+          "text": "40 secs",
+          "total_seconds": 40.240656
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:18",
+          "hours": 0,
+          "minutes": 0,
+          "name": "app.controller",
+          "percent": 2.06,
+          "seconds": 18,
+          "text": "18 secs",
+          "total_seconds": 18.781562
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:05",
+          "hours": 0,
+          "minutes": 0,
+          "name": "testing",
+          "percent": 0.57,
+          "seconds": 5,
+          "text": "5 secs",
+          "total_seconds": 5.172247
+        }
+      ],
+      "editors": [
+        {
+          "decimal": "0.15",
+          "digital": "0:09:25",
+          "hours": 0,
+          "minutes": 9,
+          "name": "VS Code",
+          "percent": 100.0,
+          "seconds": 25,
+          "text": "9 mins",
+          "total_seconds": 565.218499
+        }
+      ],
+      "grand_total": {
+        "decimal": "0.15",
+        "digital": "0:09",
+        "hours": 0,
+        "minutes": 9,
+        "text": "9 mins",
+        "total_seconds": 565.218499
+      },
+      "languages": [
+        {
+          "decimal": "0.12",
+          "digital": "0:07:53",
+          "hours": 0,
+          "minutes": 7,
+          "name": "TypeScript",
+          "percent": 83.85,
+          "seconds": 53,
+          "text": "7 mins",
+          "total_seconds": 473.954859
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:47",
+          "hours": 0,
+          "minutes": 0,
+          "name": "Other",
+          "percent": 8.42,
+          "seconds": 47,
+          "text": "47 secs",
+          "total_seconds": 47.604776
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:31",
+          "hours": 0,
+          "minutes": 0,
+          "name": "Markdown",
+          "percent": 5.58,
+          "seconds": 31,
+          "text": "31 secs",
+          "total_seconds": 31.513974
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:12",
+          "hours": 0,
+          "minutes": 0,
+          "name": "JavaScript",
+          "percent": 2.15,
+          "seconds": 12,
+          "text": "12 secs",
+          "total_seconds": 12.14489
+        }
+      ],
+      "machines": [
+        {
+          "decimal": "0.15",
+          "digital": "0:09:25",
+          "hours": 0,
+          "machine_name_id": "435232ff-682f-461b-9203-a1fc297e8bca",
+          "minutes": 9,
+          "name": "macs-MacBook-Pro.local",
+          "percent": 100.0,
+          "seconds": 25,
+          "text": "9 mins",
+          "total_seconds": 565.218499
+        }
+      ],
+      "operating_systems": [
+        {
+          "decimal": "0.15",
+          "digital": "0:09:25",
+          "hours": 0,
+          "minutes": 9,
+          "name": "Mac",
+          "percent": 100.0,
+          "seconds": 25,
+          "text": "9 mins",
+          "total_seconds": 565.218499
+        }
+      ],
+      "projects": [
+        {
+          "decimal": "0.15",
+          "digital": "0:09:25",
+          "hours": 0,
+          "minutes": 9,
+          "name": "pixelink-api",
+          "percent": 100.0,
+          "seconds": 25,
+          "text": "9 mins",
+          "total_seconds": 565.218499
+        }
+      ],
+      "range": {
+        "date": "2023-02-24",
+        "end": "2023-02-24T18:29:59Z",
+        "start": "2023-02-23T18:30:00Z",
+        "text": "Fri Feb 24th 2023",
+        "timezone": "Asia/Kolkata"
+      }
+    }
+  ]
+}
