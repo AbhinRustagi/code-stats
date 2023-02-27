@@ -1,0 +1,216 @@
+{
+  "abhinr": [
+    {
+      "categories": [],
+      "dependencies": [],
+      "editors": [],
+      "grand_total": {
+        "decimal": "0.00",
+        "digital": "0:00",
+        "hours": 0,
+        "minutes": 0,
+        "text": "0 secs",
+        "total_seconds": 0.0
+      },
+      "languages": [],
+      "machines": [],
+      "operating_systems": [],
+      "projects": [],
+      "range": {
+        "date": "2023-02-26",
+        "end": "2023-02-26T18:29:59Z",
+        "start": "2023-02-25T18:30:00Z",
+        "text": "Sun Feb 26th 2023",
+        "timezone": "Asia/Kolkata"
+      }
+    }
+  ],
+  "oh_abhin": [
+    {
+      "categories": [
+        {
+          "decimal": "0.62",
+          "digital": "0:37:26",
+          "hours": 0,
+          "minutes": 37,
+          "name": "Coding",
+          "percent": 100.0,
+          "seconds": 26,
+          "text": "37 mins",
+          "total_seconds": 2246.316193
+        }
+      ],
+      "dependencies": [
+        {
+          "decimal": "0.03",
+          "digital": "0:02:21",
+          "hours": 0,
+          "minutes": 2,
+          "name": "uuid",
+          "percent": 19.72,
+          "seconds": 21,
+          "text": "2 mins",
+          "total_seconds": 141.82369
+        },
+        {
+          "decimal": "0.03",
+          "digital": "0:02:21",
+          "hours": 0,
+          "minutes": 2,
+          "name": "simple_history",
+          "percent": 19.72,
+          "seconds": 21,
+          "text": "2 mins",
+          "total_seconds": 141.82369
+        },
+        {
+          "decimal": "0.03",
+          "digital": "0:02:21",
+          "hours": 0,
+          "minutes": 2,
+          "name": "django_extensions",
+          "percent": 19.72,
+          "seconds": 21,
+          "text": "2 mins",
+          "total_seconds": 141.82369
+        },
+        {
+          "decimal": "0.03",
+          "digital": "0:02:21",
+          "hours": 0,
+          "minutes": 2,
+          "name": "apps",
+          "percent": 19.72,
+          "seconds": 21,
+          "text": "2 mins",
+          "total_seconds": 141.82369
+        },
+        {
+          "decimal": "0.03",
+          "digital": "0:02:21",
+          "hours": 0,
+          "minutes": 2,
+          "name": "django",
+          "percent": 19.72,
+          "seconds": 21,
+          "text": "2 mins",
+          "total_seconds": 141.82369
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:10",
+          "hours": 0,
+          "minutes": 0,
+          "name": "datetime",
+          "percent": 1.39,
+          "seconds": 10,
+          "text": "10 secs",
+          "total_seconds": 10.022231
+        }
+      ],
+      "editors": [
+        {
+          "decimal": "0.62",
+          "digital": "0:37:26",
+          "hours": 0,
+          "minutes": 37,
+          "name": "VS Code",
+          "percent": 100.0,
+          "seconds": 26,
+          "text": "37 mins",
+          "total_seconds": 2246.316193
+        }
+      ],
+      "grand_total": {
+        "decimal": "0.62",
+        "digital": "0:37",
+        "hours": 0,
+        "minutes": 37,
+        "text": "37 mins",
+        "total_seconds": 2246.316193
+      },
+      "languages": [
+        {
+          "decimal": "0.58",
+          "digital": "0:35:04",
+          "hours": 0,
+          "minutes": 35,
+          "name": "Other",
+          "percent": 93.69,
+          "seconds": 4,
+          "text": "35 mins",
+          "total_seconds": 2104.492503
+        },
+        {
+          "decimal": "0.03",
+          "digital": "0:02:21",
+          "hours": 0,
+          "minutes": 2,
+          "name": "Python",
+          "percent": 6.31,
+          "seconds": 21,
+          "text": "2 mins",
+          "total_seconds": 141.82369
+        }
+      ],
+      "machines": [
+        {
+          "decimal": "0.62",
+          "digital": "0:37:26",
+          "hours": 0,
+          "machine_name_id": "01c14641-539b-406e-a418-d1da2bdfa7d3",
+          "minutes": 37,
+          "name": "macs-MacBook-Pro.local",
+          "percent": 100.0,
+          "seconds": 26,
+          "text": "37 mins",
+          "total_seconds": 2246.316193
+        }
+      ],
+      "operating_systems": [
+        {
+          "decimal": "0.62",
+          "digital": "0:37:26",
+          "hours": 0,
+          "minutes": 37,
+          "name": "Mac",
+          "percent": 100.0,
+          "seconds": 26,
+          "text": "37 mins",
+          "total_seconds": 2246.316193
+        }
+      ],
+      "projects": [
+        {
+          "decimal": "0.42",
+          "digital": "0:25:46",
+          "hours": 0,
+          "minutes": 25,
+          "name": "oh-api",
+          "percent": 68.83,
+          "seconds": 46,
+          "text": "25 mins",
+          "total_seconds": 1546.154202
+        },
+        {
+          "decimal": "0.18",
+          "digital": "0:11:40",
+          "hours": 0,
+          "minutes": 11,
+          "name": "abhin.dev",
+          "percent": 31.17,
+          "seconds": 40,
+          "text": "11 mins",
+          "total_seconds": 700.161991
+        }
+      ],
+      "range": {
+        "date": "2023-02-26",
+        "end": "2023-02-26T18:29:59Z",
+        "start": "2023-02-25T18:30:00Z",
+        "text": "Sun Feb 26th 2023",
+        "timezone": "Asia/Kolkata"
+      }
+    }
+  ]
+}
