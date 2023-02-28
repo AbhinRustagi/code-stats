@@ -57,7 +57,7 @@ def combine_user_summaries():
 
         print(f"adding stats for {username}")
 
-        combined_stats.update({
+        summaries.update({
             username: stats
         })
     return summaries
