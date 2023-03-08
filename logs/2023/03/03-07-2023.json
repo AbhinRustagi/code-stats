@@ -1,0 +1,458 @@
+{
+  "abhinr": [
+    {
+      "categories": [
+        {
+          "decimal": "0.70",
+          "digital": "0:42:23",
+          "hours": 0,
+          "minutes": 42,
+          "name": "Coding",
+          "percent": 100.0,
+          "seconds": 23,
+          "text": "42 mins",
+          "total_seconds": 2543.033314
+        }
+      ],
+      "dependencies": [
+        {
+          "decimal": "0.42",
+          "digital": "0:25:26",
+          "hours": 0,
+          "minutes": 25,
+          "name": "sync",
+          "percent": 10.82,
+          "seconds": 26,
+          "text": "25 mins",
+          "total_seconds": 1526.329507
+        },
+        {
+          "decimal": "0.38",
+          "digital": "0:23:09",
+          "hours": 0,
+          "minutes": 23,
+          "name": "oh-helios/src/core/services",
+          "percent": 9.85,
+          "seconds": 9,
+          "text": "23 mins",
+          "total_seconds": 1389.834656
+        },
+        {
+          "decimal": "0.22",
+          "digital": "0:13:34",
+          "hours": 0,
+          "minutes": 13,
+          "name": "oh-helios/src/core/utilities",
+          "percent": 5.77,
+          "seconds": 34,
+          "text": "13 mins",
+          "total_seconds": 814.236504
+        },
+        {
+          "decimal": "0.22",
+          "digital": "0:13:34",
+          "hours": 0,
+          "minutes": 13,
+          "name": "net/http",
+          "percent": 5.77,
+          "seconds": 34,
+          "text": "13 mins",
+          "total_seconds": 814.236504
+        },
+        {
+          "decimal": "0.22",
+          "digital": "0:13:34",
+          "hours": 0,
+          "minutes": 13,
+          "name": "oh-helios/src/core/database",
+          "percent": 5.77,
+          "seconds": 34,
+          "text": "13 mins",
+          "total_seconds": 814.236504
+        },
+        {
+          "decimal": "0.22",
+          "digital": "0:13:34",
+          "hours": 0,
+          "minutes": 13,
+          "name": "strings",
+          "percent": 5.77,
+          "seconds": 34,
+          "text": "13 mins",
+          "total_seconds": 814.236504
+        },
+        {
+          "decimal": "0.22",
+          "digital": "0:13:34",
+          "hours": 0,
+          "minutes": 13,
+          "name": "oh-helios/src/functions/user-sync/queries",
+          "percent": 5.77,
+          "seconds": 34,
+          "text": "13 mins",
+          "total_seconds": 814.236504
+        },
+        {
+          "decimal": "0.22",
+          "digital": "0:13:26",
+          "hours": 0,
+          "minutes": 13,
+          "name": "encoding/json",
+          "percent": 5.72,
+          "seconds": 26,
+          "text": "13 mins",
+          "total_seconds": 806.689056
+        },
+        {
+          "decimal": "0.22",
+          "digital": "0:13:17",
+          "hours": 0,
+          "minutes": 13,
+          "name": "github.com/aws/aws-lambda-go/events",
+          "percent": 5.65,
+          "seconds": 17,
+          "text": "13 mins",
+          "total_seconds": 797.792121
+        },
+        {
+          "decimal": "0.18",
+          "digital": "0:11:52",
+          "hours": 0,
+          "minutes": 11,
+          "name": "oh-helios/src/core/config",
+          "percent": 5.05,
+          "seconds": 52,
+          "text": "11 mins",
+          "total_seconds": 712.093003
+        },
+        {
+          "decimal": "0.18",
+          "digital": "0:11:52",
+          "hours": 0,
+          "minutes": 11,
+          "name": "log",
+          "percent": 5.05,
+          "seconds": 52,
+          "text": "11 mins",
+          "total_seconds": 712.093003
+        },
+        {
+          "decimal": "0.15",
+          "digital": "0:09:30",
+          "hours": 0,
+          "minutes": 9,
+          "name": "oh-helios/src/functions/user-sync/crud",
+          "percent": 4.04,
+          "seconds": 30,
+          "text": "9 mins",
+          "total_seconds": 570.280119
+        },
+        {
+          "decimal": "0.15",
+          "digital": "0:09:14",
+          "hours": 0,
+          "minutes": 9,
+          "name": "github.com/aws/aws-lambda-go/lambda",
+          "percent": 3.93,
+          "seconds": 14,
+          "text": "9 mins",
+          "total_seconds": 554.240914
+        },
+        {
+          "decimal": "0.10",
+          "digital": "0:06:38",
+          "hours": 0,
+          "minutes": 6,
+          "name": "material",
+          "percent": 2.82,
+          "seconds": 38,
+          "text": "6 mins",
+          "total_seconds": 398.058145
+        },
+        {
+          "decimal": "0.10",
+          "digital": "0:06:38",
+          "hours": 0,
+          "minutes": 6,
+          "name": "types",
+          "percent": 2.82,
+          "seconds": 38,
+          "text": "6 mins",
+          "total_seconds": 398.058145
+        },
+        {
+          "decimal": "0.10",
+          "digital": "0:06:38",
+          "hours": 0,
+          "minutes": 6,
+          "name": "react",
+          "percent": 2.82,
+          "seconds": 38,
+          "text": "6 mins",
+          "total_seconds": 398.058145
+        },
+        {
+          "decimal": "0.10",
+          "digital": "0:06:38",
+          "hours": 0,
+          "minutes": 6,
+          "name": "image",
+          "percent": 2.82,
+          "seconds": 38,
+          "text": "6 mins",
+          "total_seconds": 398.058145
+        },
+        {
+          "decimal": "0.08",
+          "digital": "0:05:35",
+          "hours": 0,
+          "minutes": 5,
+          "name": "theme",
+          "percent": 2.38,
+          "seconds": 35,
+          "text": "5 mins",
+          "total_seconds": 335.444999
+        },
+        {
+          "decimal": "0.08",
+          "digital": "0:05:33",
+          "hours": 0,
+          "minutes": 5,
+          "name": "encoding/base64",
+          "percent": 2.36,
+          "seconds": 33,
+          "text": "5 mins",
+          "total_seconds": 333.596059
+        },
+        {
+          "decimal": "0.08",
+          "digital": "0:05:29",
+          "hours": 0,
+          "minutes": 5,
+          "name": "net/url",
+          "percent": 2.33,
+          "seconds": 29,
+          "text": "5 mins",
+          "total_seconds": 329.111906
+        },
+        {
+          "decimal": "0.02",
+          "digital": "0:01:02",
+          "hours": 0,
+          "minutes": 1,
+          "name": "Check-Circle-Large",
+          "percent": 0.44,
+          "seconds": 2,
+          "text": "1 min",
+          "total_seconds": 62.613146
+        },
+        {
+          "decimal": "0.02",
+          "digital": "0:01:02",
+          "hours": 0,
+          "minutes": 1,
+          "name": "hygraph",
+          "percent": 0.44,
+          "seconds": 2,
+          "text": "1 min",
+          "total_seconds": 62.613146
+        },
+        {
+          "decimal": "0.02",
+          "digital": "0:01:02",
+          "hours": 0,
+          "minutes": 1,
+          "name": "PageElements",
+          "percent": 0.44,
+          "seconds": 2,
+          "text": "1 min",
+          "total_seconds": 62.613146
+        },
+        {
+          "decimal": "0.02",
+          "digital": "0:01:02",
+          "hours": 0,
+          "minutes": 1,
+          "name": "Button",
+          "percent": 0.44,
+          "seconds": 2,
+          "text": "1 min",
+          "total_seconds": 62.613146
+        },
+        {
+          "decimal": "0.02",
+          "digital": "0:01:02",
+          "hours": 0,
+          "minutes": 1,
+          "name": "colors",
+          "percent": 0.44,
+          "seconds": 2,
+          "text": "1 min",
+          "total_seconds": 62.613146
+        },
+        {
+          "decimal": "0.02",
+          "digital": "0:01:02",
+          "hours": 0,
+          "minutes": 1,
+          "name": "TeamMembersList",
+          "percent": 0.44,
+          "seconds": 2,
+          "text": "1 min",
+          "total_seconds": 62.613146
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:05",
+          "hours": 0,
+          "minutes": 0,
+          "name": "oh-helios/src/functions/user-analytics/handlers",
+          "percent": 0.04,
+          "seconds": 5,
+          "text": "5 secs",
+          "total_seconds": 5.318033
+        }
+      ],
+      "editors": [
+        {
+          "decimal": "0.70",
+          "digital": "0:42:23",
+          "hours": 0,
+          "minutes": 42,
+          "name": "VS Code",
+          "percent": 100.0,
+          "seconds": 23,
+          "text": "42 mins",
+          "total_seconds": 2543.033314
+        }
+      ],
+      "grand_total": {
+        "decimal": "0.70",
+        "digital": "0:42",
+        "hours": 0,
+        "minutes": 42,
+        "text": "42 mins",
+        "total_seconds": 2543.033314
+      },
+      "languages": [
+        {
+          "decimal": "0.58",
+          "digital": "0:35:36",
+          "hours": 0,
+          "minutes": 35,
+          "name": "Go",
+          "percent": 84.03,
+          "seconds": 36,
+          "text": "35 mins",
+          "total_seconds": 2136.936226
+        },
+        {
+          "decimal": "0.10",
+          "digital": "0:06:38",
+          "hours": 0,
+          "minutes": 6,
+          "name": "TypeScript",
+          "percent": 15.65,
+          "seconds": 38,
+          "text": "6 mins",
+          "total_seconds": 398.058145
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:08",
+          "hours": 0,
+          "minutes": 0,
+          "name": "Markdown",
+          "percent": 0.32,
+          "seconds": 8,
+          "text": "8 secs",
+          "total_seconds": 8.038943
+        }
+      ],
+      "machines": [
+        {
+          "decimal": "0.70",
+          "digital": "0:42:23",
+          "hours": 0,
+          "machine_name_id": "6b239956-e7cb-4726-9da6-91adc86793e6",
+          "minutes": 42,
+          "name": "macs-MacBook-Pro.local",
+          "percent": 100.0,
+          "seconds": 23,
+          "text": "42 mins",
+          "total_seconds": 2543.033314
+        }
+      ],
+      "operating_systems": [
+        {
+          "decimal": "0.70",
+          "digital": "0:42:23",
+          "hours": 0,
+          "minutes": 42,
+          "name": "Mac",
+          "percent": 100.0,
+          "seconds": 23,
+          "text": "42 mins",
+          "total_seconds": 2543.033314
+        }
+      ],
+      "projects": [
+        {
+          "decimal": "0.58",
+          "digital": "0:35:44",
+          "hours": 0,
+          "minutes": 35,
+          "name": "helios",
+          "percent": 84.35,
+          "seconds": 44,
+          "text": "35 mins",
+          "total_seconds": 2144.975169
+        },
+        {
+          "decimal": "0.10",
+          "digital": "0:06:38",
+          "hours": 0,
+          "minutes": 6,
+          "name": "reworld-app",
+          "percent": 15.65,
+          "seconds": 38,
+          "text": "6 mins",
+          "total_seconds": 398.058145
+        }
+      ],
+      "range": {
+        "date": "2023-03-07",
+        "end": "2023-03-07T18:29:59Z",
+        "start": "2023-03-06T18:30:00Z",
+        "text": "Tue Mar 7th 2023",
+        "timezone": "Asia/Kolkata"
+      }
+    }
+  ],
+  "oh_abhin": [
+    {
+      "categories": [],
+      "dependencies": [],
+      "editors": [],
+      "grand_total": {
+        "decimal": "0.00",
+        "digital": "0:00",
+        "hours": 0,
+        "minutes": 0,
+        "text": "0 secs",
+        "total_seconds": 0.0
+      },
+      "languages": [],
+      "machines": [],
+      "operating_systems": [],
+      "projects": [],
+      "range": {
+        "date": "2023-03-07",
+        "end": "2023-03-07T18:29:59Z",
+        "start": "2023-03-06T18:30:00Z",
+        "text": "Tue Mar 7th 2023",
+        "timezone": "Asia/Kolkata"
+      }
+    }
+  ]
+}
