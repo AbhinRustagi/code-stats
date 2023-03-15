@@ -1,0 +1,138 @@
+{
+  "abhinr": [
+    {
+      "categories": [
+        {
+          "decimal": "0.15",
+          "digital": "0:09:14",
+          "hours": 0,
+          "minutes": 9,
+          "name": "Coding",
+          "percent": 100.0,
+          "seconds": 14,
+          "text": "9 mins",
+          "total_seconds": 554.063553
+        }
+      ],
+      "dependencies": [],
+      "editors": [
+        {
+          "decimal": "0.15",
+          "digital": "0:09:14",
+          "hours": 0,
+          "minutes": 9,
+          "name": "VS Code",
+          "percent": 100.0,
+          "seconds": 14,
+          "text": "9 mins",
+          "total_seconds": 554.063553
+        }
+      ],
+      "grand_total": {
+        "decimal": "0.15",
+        "digital": "0:09",
+        "hours": 0,
+        "minutes": 9,
+        "text": "9 mins",
+        "total_seconds": 554.063553
+      },
+      "languages": [
+        {
+          "decimal": "0.08",
+          "digital": "0:05:34",
+          "hours": 0,
+          "minutes": 5,
+          "name": "CSS",
+          "percent": 60.32,
+          "seconds": 34,
+          "text": "5 mins",
+          "total_seconds": 334.22101
+        },
+        {
+          "decimal": "0.05",
+          "digital": "0:03:39",
+          "hours": 0,
+          "minutes": 3,
+          "name": "HTML",
+          "percent": 39.68,
+          "seconds": 39,
+          "text": "3 mins",
+          "total_seconds": 219.842543
+        }
+      ],
+      "machines": [
+        {
+          "decimal": "0.15",
+          "digital": "0:09:14",
+          "hours": 0,
+          "machine_name_id": "6b239956-e7cb-4726-9da6-91adc86793e6",
+          "minutes": 9,
+          "name": "macs-MacBook-Pro.local",
+          "percent": 100.0,
+          "seconds": 14,
+          "text": "9 mins",
+          "total_seconds": 554.063553
+        }
+      ],
+      "operating_systems": [
+        {
+          "decimal": "0.15",
+          "digital": "0:09:14",
+          "hours": 0,
+          "minutes": 9,
+          "name": "Mac",
+          "percent": 100.0,
+          "seconds": 14,
+          "text": "9 mins",
+          "total_seconds": 554.063553
+        }
+      ],
+      "projects": [
+        {
+          "decimal": "0.15",
+          "digital": "0:09:14",
+          "hours": 0,
+          "minutes": 9,
+          "name": "static.abhin.dev",
+          "percent": 100.0,
+          "seconds": 14,
+          "text": "9 mins",
+          "total_seconds": 554.063553
+        }
+      ],
+      "range": {
+        "date": "2023-03-06",
+        "end": "2023-03-06T18:29:59Z",
+        "start": "2023-03-05T18:30:00Z",
+        "text": "Mon Mar 6th 2023",
+        "timezone": "Asia/Kolkata"
+      }
+    }
+  ],
+  "oh_abhin": [
+    {
+      "categories": [],
+      "dependencies": [],
+      "editors": [],
+      "grand_total": {
+        "decimal": "0.00",
+        "digital": "0:00",
+        "hours": 0,
+        "minutes": 0,
+        "text": "0 secs",
+        "total_seconds": 0.0
+      },
+      "languages": [],
+      "machines": [],
+      "operating_systems": [],
+      "projects": [],
+      "range": {
+        "date": "2023-03-06",
+        "end": "2023-03-06T18:29:59Z",
+        "start": "2023-03-05T18:30:00Z",
+        "text": "Mon Mar 6th 2023",
+        "timezone": "Asia/Kolkata"
+      }
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "abhinr": [
+    {
+      "categories": [],
+      "dependencies": [],
+      "editors": [],
+      "grand_total": {
+        "decimal": "0.00",
+        "digital": "0:00",
+        "hours": 0,
+        "minutes": 0,
+        "text": "0 secs",
+        "total_seconds": 0.0
+      },
+      "languages": [],
+      "machines": [],
+      "operating_systems": [],
+      "projects": [],
+      "range": {
+        "date": "2023-03-03",
+        "end": "2023-03-03T18:29:59Z",
+        "start": "2023-03-02T18:30:00Z",
+        "text": "Fri Mar 3rd 2023",
+        "timezone": "Asia/Kolkata"
+      }
+    }
+  ],
+  "oh_abhin": [
+    {
+      "categories": [
+        {
+          "decimal": "0.28",
+          "digital": "0:17:37",
+          "hours": 0,
+          "minutes": 17,
+          "name": "Coding",
+          "percent": 74.06,
+          "seconds": 37,
+          "text": "17 mins",
+          "total_seconds": 1057.901646
+        },
+        {
+          "decimal": "0.10",
+          "digital": "0:06:10",
+          "hours": 0,
+          "minutes": 6,
+          "name": "Debugging",
+          "percent": 25.94,
+          "seconds": 10,
+          "text": "6 mins",
+          "total_seconds": 370.443568
+        }
+      ],
+      "dependencies": [
+        {
+          "decimal": "0.38",
+          "digital": "0:23:02",
+          "hours": 0,
+          "minutes": 23,
+          "name": "apps",
+          "percent": 35.46,
+          "seconds": 2,
+          "text": "23 mins",
+          "total_seconds": 1382.440312
+        },
+        {
+          "decimal": "0.12",
+          "digital": "0:07:50",
+          "hours": 0,
+          "minutes": 7,
+          "name": "django",
+          "percent": 12.05,
+          "seconds": 50,
+          "text": "7 mins",
+          "total_seconds": 470.004696
+        },
+        {
+          "decimal": "0.10",
+          "digital": "0:06:21",
+          "hours": 0,
+          "minutes": 6,
+          "name": "rest_framework",
+          "percent": 9.77,
+          "seconds": 21,
+          "text": "6 mins",
+          "total_seconds": 381.094689
+        },
+        {
+          "decimal": "0.08",
+          "digital": "0:05:46",
+          "hours": 0,
+          "minutes": 5,
+          "name": "uuid",
+          "percent": 8.89,
+          "seconds": 46,
+          "text": "5 mins",
+          "total_seconds": 346.528293
+        },
+        {
+          "decimal": "0.08",
+          "digital": "0:05:20",
+          "hours": 0,
+          "minutes": 5,
+          "name": "cloudinary",
+          "percent": 8.22,
+          "seconds": 20,
+          "text": "5 mins",
+          "total_seconds": 320.508707
+        },
+        {
+          "decimal": "0.05",
+          "digital": "0:03:21",
+          "hours": 0,
+          "minutes": 3,
+          "name": "kombu",
+          "percent": 5.16,
+          "seconds": 21,
+          "text": "3 mins",
+          "total_seconds": 201.046091
+        },
+        {
+          "decimal": "0.05",
+          "digital": "0:03:21",
+          "hours": 0,
+          "minutes": 3,
+          "name": "corsheaders",
+          "percent": 5.16,
+          "seconds": 21,
+          "text": "3 mins",
+          "total_seconds": 201.046091
+        },
+        {
+          "decimal": "0.05",
+          "digital": "0:03:08",
+          "hours": 0,
+          "minutes": 3,
+          "name": "json",
+          "percent": 4.83,
+          "seconds": 8,
+          "text": "3 mins",
+          "total_seconds": 188.251358
+        },
+        {
+          "decimal": "0.03",
+          "digital": "0:02:52",
+          "hours": 0,
+          "minutes": 2,
+          "name": "datetime",
+          "percent": 4.42,
+          "seconds": 52,
+          "text": "2 mins",
+          "total_seconds": 172.353281
+        },
+        {
+          "decimal": "0.03",
+          "digital": "0:02:38",
+          "hours": 0,
+          "minutes": 2,
+          "name": "semver",
+          "percent": 4.05,
+          "seconds": 38,
+          "text": "2 mins",
+          "total_seconds": 158.028235
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:30",
+          "hours": 0,
+          "minutes": 0,
+          "name": "logging",
+          "percent": 0.78,
+          "seconds": 30,
+          "text": "30 secs",
+          "total_seconds": 30.223123
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:30",
+          "hours": 0,
+          "minutes": 0,
+          "name": "traceback",
+          "percent": 0.78,
+          "seconds": 30,
+          "text": "30 secs",
+          "total_seconds": 30.223123
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:07",
+          "hours": 0,
+          "minutes": 0,
+          "name": "mozilla_django_oidc",
+          "percent": 0.2,
+          "seconds": 7,
+          "text": "7 secs",
+          "total_seconds": 7.645405
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:04",
+          "hours": 0,
+          "minutes": 0,
+          "name": "django_extensions",
+          "percent": 0.12,
+          "seconds": 4,
+          "text": "4 secs",
+          "total_seconds": 4.798828
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:04",
+          "hours": 0,
+          "minutes": 0,
+          "name": "simple_history",
+          "percent": 0.12,
+          "seconds": 4,
+          "text": "4 secs",
+          "total_seconds": 4.798828
+        }
+      ],
+      "editors": [
+        {
+          "decimal": "0.38",
+          "digital": "0:23:48",
+          "hours": 0,
+          "minutes": 23,
+          "name": "VS Code",
+          "percent": 100.0,
+          "seconds": 48,
+          "text": "23 mins",
+          "total_seconds": 1428.345214
+        }
+      ],
+      "grand_total": {
+        "decimal": "0.38",
+        "digital": "0:23",
+        "hours": 0,
+        "minutes": 23,
+        "text": "23 mins",
+        "total_seconds": 1428.345214
+      },
+      "languages": [
+        {
+          "decimal": "0.38",
+          "digital": "0:23:42",
+          "hours": 0,
+          "minutes": 23,
+          "name": "Python",
+          "percent": 99.61,
+          "seconds": 42,
+          "text": "23 mins",
+          "total_seconds": 1422.801675
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:05",
+          "hours": 0,
+          "minutes": 0,
+          "name": "JSON",
+          "percent": 0.39,
+          "seconds": 5,
+          "text": "5 secs",
+          "total_seconds": 5.543539
+        },
+        {
+          "decimal": "0.00",
+          "digital": "0:00:00",
+          "hours": 0,
+          "minutes": 0,
+          "name": "YAML",
+          "percent": 0.0,
+          "seconds": 0,
+          "text": "0 secs",
+          "total_seconds": 0.0
+        }
+      ],
+      "machines": [
+        {
+          "decimal": "0.38",
+          "digital": "0:23:48",
+          "hours": 0,
+          "machine_name_id": "144c2e90-90d7-4d0a-bb1c-5ac788154923",
+          "minutes": 23,
+          "name": "macs-MacBook-Pro.local",
+          "percent": 100.0,
+          "seconds": 48,
+          "text": "23 mins",
+          "total_seconds": 1428.345214
+        }
+      ],
+      "operating_systems": [
+        {
+          "decimal": "0.38",
+          "digital": "0:23:48",
+          "hours": 0,
+          "minutes": 23,
+          "name": "Mac",
+          "percent": 100.0,
+          "seconds": 48,
+          "text": "23 mins",
+          "total_seconds": 1428.345214
+        }
+      ],
+      "projects": [
+        {
+          "decimal": "0.38",
+          "digital": "0:23:48",
+          "hours": 0,
+          "minutes": 23,
+          "name": "oh-api",
+          "percent": 100.0,
+          "seconds": 48,
+          "text": "23 mins",
+          "total_seconds": 1428.345214
+        }
+      ],
+      "range": {
+        "date": "2023-03-03",
+        "end": "2023-03-03T18:29:59Z",
+        "start": "2023-03-02T18:30:00Z",
+        "text": "Fri Mar 3rd 2023",
+        "timezone": "Asia/Kolkata"
+      }
+    }
+  ]
+}
