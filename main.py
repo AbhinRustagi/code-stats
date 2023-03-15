@@ -46,6 +46,22 @@ def get_user_stats(key):
     user_stats = make_request(endpoint, params)
     return user_stats
 
+
+def format_stats(stats: list):
+    if len(stats) == 0:
+        return {}
+    else:
+        _keys = [
+            "grand_total", 
+            "languages", 
+            "range", 
+            "operating_systems", 
+            "editors"
+        ]
+        data = stats[0]
+        extracted_data = { key: data.get(key) for key in _keys }
+        return extracted_data
+
 def combine_user_summaries():
     summaries = {}
     for key in keys:
@@ -54,11 +70,12 @@ def combine_user_summaries():
 
         username = user_details.get('data').get('username')
         stats = stats.get('data')
+        formatted_stats = format_stats(stats)
 
         print(f"adding stats for {username}")
 
         summaries.update({
-            username: stats
+            username: formatted_stats
         })
     return summaries
 
