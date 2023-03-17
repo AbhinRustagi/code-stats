@@ -1,0 +1,177 @@
+{
+  "abhinr": {
+    "grand_total": {
+      "decimal": "4.15",
+      "digital": "4:09",
+      "hours": 4,
+      "minutes": 9,
+      "text": "4 hrs 9 mins",
+      "total_seconds": 14979.500808
+    },
+    "languages": [
+      {
+        "decimal": "1.80",
+        "digital": "1:48:50",
+        "hours": 1,
+        "minutes": 48,
+        "name": "Python",
+        "percent": 43.59,
+        "seconds": 50,
+        "text": "1 hr 48 mins",
+        "total_seconds": 6530.223708
+      },
+      {
+        "decimal": "1.32",
+        "digital": "1:19:24",
+        "hours": 1,
+        "minutes": 19,
+        "name": "TypeScript",
+        "percent": 31.81,
+        "seconds": 24,
+        "text": "1 hr 19 mins",
+        "total_seconds": 4764.8878
+      },
+      {
+        "decimal": "0.35",
+        "digital": "0:21:05",
+        "hours": 0,
+        "minutes": 21,
+        "name": "JSON",
+        "percent": 8.45,
+        "seconds": 5,
+        "text": "21 mins",
+        "total_seconds": 1265.605585
+      },
+      {
+        "decimal": "0.27",
+        "digital": "0:16:01",
+        "hours": 0,
+        "minutes": 16,
+        "name": "Markdown",
+        "percent": 6.42,
+        "seconds": 1,
+        "text": "16 mins",
+        "total_seconds": 961.811806
+      },
+      {
+        "decimal": "0.15",
+        "digital": "0:09:52",
+        "hours": 0,
+        "minutes": 9,
+        "name": "Other",
+        "percent": 3.95,
+        "seconds": 52,
+        "text": "9 mins",
+        "total_seconds": 592.000286
+      },
+      {
+        "decimal": "0.10",
+        "digital": "0:06:25",
+        "hours": 0,
+        "minutes": 6,
+        "name": "CSV",
+        "percent": 2.57,
+        "seconds": 25,
+        "text": "6 mins",
+        "total_seconds": 385.538318
+      },
+      {
+        "decimal": "0.08",
+        "digital": "0:05:28",
+        "hours": 0,
+        "minutes": 5,
+        "name": "YAML",
+        "percent": 2.19,
+        "seconds": 28,
+        "text": "5 mins",
+        "total_seconds": 328.582358
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:20",
+        "hours": 0,
+        "minutes": 1,
+        "name": "JavaScript",
+        "percent": 0.54,
+        "seconds": 20,
+        "text": "1 min",
+        "total_seconds": 80.701948
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:39",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Go",
+        "percent": 0.26,
+        "seconds": 39,
+        "text": "39 secs",
+        "total_seconds": 39.543476
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:30",
+        "hours": 0,
+        "minutes": 0,
+        "name": "CSS",
+        "percent": 0.2,
+        "seconds": 30,
+        "text": "30 secs",
+        "total_seconds": 30.605523
+      }
+    ],
+    "range": {
+      "date": "2023-03-16",
+      "end": "2023-03-16T18:29:59Z",
+      "start": "2023-03-15T18:30:00Z",
+      "text": "Thu Mar 16th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "operating_systems": [
+      {
+        "decimal": "4.15",
+        "digital": "4:09:39",
+        "hours": 4,
+        "minutes": 9,
+        "name": "Mac",
+        "percent": 100.0,
+        "seconds": 39,
+        "text": "4 hrs 9 mins",
+        "total_seconds": 14979.500808
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "4.15",
+        "digital": "4:09:39",
+        "hours": 4,
+        "minutes": 9,
+        "name": "VS Code",
+        "percent": 100.0,
+        "seconds": 39,
+        "text": "4 hrs 9 mins",
+        "total_seconds": 14979.500808
+      }
+    ]
+  },
+  "oh_abhin": {
+    "grand_total": {
+      "decimal": "0.00",
+      "digital": "0:00",
+      "hours": 0,
+      "minutes": 0,
+      "text": "0 secs",
+      "total_seconds": 0.0
+    },
+    "languages": [],
+    "range": {
+      "date": "2023-03-16",
+      "end": "2023-03-16T18:29:59Z",
+      "start": "2023-03-15T18:30:00Z",
+      "text": "Thu Mar 16th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "operating_systems": [],
+    "editors": []
+  }
+}
