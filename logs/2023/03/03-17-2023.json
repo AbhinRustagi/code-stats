@@ -1,0 +1,166 @@
+{
+  "abhinr": {
+    "grand_total": {
+      "decimal": "1.95",
+      "digital": "1:57",
+      "hours": 1,
+      "minutes": 57,
+      "text": "1 hr 57 mins",
+      "total_seconds": 7049.716169
+    },
+    "languages": [
+      {
+        "decimal": "1.18",
+        "digital": "1:11:43",
+        "hours": 1,
+        "minutes": 11,
+        "name": "Python",
+        "percent": 61.04,
+        "seconds": 43,
+        "text": "1 hr 11 mins",
+        "total_seconds": 4303.206066
+      },
+      {
+        "decimal": "0.30",
+        "digital": "0:18:44",
+        "hours": 0,
+        "minutes": 18,
+        "name": "TypeScript",
+        "percent": 15.95,
+        "seconds": 44,
+        "text": "18 mins",
+        "total_seconds": 1124.269097
+      },
+      {
+        "decimal": "0.27",
+        "digital": "0:16:09",
+        "hours": 0,
+        "minutes": 16,
+        "name": "Other",
+        "percent": 13.75,
+        "seconds": 9,
+        "text": "16 mins",
+        "total_seconds": 969.594037
+      },
+      {
+        "decimal": "0.15",
+        "digital": "0:09:05",
+        "hours": 0,
+        "minutes": 9,
+        "name": "YAML",
+        "percent": 7.73,
+        "seconds": 5,
+        "text": "9 mins",
+        "total_seconds": 545.105167
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:06",
+        "hours": 0,
+        "minutes": 1,
+        "name": "CSV",
+        "percent": 0.94,
+        "seconds": 6,
+        "text": "1 min",
+        "total_seconds": 66.141748
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:38",
+        "hours": 0,
+        "minutes": 0,
+        "name": "JSON",
+        "percent": 0.55,
+        "seconds": 38,
+        "text": "38 secs",
+        "total_seconds": 38.44453
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:02",
+        "hours": 0,
+        "minutes": 0,
+        "name": "JavaScript",
+        "percent": 0.03,
+        "seconds": 2,
+        "text": "2 secs",
+        "total_seconds": 2.006307
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Markdown",
+        "percent": 0.01,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.515041
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "TSConfig",
+        "percent": 0.01,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.434176
+      }
+    ],
+    "range": {
+      "date": "2023-03-17",
+      "end": "2023-03-17T18:29:59Z",
+      "start": "2023-03-16T18:30:00Z",
+      "text": "Fri Mar 17th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "operating_systems": [
+      {
+        "decimal": "1.95",
+        "digital": "1:57:29",
+        "hours": 1,
+        "minutes": 57,
+        "name": "Mac",
+        "percent": 100.0,
+        "seconds": 29,
+        "text": "1 hr 57 mins",
+        "total_seconds": 7049.716169
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "1.95",
+        "digital": "1:57:29",
+        "hours": 1,
+        "minutes": 57,
+        "name": "VS Code",
+        "percent": 100.0,
+        "seconds": 29,
+        "text": "1 hr 57 mins",
+        "total_seconds": 7049.716169
+      }
+    ]
+  },
+  "oh_abhin": {
+    "grand_total": {
+      "decimal": "0.00",
+      "digital": "0:00",
+      "hours": 0,
+      "minutes": 0,
+      "text": "0 secs",
+      "total_seconds": 0.0
+    },
+    "languages": [],
+    "range": {
+      "date": "2023-03-17",
+      "end": "2023-03-17T18:29:59Z",
+      "start": "2023-03-16T18:30:00Z",
+      "text": "Fri Mar 17th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "operating_systems": [],
+    "editors": []
+  }
+}
