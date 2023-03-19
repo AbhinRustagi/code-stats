@@ -1,0 +1,122 @@
+{
+  "abhinr": {
+    "grand_total": {
+      "decimal": "2.20",
+      "digital": "2:12",
+      "hours": 2,
+      "minutes": 12,
+      "text": "2 hrs 12 mins",
+      "total_seconds": 7964.806112
+    },
+    "languages": [
+      {
+        "decimal": "1.37",
+        "digital": "1:22:35",
+        "hours": 1,
+        "minutes": 22,
+        "name": "TypeScript",
+        "percent": 62.21,
+        "seconds": 35,
+        "text": "1 hr 22 mins",
+        "total_seconds": 4955.204179
+      },
+      {
+        "decimal": "0.77",
+        "digital": "0:46:37",
+        "hours": 0,
+        "minutes": 46,
+        "name": "Python",
+        "percent": 35.12,
+        "seconds": 37,
+        "text": "46 mins",
+        "total_seconds": 2797.02903
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:32",
+        "hours": 0,
+        "minutes": 2,
+        "name": "JSON",
+        "percent": 1.92,
+        "seconds": 32,
+        "text": "2 mins",
+        "total_seconds": 152.626768
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:59",
+        "hours": 0,
+        "minutes": 0,
+        "name": "YAML",
+        "percent": 0.75,
+        "seconds": 59,
+        "text": "59 secs",
+        "total_seconds": 59.528715
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Markdown",
+        "percent": 0.01,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.41742
+      }
+    ],
+    "range": {
+      "date": "2023-03-18",
+      "end": "2023-03-18T18:29:59Z",
+      "start": "2023-03-17T18:30:00Z",
+      "text": "Sat Mar 18th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "operating_systems": [
+      {
+        "decimal": "2.20",
+        "digital": "2:12:44",
+        "hours": 2,
+        "minutes": 12,
+        "name": "Mac",
+        "percent": 100.0,
+        "seconds": 44,
+        "text": "2 hrs 12 mins",
+        "total_seconds": 7964.806112
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "2.20",
+        "digital": "2:12:44",
+        "hours": 2,
+        "minutes": 12,
+        "name": "VS Code",
+        "percent": 100.0,
+        "seconds": 44,
+        "text": "2 hrs 12 mins",
+        "total_seconds": 7964.806112
+      }
+    ]
+  },
+  "oh_abhin": {
+    "grand_total": {
+      "decimal": "0.00",
+      "digital": "0:00",
+      "hours": 0,
+      "minutes": 0,
+      "text": "0 secs",
+      "total_seconds": 0.0
+    },
+    "languages": [],
+    "range": {
+      "date": "2023-03-18",
+      "end": "2023-03-18T18:29:59Z",
+      "start": "2023-03-17T18:30:00Z",
+      "text": "Sat Mar 18th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "operating_systems": [],
+    "editors": []
+  }
+}
