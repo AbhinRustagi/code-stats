@@ -1,0 +1,100 @@
+{
+  "abhinr": {
+    "grand_total": {
+      "decimal": "0.83",
+      "digital": "0:50",
+      "hours": 0,
+      "minutes": 50,
+      "text": "50 mins",
+      "total_seconds": 3023.206373
+    },
+    "languages": [
+      {
+        "decimal": "0.83",
+        "digital": "0:50:18",
+        "hours": 0,
+        "minutes": 50,
+        "name": "TypeScript",
+        "percent": 99.85,
+        "seconds": 18,
+        "text": "50 mins",
+        "total_seconds": 3018.643184
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:02",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Markdown",
+        "percent": 0.1,
+        "seconds": 2,
+        "text": "2 secs",
+        "total_seconds": 2.942008
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "JSON",
+        "percent": 0.05,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.621181
+      }
+    ],
+    "range": {
+      "date": "2023-03-19",
+      "end": "2023-03-19T18:29:59Z",
+      "start": "2023-03-18T18:30:00Z",
+      "text": "Sun Mar 19th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "operating_systems": [
+      {
+        "decimal": "0.83",
+        "digital": "0:50:23",
+        "hours": 0,
+        "minutes": 50,
+        "name": "Mac",
+        "percent": 100.0,
+        "seconds": 23,
+        "text": "50 mins",
+        "total_seconds": 3023.206373
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "0.83",
+        "digital": "0:50:23",
+        "hours": 0,
+        "minutes": 50,
+        "name": "VS Code",
+        "percent": 100.0,
+        "seconds": 23,
+        "text": "50 mins",
+        "total_seconds": 3023.206373
+      }
+    ]
+  },
+  "oh_abhin": {
+    "grand_total": {
+      "decimal": "0.00",
+      "digital": "0:00",
+      "hours": 0,
+      "minutes": 0,
+      "text": "0 secs",
+      "total_seconds": 0.0
+    },
+    "languages": [],
+    "range": {
+      "date": "2023-03-19",
+      "end": "2023-03-19T18:29:59Z",
+      "start": "2023-03-18T18:30:00Z",
+      "text": "Sun Mar 19th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "operating_systems": [],
+    "editors": []
+  }
+}
