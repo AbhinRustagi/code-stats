@@ -1,0 +1,111 @@
+{
+  "abhinr": {
+    "grand_total": {
+      "decimal": "1.35",
+      "digital": "1:21",
+      "hours": 1,
+      "minutes": 21,
+      "text": "1 hr 21 mins",
+      "total_seconds": 4887.897809
+    },
+    "languages": [
+      {
+        "decimal": "1.00",
+        "digital": "1:00:31",
+        "hours": 1,
+        "minutes": 0,
+        "name": "Python",
+        "percent": 74.29,
+        "seconds": 31,
+        "text": "1 hr",
+        "total_seconds": 3631.45987
+      },
+      {
+        "decimal": "0.33",
+        "digital": "0:20:38",
+        "hours": 0,
+        "minutes": 20,
+        "name": "TypeScript",
+        "percent": 25.34,
+        "seconds": 38,
+        "text": "20 mins",
+        "total_seconds": 1238.781502
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:11",
+        "hours": 0,
+        "minutes": 0,
+        "name": "JSON",
+        "percent": 0.24,
+        "seconds": 11,
+        "text": "11 secs",
+        "total_seconds": 11.632685
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:06",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Other",
+        "percent": 0.12,
+        "seconds": 6,
+        "text": "6 secs",
+        "total_seconds": 6.023752
+      }
+    ],
+    "range": {
+      "date": "2023-03-22",
+      "end": "2023-03-22T18:29:59Z",
+      "start": "2023-03-21T18:30:00Z",
+      "text": "Wed Mar 22nd 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "operating_systems": [
+      {
+        "decimal": "1.35",
+        "digital": "1:21:27",
+        "hours": 1,
+        "minutes": 21,
+        "name": "Mac",
+        "percent": 100.0,
+        "seconds": 27,
+        "text": "1 hr 21 mins",
+        "total_seconds": 4887.897809
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "1.35",
+        "digital": "1:21:27",
+        "hours": 1,
+        "minutes": 21,
+        "name": "VS Code",
+        "percent": 100.0,
+        "seconds": 27,
+        "text": "1 hr 21 mins",
+        "total_seconds": 4887.897809
+      }
+    ]
+  },
+  "oh_abhin": {
+    "grand_total": {
+      "decimal": "0.00",
+      "digital": "0:00",
+      "hours": 0,
+      "minutes": 0,
+      "text": "0 secs",
+      "total_seconds": 0.0
+    },
+    "languages": [],
+    "range": {
+      "date": "2023-03-22",
+      "end": "2023-03-22T18:29:59Z",
+      "start": "2023-03-21T18:30:00Z",
+      "text": "Wed Mar 22nd 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "operating_systems": [],
+    "editors": []
+  }
+}
