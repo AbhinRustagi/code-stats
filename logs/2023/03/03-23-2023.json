@@ -1,0 +1,91 @@
+{
+  "abhinr": {
+    "grand_total": {
+      "decimal": "1.87",
+      "digital": "1:52",
+      "hours": 1,
+      "minutes": 52,
+      "text": "1 hr 52 mins",
+      "total_seconds": 6736.796425
+    },
+    "languages": [
+      {
+        "decimal": "1.60",
+        "digital": "1:36:54",
+        "hours": 1,
+        "minutes": 36,
+        "name": "Python",
+        "percent": 86.3,
+        "seconds": 54,
+        "text": "1 hr 36 mins",
+        "total_seconds": 5814.082285
+      },
+      {
+        "decimal": "0.23",
+        "digital": "0:14:26",
+        "hours": 0,
+        "minutes": 14,
+        "name": "TypeScript",
+        "percent": 12.86,
+        "seconds": 26,
+        "text": "14 mins",
+        "total_seconds": 866.501892
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:56",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Other",
+        "percent": 0.83,
+        "seconds": 56,
+        "text": "56 secs",
+        "total_seconds": 56.212248
+      }
+    ],
+    "range": {
+      "date": "2023-03-23",
+      "end": "2023-03-23T18:29:59Z",
+      "start": "2023-03-22T18:30:00Z",
+      "text": "Thu Mar 23rd 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "operating_systems": [
+      {
+        "decimal": "1.87",
+        "digital": "1:52:16",
+        "hours": 1,
+        "minutes": 52,
+        "name": "Mac",
+        "percent": 100.0,
+        "seconds": 16,
+        "text": "1 hr 52 mins",
+        "total_seconds": 6736.796425
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "1.85",
+        "digital": "1:51:20",
+        "hours": 1,
+        "minutes": 51,
+        "name": "VS Code",
+        "percent": 99.17,
+        "seconds": 20,
+        "text": "1 hr 51 mins",
+        "total_seconds": 6680.584177
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:56",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Bash",
+        "percent": 0.83,
+        "seconds": 56,
+        "text": "56 secs",
+        "total_seconds": 56.212248
+      }
+    ]
+  }
+}
