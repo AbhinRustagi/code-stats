@@ -1,0 +1,113 @@
+{
+  "AbhinRustagi": {
+    "grand_total": {
+      "decimal": "1.83",
+      "digital": "1:50",
+      "hours": 1,
+      "minutes": 50,
+      "text": "1 hr 50 mins",
+      "total_seconds": 6651.43045
+    },
+    "languages": [
+      {
+        "decimal": "1.55",
+        "digital": "1:33:44",
+        "hours": 1,
+        "minutes": 33,
+        "name": "Other",
+        "percent": 84.56,
+        "seconds": 44,
+        "text": "1 hr 33 mins",
+        "total_seconds": 5624.285019
+      },
+      {
+        "decimal": "0.15",
+        "digital": "0:09:59",
+        "hours": 0,
+        "minutes": 9,
+        "name": "TypeScript",
+        "percent": 9.02,
+        "seconds": 59,
+        "text": "9 mins",
+        "total_seconds": 599.809032
+      },
+      {
+        "decimal": "0.07",
+        "digital": "0:04:03",
+        "hours": 0,
+        "minutes": 4,
+        "name": "Python",
+        "percent": 3.66,
+        "seconds": 3,
+        "text": "4 mins",
+        "total_seconds": 243.245716
+      },
+      {
+        "decimal": "0.05",
+        "digital": "0:03:04",
+        "hours": 0,
+        "minutes": 3,
+        "name": "JavaScript",
+        "percent": 2.77,
+        "seconds": 4,
+        "text": "3 mins",
+        "total_seconds": 184.090683
+      }
+    ],
+    "range": {
+      "date": "2023-03-24",
+      "end": "2023-03-24T18:29:59Z",
+      "start": "2023-03-23T18:30:00Z",
+      "text": "Fri Mar 24th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "operating_systems": [
+      {
+        "decimal": "1.50",
+        "digital": "1:30:00",
+        "hours": 1,
+        "minutes": 30,
+        "name": "Unknown OS",
+        "percent": 81.19,
+        "seconds": 0,
+        "text": "1 hr 30 mins",
+        "total_seconds": 5400.0
+      },
+      {
+        "decimal": "0.33",
+        "digital": "0:20:51",
+        "hours": 0,
+        "minutes": 20,
+        "name": "Mac",
+        "percent": 18.81,
+        "seconds": 51,
+        "text": "20 mins",
+        "total_seconds": 1251.43045
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "1.50",
+        "digital": "1:30:00",
+        "hours": 1,
+        "minutes": 30,
+        "name": "Google Calendar",
+        "percent": 81.19,
+        "seconds": 0,
+        "text": "1 hr 30 mins",
+        "total_seconds": 5400.0
+      },
+      {
+        "decimal": "0.33",
+        "digital": "0:20:51",
+        "hours": 0,
+        "minutes": 20,
+        "name": "VS Code",
+        "percent": 18.81,
+        "seconds": 51,
+        "text": "20 mins",
+        "total_seconds": 1251.43045
+      }
+    ]
+  }
+}
