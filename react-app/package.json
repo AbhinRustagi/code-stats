@@ -16,10 +16,10 @@
   "scripts": {
     "prestart": "mkdir ./src/data && cp -R ../logs ./src && node preprocessData.js",
     "start": "react-scripts start",
-    "poststart": "rm -rf ./src/data",
-    "prebuild": "mkdir ./src/data && cp -R ../logs ./src && node preprocessData.js",
+    "poststart": "rm -rf ./src/logs",
+    "prebuild": "mkdir ./src/logs && cp -R ../logs ./src && node preprocessData.js",
     "build": "react-scripts build",
-    "postbuild": "rm -rf ./src/data",
+    "postbuild": "rm -rf ./src/logs",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

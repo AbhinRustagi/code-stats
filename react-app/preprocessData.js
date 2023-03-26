@@ -1,6 +1,17 @@
 const path = require("path");
+const fs = require("fs");
 
 (function () {
-  const fullPath = path.join(__dirname, "src");
-  console.log(fullPath);
+  const logsFolder = path.join("src", "logs");
+  console.log(logsFolder);
+
+  fs.readdir(logsFolder, (err, files) => {
+    if (err) {
+      console.error(String(err));
+    } else {
+      files.forEach((file) => {
+        console.log(file);
+      });
+    }
+  });
 })();
