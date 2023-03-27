@@ -12,7 +12,19 @@
         "text": "0 secs",
         "total_seconds": 0.0
       },
-      "languages": [],
+      "languages": [
+        {
+          "decimal": "1.53",
+          "digital": "1:32:43",
+          "hours": 1,
+          "minutes": 32,
+          "name": "Go",
+          "percent": 49.53,
+          "seconds": 43,
+          "text": "1 hr 32 mins",
+          "total_seconds": 5563.129088
+        }
+      ],
       "machines": [],
       "operating_systems": [],
       "projects": [],

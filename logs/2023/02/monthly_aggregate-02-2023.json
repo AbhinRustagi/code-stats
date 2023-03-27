@@ -1,0 +1,112 @@
+{
+  "02-17-2023": {
+    "grand_total": {
+      "decimal": 2.6333333333333333,
+      "digital": "2:038",
+      "hours": 2,
+      "minutes": 38,
+      "text": "2 hrs 38 mins",
+      "seconds": null,
+      "total_seconds": 9500.940998
+    },
+    "languages": [
+      {
+        "decimal": "1.70",
+        "digital": "1:42:58",
+        "hours": 1,
+        "minutes": 42,
+        "name": "Python",
+        "percent": 65.03,
+        "seconds": 58,
+        "text": "1 hr 42 mins",
+        "total_seconds": 6178.811585
+      },
+      {
+        "decimal": "0.28",
+        "digital": "0:17:53",
+        "hours": 0,
+        "minutes": 17,
+        "name": "Go",
+        "percent": 11.29,
+        "seconds": 53,
+        "text": "17 mins",
+        "total_seconds": 1073.063394
+      },
+      {
+        "decimal": "0.27",
+        "digital": "0:16:34",
+        "hours": 0,
+        "minutes": 16,
+        "name": "Markdown",
+        "percent": 10.47,
+        "seconds": 34,
+        "text": "16 mins",
+        "total_seconds": 994.787245
+      },
+      {
+        "decimal": "0.22",
+        "digital": "0:13:11",
+        "hours": 0,
+        "minutes": 13,
+        "name": "TypeScript",
+        "percent": 8.33,
+        "seconds": 11,
+        "text": "13 mins",
+        "total_seconds": 791.77998
+      },
+      {
+        "decimal": "0.12",
+        "digital": "0:07:30",
+        "hours": 0,
+        "minutes": 7,
+        "name": "JSON",
+        "percent": 4.74,
+        "seconds": 30,
+        "text": "7 mins",
+        "total_seconds": 450.23728
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:07",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Other",
+        "percent": 0.08,
+        "seconds": 7,
+        "text": "7 secs",
+        "total_seconds": 7.434455
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:04",
+        "hours": 0,
+        "minutes": 0,
+        "name": "CSV",
+        "percent": 0.05,
+        "seconds": 4,
+        "text": "4 secs",
+        "total_seconds": 4.827059
+      }
+    ],
+    "range": {
+      "date": "2023-02-17",
+      "end": "2023-02-17T18:29:59Z",
+      "start": "2023-02-16T18:30:00Z",
+      "text": "Fri Feb 17th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": [
+      {
+        "decimal": "2.63",
+        "digital": "2:38:20",
+        "hours": 2,
+        "minutes": 38,
+        "name": "VS Code",
+        "percent": 100.0,
+        "seconds": 20,
+        "text": "2 hrs 38 mins",
+        "total_seconds": 9500.940998
+      }
+    ]
+  }
+}
