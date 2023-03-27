@@ -1,0 +1,135 @@
+{
+  "AbhinRustagi": {
+    "grand_total": {
+      "decimal": "5.08",
+      "digital": "5:05",
+      "hours": 5,
+      "minutes": 5,
+      "text": "5 hrs 5 mins",
+      "total_seconds": 18310.084965
+    },
+    "languages": [
+      {
+        "decimal": "4.07",
+        "digital": "4:04:16",
+        "hours": 4,
+        "minutes": 4,
+        "name": "Python",
+        "percent": 80.05,
+        "seconds": 16,
+        "text": "4 hrs 4 mins",
+        "total_seconds": 14656.488964
+      },
+      {
+        "decimal": "0.30",
+        "digital": "0:18:54",
+        "hours": 0,
+        "minutes": 18,
+        "name": "TypeScript",
+        "percent": 6.19,
+        "seconds": 54,
+        "text": "18 mins",
+        "total_seconds": 1134.173406
+      },
+      {
+        "decimal": "0.27",
+        "digital": "0:16:17",
+        "hours": 0,
+        "minutes": 16,
+        "name": "SQL",
+        "percent": 5.34,
+        "seconds": 17,
+        "text": "16 mins",
+        "total_seconds": 977.145212
+      },
+      {
+        "decimal": "0.25",
+        "digital": "0:15:42",
+        "hours": 0,
+        "minutes": 15,
+        "name": "JavaScript",
+        "percent": 5.15,
+        "seconds": 42,
+        "text": "15 mins",
+        "total_seconds": 942.843992
+      },
+      {
+        "decimal": "0.12",
+        "digital": "0:07:49",
+        "hours": 0,
+        "minutes": 7,
+        "name": "JSON",
+        "percent": 2.56,
+        "seconds": 49,
+        "text": "7 mins",
+        "total_seconds": 469.632767
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:49",
+        "hours": 0,
+        "minutes": 1,
+        "name": "Other",
+        "percent": 0.6,
+        "seconds": 49,
+        "text": "1 min",
+        "total_seconds": 109.992936
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:19",
+        "hours": 0,
+        "minutes": 0,
+        "name": "YAML",
+        "percent": 0.11,
+        "seconds": 19,
+        "text": "19 secs",
+        "total_seconds": 19.807688
+      }
+    ],
+    "range": {
+      "date": "2023-03-26",
+      "end": "2023-03-26T18:29:59Z",
+      "start": "2023-03-25T18:30:00Z",
+      "text": "Sun Mar 26th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "operating_systems": [
+      {
+        "decimal": "5.08",
+        "digital": "5:05:10",
+        "hours": 5,
+        "minutes": 5,
+        "name": "Mac",
+        "percent": 100.0,
+        "seconds": 10,
+        "text": "5 hrs 5 mins",
+        "total_seconds": 18310.084965
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "4.80",
+        "digital": "4:48:52",
+        "hours": 4,
+        "minutes": 48,
+        "name": "VS Code",
+        "percent": 94.66,
+        "seconds": 52,
+        "text": "4 hrs 48 mins",
+        "total_seconds": 17332.939753
+      },
+      {
+        "decimal": "0.27",
+        "digital": "0:16:17",
+        "hours": 0,
+        "minutes": 16,
+        "name": "DBeaver",
+        "percent": 5.34,
+        "seconds": 17,
+        "text": "16 mins",
+        "total_seconds": 977.145212
+      }
+    ]
+  }
+}
