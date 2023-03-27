@@ -14,16 +14,50 @@ is_valid_path = os.path.exists(folder_path)
 
 files_list = os.listdir(folder_path)
 
-for json_file in files_list[:1]:
+monthly_aggregate = {}
+
+def add_data(type, prev_data, new_data):
+    if type == 'grand_total':
+        return {}
+    elif type == 'languages':
+        return {}
+    elif type == 'editors':
+        return {}
+    elif type == 'range':
+        return prev_data
+    else:
+        return {}
+
+for json_file in files_list:
     file = open(os.path.join(folder_path, json_file), mode='r')
     content = file.read()
     content = dict(json.loads(content))
     required_keys = ['grand_total', 'languages', 'range', 'editors']
     
+    date = json_file.replace(".json", "")
     file_data = {}
 
-    for key in content.keys():
-        value: dict = content[key][0]
+    for key, value in content.items():
+        data = value[0]
         
-        for item_key in value.keys():
-            pass
+        for item_key in required_keys:
+            prev_value = file_data.get(item_key)
+
+            if not prev_value:
+                file_data.update({
+                    item_key: data.get(item_key)
+                })
+            else:
+                compiled_values = add_data(item_key, prev_value, data.get(item_key))
+                file_data.update({
+                    item_key: compiled_values
+                })
+
+    monthly_aggregate.update({
+        date: file_data
+    })
+
+filename = f'monthly_aggregate-{str_previous_month}-{current_year}.json'
+file = open(os.path.join("logs", str(current_year), str_previous_month, filename), "w+")
+file.write(json.dumps(monthly_aggregate, indent=2))
+file.close()
