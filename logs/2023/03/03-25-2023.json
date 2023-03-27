@@ -1,0 +1,135 @@
+{
+  "AbhinRustagi": {
+    "grand_total": {
+      "decimal": "0.45",
+      "digital": "0:27",
+      "hours": 0,
+      "minutes": 27,
+      "text": "27 mins",
+      "total_seconds": 1667.576621
+    },
+    "languages": [
+      {
+        "decimal": "0.13",
+        "digital": "0:08:20",
+        "hours": 0,
+        "minutes": 8,
+        "name": "Markdown",
+        "percent": 30.03,
+        "seconds": 20,
+        "text": "8 mins",
+        "total_seconds": 500.835295
+      },
+      {
+        "decimal": "0.08",
+        "digital": "0:05:58",
+        "hours": 0,
+        "minutes": 5,
+        "name": "JSON",
+        "percent": 21.5,
+        "seconds": 58,
+        "text": "5 mins",
+        "total_seconds": 358.522592
+      },
+      {
+        "decimal": "0.07",
+        "digital": "0:04:54",
+        "hours": 0,
+        "minutes": 4,
+        "name": "Git Config",
+        "percent": 17.66,
+        "seconds": 54,
+        "text": "4 mins",
+        "total_seconds": 294.478751
+      },
+      {
+        "decimal": "0.07",
+        "digital": "0:04:16",
+        "hours": 0,
+        "minutes": 4,
+        "name": "HTML",
+        "percent": 15.4,
+        "seconds": 16,
+        "text": "4 mins",
+        "total_seconds": 256.829375
+      },
+      {
+        "decimal": "0.05",
+        "digital": "0:03:17",
+        "hours": 0,
+        "minutes": 3,
+        "name": "CSS",
+        "percent": 11.85,
+        "seconds": 17,
+        "text": "3 mins",
+        "total_seconds": 197.572598
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:29",
+        "hours": 0,
+        "minutes": 0,
+        "name": "TypeScript",
+        "percent": 1.74,
+        "seconds": 29,
+        "text": "29 secs",
+        "total_seconds": 29.03834
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:26",
+        "hours": 0,
+        "minutes": 0,
+        "name": "TSConfig",
+        "percent": 1.58,
+        "seconds": 26,
+        "text": "26 secs",
+        "total_seconds": 26.29674
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:04",
+        "hours": 0,
+        "minutes": 0,
+        "name": "YAML",
+        "percent": 0.24,
+        "seconds": 4,
+        "text": "4 secs",
+        "total_seconds": 4.00293
+      }
+    ],
+    "range": {
+      "date": "2023-03-25",
+      "end": "2023-03-25T18:29:59Z",
+      "start": "2023-03-24T18:30:00Z",
+      "text": "Sat Mar 25th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "operating_systems": [
+      {
+        "decimal": "0.45",
+        "digital": "0:27:47",
+        "hours": 0,
+        "minutes": 27,
+        "name": "Mac",
+        "percent": 100.0,
+        "seconds": 47,
+        "text": "27 mins",
+        "total_seconds": 1667.576621
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "0.45",
+        "digital": "0:27:47",
+        "hours": 0,
+        "minutes": 27,
+        "name": "VS Code",
+        "percent": 100.0,
+        "seconds": 47,
+        "text": "27 mins",
+        "total_seconds": 1667.576621
+      }
+    ]
+  }
+}
