@@ -60,36 +60,34 @@ def add_data(metric_type, prev_data, new_data, grand_total=None):
     if metric_type == 'grand_total':
         return add_time(prev_data, new_data)
     
-    elif metric_type == 'languages':
-        combined_language_data = {}
+    elif metric_type in ['languages', 'editors']:
+
+        combined_data = {}
         grand_total_seconds = grand_total.get('total_seconds')
 
-        print(prev_data)
-        print(new_data)
+        for item in prev_data + new_data:
+            name = item.get('name')
+            item_value = item
 
-        for language in prev_data.extend(new_data):
-            lang_key = language.get('name')
-            lang_value = language
-
-            if not combined_language_data.get(lang_key):
-                percent = (lang_value.get('total_seconds') * 100) / grand_total_seconds
-                combined_language_data[lang_key] = lang_value.update({
+            if not combined_data.get(name):
+                percent = (item_value.get('total_seconds') * 100) / grand_total_seconds
+                combined_data[name] = {
+                    **item_value,
                     "percent": percent
-                })
+                }
             else:
-                prev = combined_language_data.get(lang_key)
-                cumulative = add_time(prev, lang_value)
+                prev = combined_data.get(name)
+                cumulative = add_time(prev, item_value)
 
-                percent = (lang_value.get('total_seconds') * 100) / grand_total_seconds
+                percent = (item_value.get('total_seconds') * 100) / grand_total_seconds
                 cumulative.update({
                     "percent": percent
                 })
 
-                combined_language_data[lang_key] = lang_value.update(cumulative)
+                combined_data[name] = cumulative
 
-        return list(combined_language_data.values())
-    elif metric_type == 'editors':
-        return {}
+
+        return list(combined_data.values())
     elif metric_type == 'range':
         return prev_data
     else:
@@ -121,7 +119,7 @@ def compile_monthly_stats():
                         item_key: data.get(item_key)
                     })
                 else:
-                    compiled_values = add_data(item_key, prev_value, file_data.get(item_key), grand_total)
+                    compiled_values = add_data(item_key, prev_value, data.get(item_key), grand_total)
                     file_data.update({
                         item_key: compiled_values
                     })
