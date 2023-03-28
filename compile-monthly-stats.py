@@ -98,7 +98,7 @@ def compile_monthly_stats():
     monthly_aggregate = {}
     files_list = os.listdir(folder_path)
     
-    for json_file in files_list[:1]:
+    for json_file in files_list:
         file = open(os.path.join(folder_path, json_file), mode='r')
         content = file.read()
         content = dict(json.loads(content))
