@@ -38,9 +38,9 @@ def add_time(prev_data, new_data):
         total_hours += quotient
     
     if not seconds:
-        digital = f"{total_hours}:{f'0{total_minutes}' if total_minutes < 60 else total_minutes}"
+        digital = f"{total_hours}:{f'0{total_minutes}' if total_minutes < 10 else total_minutes}"
     else:
-        digital = f"{total_hours}:{f'0{total_minutes}' if total_minutes < 60 else total_minutes}:{f'0{seconds}' if seconds < 60 else seconds}"
+        digital = f"{total_hours}:{f'0{total_minutes}' if total_minutes < 10 else total_minutes}:{f'0{seconds}' if seconds < 10 else seconds}"
 
     minutes_percentage = total_minutes / 60
     decimal = total_hours + minutes_percentage
