@@ -1,0 +1,168 @@
+{
+  "AbhinRustagi": {
+    "grand_total": {
+      "decimal": "5.73",
+      "digital": "5:44",
+      "hours": 5,
+      "minutes": 44,
+      "text": "5 hrs 44 mins",
+      "total_seconds": 20682.138038
+    },
+    "languages": [
+      {
+        "decimal": "4.03",
+        "digital": "4:02:30",
+        "hours": 4,
+        "minutes": 2,
+        "name": "Python",
+        "percent": 70.35,
+        "seconds": 30,
+        "text": "4 hrs 2 mins",
+        "total_seconds": 14550.811635
+      },
+      {
+        "decimal": "1.00",
+        "digital": "1:00:12",
+        "hours": 1,
+        "minutes": 0,
+        "name": "Other",
+        "percent": 17.47,
+        "seconds": 12,
+        "text": "1 hr",
+        "total_seconds": 3612.44779
+      },
+      {
+        "decimal": "0.37",
+        "digital": "0:22:07",
+        "hours": 0,
+        "minutes": 22,
+        "name": "TypeScript",
+        "percent": 6.42,
+        "seconds": 7,
+        "text": "22 mins",
+        "total_seconds": 1327.397991
+      },
+      {
+        "decimal": "0.20",
+        "digital": "0:12:18",
+        "hours": 0,
+        "minutes": 12,
+        "name": "JavaScript",
+        "percent": 3.57,
+        "seconds": 18,
+        "text": "12 mins",
+        "total_seconds": 738.540112
+      },
+      {
+        "decimal": "0.07",
+        "digital": "0:04:46",
+        "hours": 0,
+        "minutes": 4,
+        "name": "JSON",
+        "percent": 1.38,
+        "seconds": 46,
+        "text": "4 mins",
+        "total_seconds": 286.135091
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:48",
+        "hours": 0,
+        "minutes": 1,
+        "name": "SQL",
+        "percent": 0.52,
+        "seconds": 48,
+        "text": "1 min",
+        "total_seconds": 108.006174
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:53",
+        "hours": 0,
+        "minutes": 0,
+        "name": "XML",
+        "percent": 0.26,
+        "seconds": 53,
+        "text": "53 secs",
+        "total_seconds": 53.339162
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "CSS",
+        "percent": 0.03,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.460083
+      }
+    ],
+    "range": {
+      "date": "2023-03-28",
+      "end": "2023-03-28T18:29:59Z",
+      "start": "2023-03-27T18:30:00Z",
+      "text": "Tue Mar 28th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "operating_systems": [
+      {
+        "decimal": "4.73",
+        "digital": "4:44:42",
+        "hours": 4,
+        "minutes": 44,
+        "name": "Mac",
+        "percent": 82.59,
+        "seconds": 42,
+        "text": "4 hrs 44 mins",
+        "total_seconds": 17082.138038
+      },
+      {
+        "decimal": "1.00",
+        "digital": "1:00:00",
+        "hours": 1,
+        "minutes": 0,
+        "name": "Unknown OS",
+        "percent": 17.41,
+        "seconds": 0,
+        "text": "1 hr",
+        "total_seconds": 3600.0
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "4.70",
+        "digital": "4:42:54",
+        "hours": 4,
+        "minutes": 42,
+        "name": "VS Code",
+        "percent": 82.07,
+        "seconds": 54,
+        "text": "4 hrs 42 mins",
+        "total_seconds": 16974.131864
+      },
+      {
+        "decimal": "1.00",
+        "digital": "1:00:00",
+        "hours": 1,
+        "minutes": 0,
+        "name": "Google Calendar",
+        "percent": 17.41,
+        "seconds": 0,
+        "text": "1 hr",
+        "total_seconds": 3600.0
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:48",
+        "hours": 0,
+        "minutes": 1,
+        "name": "DBeaver",
+        "percent": 0.52,
+        "seconds": 48,
+        "text": "1 min",
+        "total_seconds": 108.006174
+      }
+    ]
+  }
+}
