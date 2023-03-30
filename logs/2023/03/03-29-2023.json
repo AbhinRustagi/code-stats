@@ -1,0 +1,102 @@
+{
+  "AbhinRustagi": {
+    "grand_total": {
+      "decimal": "2.45",
+      "digital": "2:27",
+      "hours": 2,
+      "minutes": 27,
+      "text": "2 hrs 27 mins",
+      "total_seconds": 8832.946527
+    },
+    "languages": [
+      {
+        "decimal": "2.03",
+        "digital": "2:02:08",
+        "hours": 2,
+        "minutes": 2,
+        "name": "Other",
+        "percent": 82.96,
+        "seconds": 8,
+        "text": "2 hrs 2 mins",
+        "total_seconds": 7328.104869
+      },
+      {
+        "decimal": "0.37",
+        "digital": "0:22:32",
+        "hours": 0,
+        "minutes": 22,
+        "name": "Python",
+        "percent": 15.32,
+        "seconds": 32,
+        "text": "22 mins",
+        "total_seconds": 1352.992807
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:31",
+        "hours": 0,
+        "minutes": 2,
+        "name": "JSON",
+        "percent": 1.72,
+        "seconds": 31,
+        "text": "2 mins",
+        "total_seconds": 151.848851
+      }
+    ],
+    "range": {
+      "date": "2023-03-29",
+      "end": "2023-03-29T18:29:59Z",
+      "start": "2023-03-28T18:30:00Z",
+      "text": "Wed Mar 29th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "operating_systems": [
+      {
+        "decimal": "2.00",
+        "digital": "2:00:00",
+        "hours": 2,
+        "minutes": 0,
+        "name": "Unknown OS",
+        "percent": 81.51,
+        "seconds": 0,
+        "text": "2 hrs",
+        "total_seconds": 7200.0
+      },
+      {
+        "decimal": "0.45",
+        "digital": "0:27:12",
+        "hours": 0,
+        "minutes": 27,
+        "name": "Mac",
+        "percent": 18.49,
+        "seconds": 12,
+        "text": "27 mins",
+        "total_seconds": 1632.946527
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "2.00",
+        "digital": "2:00:00",
+        "hours": 2,
+        "minutes": 0,
+        "name": "Google Calendar",
+        "percent": 81.51,
+        "seconds": 0,
+        "text": "2 hrs",
+        "total_seconds": 7200.0
+      },
+      {
+        "decimal": "0.45",
+        "digital": "0:27:12",
+        "hours": 0,
+        "minutes": 27,
+        "name": "VS Code",
+        "percent": 18.49,
+        "seconds": 12,
+        "text": "27 mins",
+        "total_seconds": 1632.946527
+      }
+    ]
+  }
+}
