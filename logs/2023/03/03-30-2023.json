@@ -1,0 +1,113 @@
+{
+  "AbhinRustagi": {
+    "grand_total": {
+      "decimal": "6.17",
+      "digital": "6:10",
+      "hours": 6,
+      "minutes": 10,
+      "text": "6 hrs 10 mins",
+      "total_seconds": 22231.454414
+    },
+    "languages": [
+      {
+        "decimal": "4.98",
+        "digital": "4:59:31",
+        "hours": 4,
+        "minutes": 59,
+        "name": "Python",
+        "percent": 80.84,
+        "seconds": 31,
+        "text": "4 hrs 59 mins",
+        "total_seconds": 17971.352775
+      },
+      {
+        "decimal": "1.10",
+        "digital": "1:06:40",
+        "hours": 1,
+        "minutes": 6,
+        "name": "Other",
+        "percent": 18.0,
+        "seconds": 40,
+        "text": "1 hr 6 mins",
+        "total_seconds": 4000.801396
+      },
+      {
+        "decimal": "0.07",
+        "digital": "0:04:19",
+        "hours": 0,
+        "minutes": 4,
+        "name": "SQL",
+        "percent": 1.17,
+        "seconds": 19,
+        "text": "4 mins",
+        "total_seconds": 259.300243
+      }
+    ],
+    "range": {
+      "date": "2023-03-30",
+      "end": "2023-03-30T18:29:59Z",
+      "start": "2023-03-29T18:30:00Z",
+      "text": "Thu Mar 30th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "operating_systems": [
+      {
+        "decimal": "5.17",
+        "digital": "5:10:31",
+        "hours": 5,
+        "minutes": 10,
+        "name": "Mac",
+        "percent": 83.81,
+        "seconds": 31,
+        "text": "5 hrs 10 mins",
+        "total_seconds": 18631.454414
+      },
+      {
+        "decimal": "1.00",
+        "digital": "1:00:00",
+        "hours": 1,
+        "minutes": 0,
+        "name": "Unknown OS",
+        "percent": 16.19,
+        "seconds": 0,
+        "text": "1 hr",
+        "total_seconds": 3600.0
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "5.10",
+        "digital": "5:06:12",
+        "hours": 5,
+        "minutes": 6,
+        "name": "VS Code",
+        "percent": 82.64,
+        "seconds": 12,
+        "text": "5 hrs 6 mins",
+        "total_seconds": 18372.154171
+      },
+      {
+        "decimal": "1.00",
+        "digital": "1:00:00",
+        "hours": 1,
+        "minutes": 0,
+        "name": "Google Calendar",
+        "percent": 16.19,
+        "seconds": 0,
+        "text": "1 hr",
+        "total_seconds": 3600.0
+      },
+      {
+        "decimal": "0.07",
+        "digital": "0:04:19",
+        "hours": 0,
+        "minutes": 4,
+        "name": "DBeaver",
+        "percent": 1.17,
+        "seconds": 19,
+        "text": "4 mins",
+        "total_seconds": 259.300243
+      }
+    ]
+  }
+}

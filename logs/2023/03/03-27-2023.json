@@ -1,0 +1,190 @@
+{
+  "AbhinRustagi": {
+    "grand_total": {
+      "decimal": "6.27",
+      "digital": "6:16",
+      "hours": 6,
+      "minutes": 16,
+      "text": "6 hrs 16 mins",
+      "total_seconds": 22564.426071
+    },
+    "languages": [
+      {
+        "decimal": "3.50",
+        "digital": "3:30:28",
+        "hours": 3,
+        "minutes": 30,
+        "name": "Python",
+        "percent": 55.97,
+        "seconds": 28,
+        "text": "3 hrs 30 mins",
+        "total_seconds": 12628.388712
+      },
+      {
+        "decimal": "2.03",
+        "digital": "2:02:47",
+        "hours": 2,
+        "minutes": 2,
+        "name": "SQL",
+        "percent": 32.65,
+        "seconds": 47,
+        "text": "2 hrs 2 mins",
+        "total_seconds": 7367.915759
+      },
+      {
+        "decimal": "0.25",
+        "digital": "0:15:25",
+        "hours": 0,
+        "minutes": 15,
+        "name": "JavaScript",
+        "percent": 4.1,
+        "seconds": 25,
+        "text": "15 mins",
+        "total_seconds": 925.256031
+      },
+      {
+        "decimal": "0.13",
+        "digital": "0:08:21",
+        "hours": 0,
+        "minutes": 8,
+        "name": "JSON",
+        "percent": 2.22,
+        "seconds": 21,
+        "text": "8 mins",
+        "total_seconds": 501.510035
+      },
+      {
+        "decimal": "0.10",
+        "digital": "0:06:59",
+        "hours": 0,
+        "minutes": 6,
+        "name": "Markdown",
+        "percent": 1.86,
+        "seconds": 59,
+        "text": "6 mins",
+        "total_seconds": 419.065055
+      },
+      {
+        "decimal": "0.08",
+        "digital": "0:05:14",
+        "hours": 0,
+        "minutes": 5,
+        "name": "HTML",
+        "percent": 1.4,
+        "seconds": 14,
+        "text": "5 mins",
+        "total_seconds": 314.853397
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:41",
+        "hours": 0,
+        "minutes": 2,
+        "name": "YAML",
+        "percent": 0.72,
+        "seconds": 41,
+        "text": "2 mins",
+        "total_seconds": 161.667855
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:33",
+        "hours": 0,
+        "minutes": 2,
+        "name": "TypeScript",
+        "percent": 0.68,
+        "seconds": 33,
+        "text": "2 mins",
+        "total_seconds": 153.134128
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:47",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Text",
+        "percent": 0.21,
+        "seconds": 47,
+        "text": "47 secs",
+        "total_seconds": 47.605556
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:35",
+        "hours": 0,
+        "minutes": 0,
+        "name": "SCSS",
+        "percent": 0.16,
+        "seconds": 35,
+        "text": "35 secs",
+        "total_seconds": 35.710172
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:06",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Other",
+        "percent": 0.03,
+        "seconds": 6,
+        "text": "6 secs",
+        "total_seconds": 6.437017
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:02",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Git Config",
+        "percent": 0.01,
+        "seconds": 2,
+        "text": "2 secs",
+        "total_seconds": 2.882354
+      }
+    ],
+    "range": {
+      "date": "2023-03-27",
+      "end": "2023-03-27T18:29:59Z",
+      "start": "2023-03-26T18:30:00Z",
+      "text": "Mon Mar 27th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "operating_systems": [
+      {
+        "decimal": "6.27",
+        "digital": "6:16:04",
+        "hours": 6,
+        "minutes": 16,
+        "name": "Mac",
+        "percent": 100.0,
+        "seconds": 4,
+        "text": "6 hrs 16 mins",
+        "total_seconds": 22564.426071
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "4.22",
+        "digital": "4:13:16",
+        "hours": 4,
+        "minutes": 13,
+        "name": "VS Code",
+        "percent": 67.35,
+        "seconds": 16,
+        "text": "4 hrs 13 mins",
+        "total_seconds": 15196.510312
+      },
+      {
+        "decimal": "2.03",
+        "digital": "2:02:47",
+        "hours": 2,
+        "minutes": 2,
+        "name": "DBeaver",
+        "percent": 32.65,
+        "seconds": 47,
+        "text": "2 hrs 2 mins",
+        "total_seconds": 7367.915759
+      }
+    ]
+  }
+}
