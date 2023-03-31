@@ -1,0 +1,47 @@
+{
+  "name": "react-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@types/node": "^18.15.10",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@visx/visx": "^3.1.2",
+    "path-browserify": "^1.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "typescript": "^4.4.2"
+  },
+  "scripts": {
+    "prestart": "mkdir ./src/data && cp -R ../logs ./src && node preprocessData.js",
+    "start": "react-scripts start",
+    "poststart": "rm -rf ./src/logs",
+    "prebuild": "mkdir ./src/logs && cp -R ../logs ./src && node preprocessData.js",
+    "build": "react-scripts build",
+    "postbuild": "rm -rf ./src/logs",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/path-browserify": "^1.0.0"
+  }
+}
