@@ -1,1 +1,1 @@
-# React Dashboard
+# Next.js Dashboard
