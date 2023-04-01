@@ -108,7 +108,12 @@ def compile_monthly_stats():
         file_data = {}
 
         for _, value in content.items():
-            data = value[0]
+            if isinstance(value, list):
+                data = value[0]
+            elif isinstance(value, dict):
+                data = value
+            else:
+                continue
 
             for item_key in required_keys:
                 prev_value = file_data.get(item_key)
