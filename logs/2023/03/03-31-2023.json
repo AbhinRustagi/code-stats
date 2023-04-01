@@ -1,0 +1,102 @@
+{
+  "AbhinRustagi": {
+    "grand_total": {
+      "decimal": "6.05",
+      "digital": "6:03",
+      "hours": 6,
+      "minutes": 3,
+      "text": "6 hrs 3 mins",
+      "total_seconds": 21825.810682
+    },
+    "languages": [
+      {
+        "decimal": "5.77",
+        "digital": "5:46:18",
+        "hours": 5,
+        "minutes": 46,
+        "name": "Python",
+        "percent": 95.2,
+        "seconds": 18,
+        "text": "5 hrs 46 mins",
+        "total_seconds": 20778.391343
+      },
+      {
+        "decimal": "0.12",
+        "digital": "0:07:08",
+        "hours": 0,
+        "minutes": 7,
+        "name": "YAML",
+        "percent": 1.96,
+        "seconds": 8,
+        "text": "7 mins",
+        "total_seconds": 428.872654
+      },
+      {
+        "decimal": "0.08",
+        "digital": "0:05:41",
+        "hours": 0,
+        "minutes": 5,
+        "name": "JavaScript",
+        "percent": 1.56,
+        "seconds": 41,
+        "text": "5 mins",
+        "total_seconds": 341.092828
+      },
+      {
+        "decimal": "0.07",
+        "digital": "0:04:37",
+        "hours": 0,
+        "minutes": 4,
+        "name": "SQL",
+        "percent": 1.27,
+        "seconds": 37,
+        "text": "4 mins",
+        "total_seconds": 277.453857
+      }
+    ],
+    "range": {
+      "date": "2023-03-31",
+      "end": "2023-03-31T18:29:59Z",
+      "start": "2023-03-30T18:30:00Z",
+      "text": "Fri Mar 31st 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "operating_systems": [
+      {
+        "decimal": "6.05",
+        "digital": "6:03:45",
+        "hours": 6,
+        "minutes": 3,
+        "name": "Mac",
+        "percent": 100.0,
+        "seconds": 45,
+        "text": "6 hrs 3 mins",
+        "total_seconds": 21825.810682
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "5.98",
+        "digital": "5:59:08",
+        "hours": 5,
+        "minutes": 59,
+        "name": "VS Code",
+        "percent": 98.73,
+        "seconds": 8,
+        "text": "5 hrs 59 mins",
+        "total_seconds": 21548.356825
+      },
+      {
+        "decimal": "0.07",
+        "digital": "0:04:37",
+        "hours": 0,
+        "minutes": 4,
+        "name": "DBeaver",
+        "percent": 1.27,
+        "seconds": 37,
+        "text": "4 mins",
+        "total_seconds": 277.453857
+      }
+    ]
+  }
+}
