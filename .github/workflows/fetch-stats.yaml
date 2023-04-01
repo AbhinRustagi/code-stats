@@ -1,6 +1,7 @@
 name: fetch Wakatime stats
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "05 00 * * *" # everyday at 00:05 AM
 
