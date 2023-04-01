@@ -1,0 +1,2847 @@
+{
+  "03-25-2023": {
+    "grand_total": {
+      "decimal": "0.45",
+      "digital": "0:27",
+      "hours": 0,
+      "minutes": 27,
+      "text": "27 mins",
+      "total_seconds": 1667.576621
+    },
+    "languages": [
+      {
+        "decimal": "0.13",
+        "digital": "0:08:20",
+        "hours": 0,
+        "minutes": 8,
+        "name": "Markdown",
+        "percent": 30.03,
+        "seconds": 20,
+        "text": "8 mins",
+        "total_seconds": 500.835295
+      },
+      {
+        "decimal": "0.08",
+        "digital": "0:05:58",
+        "hours": 0,
+        "minutes": 5,
+        "name": "JSON",
+        "percent": 21.5,
+        "seconds": 58,
+        "text": "5 mins",
+        "total_seconds": 358.522592
+      },
+      {
+        "decimal": "0.07",
+        "digital": "0:04:54",
+        "hours": 0,
+        "minutes": 4,
+        "name": "Git Config",
+        "percent": 17.66,
+        "seconds": 54,
+        "text": "4 mins",
+        "total_seconds": 294.478751
+      },
+      {
+        "decimal": "0.07",
+        "digital": "0:04:16",
+        "hours": 0,
+        "minutes": 4,
+        "name": "HTML",
+        "percent": 15.4,
+        "seconds": 16,
+        "text": "4 mins",
+        "total_seconds": 256.829375
+      },
+      {
+        "decimal": "0.05",
+        "digital": "0:03:17",
+        "hours": 0,
+        "minutes": 3,
+        "name": "CSS",
+        "percent": 11.85,
+        "seconds": 17,
+        "text": "3 mins",
+        "total_seconds": 197.572598
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:29",
+        "hours": 0,
+        "minutes": 0,
+        "name": "TypeScript",
+        "percent": 1.74,
+        "seconds": 29,
+        "text": "29 secs",
+        "total_seconds": 29.03834
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:26",
+        "hours": 0,
+        "minutes": 0,
+        "name": "TSConfig",
+        "percent": 1.58,
+        "seconds": 26,
+        "text": "26 secs",
+        "total_seconds": 26.29674
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:04",
+        "hours": 0,
+        "minutes": 0,
+        "name": "YAML",
+        "percent": 0.24,
+        "seconds": 4,
+        "text": "4 secs",
+        "total_seconds": 4.00293
+      }
+    ],
+    "range": {
+      "date": "2023-03-25",
+      "end": "2023-03-25T18:29:59Z",
+      "start": "2023-03-24T18:30:00Z",
+      "text": "Sat Mar 25th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": [
+      {
+        "decimal": "0.45",
+        "digital": "0:27:47",
+        "hours": 0,
+        "minutes": 27,
+        "name": "VS Code",
+        "percent": 100.0,
+        "seconds": 47,
+        "text": "27 mins",
+        "total_seconds": 1667.576621
+      }
+    ]
+  },
+  "03-18-2023": {
+    "grand_total": {
+      "decimal": 2.2,
+      "digital": "2:12",
+      "hours": 2,
+      "minutes": 12,
+      "text": "2 hrs 12 mins",
+      "seconds": null,
+      "total_seconds": 7964.806112
+    },
+    "languages": [
+      {
+        "decimal": "1.37",
+        "digital": "1:22:35",
+        "hours": 1,
+        "minutes": 22,
+        "name": "TypeScript",
+        "percent": 62.21374518501273,
+        "seconds": 35,
+        "text": "1 hr 22 mins",
+        "total_seconds": 4955.204179
+      },
+      {
+        "decimal": "0.77",
+        "digital": "0:46:37",
+        "hours": 0,
+        "minutes": 46,
+        "name": "Python",
+        "percent": 35.11735239588466,
+        "seconds": 37,
+        "text": "46 mins",
+        "total_seconds": 2797.02903
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:32",
+        "hours": 0,
+        "minutes": 2,
+        "name": "JSON",
+        "percent": 1.9162647006566578,
+        "seconds": 32,
+        "text": "2 mins",
+        "total_seconds": 152.626768
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:59",
+        "hours": 0,
+        "minutes": 0,
+        "name": "YAML",
+        "percent": 0.7473969129055429,
+        "seconds": 59,
+        "text": "59 secs",
+        "total_seconds": 59.528715
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Markdown",
+        "percent": 0.005240805540402338,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.41742
+      }
+    ],
+    "range": {
+      "date": "2023-03-18",
+      "end": "2023-03-18T18:29:59Z",
+      "start": "2023-03-17T18:30:00Z",
+      "text": "Sat Mar 18th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": [
+      {
+        "decimal": "2.20",
+        "digital": "2:12:44",
+        "hours": 2,
+        "minutes": 12,
+        "name": "VS Code",
+        "percent": 100.0,
+        "seconds": 44,
+        "text": "2 hrs 12 mins",
+        "total_seconds": 7964.806112
+      }
+    ]
+  },
+  "03-14-2023": {
+    "grand_total": {
+      "decimal": 0.55,
+      "digital": "0:33",
+      "hours": 0,
+      "minutes": 33,
+      "text": "0 hrs 33 mins",
+      "seconds": null,
+      "total_seconds": 2036.341244
+    },
+    "languages": [
+      {
+        "decimal": "0.47",
+        "digital": "0:28:45",
+        "hours": 0,
+        "minutes": 28,
+        "name": "Python",
+        "percent": 84.75144817132625,
+        "seconds": 45,
+        "text": "28 mins",
+        "total_seconds": 1725.828694
+      },
+      {
+        "decimal": "0.05",
+        "digital": "0:03:40",
+        "hours": 0,
+        "minutes": 3,
+        "name": "Other",
+        "percent": 10.828426259582258,
+        "seconds": 40,
+        "text": "3 mins",
+        "total_seconds": 220.50371
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:00",
+        "hours": 0,
+        "minutes": 1,
+        "name": "INI",
+        "percent": 2.9577793593027084,
+        "seconds": 0,
+        "text": "1 min",
+        "total_seconds": 60.230481
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:11",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Go",
+        "percent": 0.5434464892663148,
+        "seconds": 11,
+        "text": "11 secs",
+        "total_seconds": 11.066425
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:09",
+        "hours": 0,
+        "minutes": 0,
+        "name": "JSON",
+        "percent": 0.4622881370073552,
+        "seconds": 9,
+        "text": "9 secs",
+        "total_seconds": 9.413764
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:06",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Text",
+        "percent": 0.30543151931563,
+        "seconds": 6,
+        "text": "6 secs",
+        "total_seconds": 6.219628
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:03",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Git Config",
+        "percent": 0.15118006419949523,
+        "seconds": 3,
+        "text": "3 secs",
+        "total_seconds": 3.078542
+      }
+    ],
+    "range": {
+      "date": "2023-03-14",
+      "end": "2023-03-14T18:29:59Z",
+      "start": "2023-03-13T18:30:00Z",
+      "text": "Tue Mar 14th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": [
+      {
+        "decimal": "0.55",
+        "digital": "0:33:56",
+        "hours": 0,
+        "minutes": 33,
+        "name": "VS Code",
+        "percent": 100.0,
+        "seconds": 56,
+        "text": "33 mins",
+        "total_seconds": 2036.341244
+      }
+    ]
+  },
+  "03-21-2023": {
+    "grand_total": {
+      "decimal": 2.4,
+      "digital": "2:24",
+      "hours": 2,
+      "minutes": 24,
+      "text": "2 hrs 24 mins",
+      "seconds": null,
+      "total_seconds": 8674.266081
+    },
+    "languages": [
+      {
+        "decimal": "1.92",
+        "digital": "1:55:26",
+        "hours": 1,
+        "minutes": 55,
+        "name": "Python",
+        "percent": 79.84821569136737,
+        "seconds": 26,
+        "text": "1 hr 55 mins",
+        "total_seconds": 6926.24669
+      },
+      {
+        "decimal": "0.37",
+        "digital": "0:22:05",
+        "hours": 0,
+        "minutes": 22,
+        "name": "TypeScript",
+        "percent": 15.276215804614075,
+        "seconds": 5,
+        "text": "22 mins",
+        "total_seconds": 1325.099606
+      },
+      {
+        "decimal": "0.10",
+        "digital": "0:06:13",
+        "hours": 0,
+        "minutes": 6,
+        "name": "JavaScript",
+        "percent": 4.30896334640579,
+        "seconds": 13,
+        "text": "6 mins",
+        "total_seconds": 373.770946
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:26",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Other",
+        "percent": 0.30276836973592486,
+        "seconds": 26,
+        "text": "26 secs",
+        "total_seconds": 26.262934
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:14",
+        "hours": 0,
+        "minutes": 0,
+        "name": "CSS",
+        "percent": 0.17041846378657335,
+        "seconds": 14,
+        "text": "14 secs",
+        "total_seconds": 14.782551
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:08",
+        "hours": 0,
+        "minutes": 0,
+        "name": "JSON",
+        "percent": 0.09341832409025913,
+        "seconds": 8,
+        "text": "8 secs",
+        "total_seconds": 8.103354
+      }
+    ],
+    "range": {
+      "date": "2023-03-21",
+      "end": "2023-03-21T18:29:59Z",
+      "start": "2023-03-20T18:30:00Z",
+      "text": "Tue Mar 21st 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": [
+      {
+        "decimal": "2.40",
+        "digital": "2:24:34",
+        "hours": 2,
+        "minutes": 24,
+        "name": "VS Code",
+        "percent": 100.0,
+        "seconds": 34,
+        "text": "2 hrs 24 mins",
+        "total_seconds": 8674.266081
+      }
+    ]
+  },
+  "03-28-2023": {
+    "grand_total": {
+      "decimal": "5.73",
+      "digital": "5:44",
+      "hours": 5,
+      "minutes": 44,
+      "text": "5 hrs 44 mins",
+      "total_seconds": 20682.138038
+    },
+    "languages": [
+      {
+        "decimal": "4.03",
+        "digital": "4:02:30",
+        "hours": 4,
+        "minutes": 2,
+        "name": "Python",
+        "percent": 70.35,
+        "seconds": 30,
+        "text": "4 hrs 2 mins",
+        "total_seconds": 14550.811635
+      },
+      {
+        "decimal": "1.00",
+        "digital": "1:00:12",
+        "hours": 1,
+        "minutes": 0,
+        "name": "Other",
+        "percent": 17.47,
+        "seconds": 12,
+        "text": "1 hr",
+        "total_seconds": 3612.44779
+      },
+      {
+        "decimal": "0.37",
+        "digital": "0:22:07",
+        "hours": 0,
+        "minutes": 22,
+        "name": "TypeScript",
+        "percent": 6.42,
+        "seconds": 7,
+        "text": "22 mins",
+        "total_seconds": 1327.397991
+      },
+      {
+        "decimal": "0.20",
+        "digital": "0:12:18",
+        "hours": 0,
+        "minutes": 12,
+        "name": "JavaScript",
+        "percent": 3.57,
+        "seconds": 18,
+        "text": "12 mins",
+        "total_seconds": 738.540112
+      },
+      {
+        "decimal": "0.07",
+        "digital": "0:04:46",
+        "hours": 0,
+        "minutes": 4,
+        "name": "JSON",
+        "percent": 1.38,
+        "seconds": 46,
+        "text": "4 mins",
+        "total_seconds": 286.135091
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:48",
+        "hours": 0,
+        "minutes": 1,
+        "name": "SQL",
+        "percent": 0.52,
+        "seconds": 48,
+        "text": "1 min",
+        "total_seconds": 108.006174
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:53",
+        "hours": 0,
+        "minutes": 0,
+        "name": "XML",
+        "percent": 0.26,
+        "seconds": 53,
+        "text": "53 secs",
+        "total_seconds": 53.339162
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "CSS",
+        "percent": 0.03,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.460083
+      }
+    ],
+    "range": {
+      "date": "2023-03-28",
+      "end": "2023-03-28T18:29:59Z",
+      "start": "2023-03-27T18:30:00Z",
+      "text": "Tue Mar 28th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": [
+      {
+        "decimal": "4.70",
+        "digital": "4:42:54",
+        "hours": 4,
+        "minutes": 42,
+        "name": "VS Code",
+        "percent": 82.07,
+        "seconds": 54,
+        "text": "4 hrs 42 mins",
+        "total_seconds": 16974.131864
+      },
+      {
+        "decimal": "1.00",
+        "digital": "1:00:00",
+        "hours": 1,
+        "minutes": 0,
+        "name": "Google Calendar",
+        "percent": 17.41,
+        "seconds": 0,
+        "text": "1 hr",
+        "total_seconds": 3600.0
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:48",
+        "hours": 0,
+        "minutes": 1,
+        "name": "DBeaver",
+        "percent": 0.52,
+        "seconds": 48,
+        "text": "1 min",
+        "total_seconds": 108.006174
+      }
+    ]
+  },
+  "03-24-2023": {
+    "grand_total": {
+      "decimal": "1.83",
+      "digital": "1:50",
+      "hours": 1,
+      "minutes": 50,
+      "text": "1 hr 50 mins",
+      "total_seconds": 6651.43045
+    },
+    "languages": [
+      {
+        "decimal": "1.55",
+        "digital": "1:33:44",
+        "hours": 1,
+        "minutes": 33,
+        "name": "Other",
+        "percent": 84.56,
+        "seconds": 44,
+        "text": "1 hr 33 mins",
+        "total_seconds": 5624.285019
+      },
+      {
+        "decimal": "0.15",
+        "digital": "0:09:59",
+        "hours": 0,
+        "minutes": 9,
+        "name": "TypeScript",
+        "percent": 9.02,
+        "seconds": 59,
+        "text": "9 mins",
+        "total_seconds": 599.809032
+      },
+      {
+        "decimal": "0.07",
+        "digital": "0:04:03",
+        "hours": 0,
+        "minutes": 4,
+        "name": "Python",
+        "percent": 3.66,
+        "seconds": 3,
+        "text": "4 mins",
+        "total_seconds": 243.245716
+      },
+      {
+        "decimal": "0.05",
+        "digital": "0:03:04",
+        "hours": 0,
+        "minutes": 3,
+        "name": "JavaScript",
+        "percent": 2.77,
+        "seconds": 4,
+        "text": "3 mins",
+        "total_seconds": 184.090683
+      }
+    ],
+    "range": {
+      "date": "2023-03-24",
+      "end": "2023-03-24T18:29:59Z",
+      "start": "2023-03-23T18:30:00Z",
+      "text": "Fri Mar 24th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": [
+      {
+        "decimal": "1.50",
+        "digital": "1:30:00",
+        "hours": 1,
+        "minutes": 30,
+        "name": "Google Calendar",
+        "percent": 81.19,
+        "seconds": 0,
+        "text": "1 hr 30 mins",
+        "total_seconds": 5400.0
+      },
+      {
+        "decimal": "0.33",
+        "digital": "0:20:51",
+        "hours": 0,
+        "minutes": 20,
+        "name": "VS Code",
+        "percent": 18.81,
+        "seconds": 51,
+        "text": "20 mins",
+        "total_seconds": 1251.43045
+      }
+    ]
+  },
+  "03-15-2023": {
+    "grand_total": {
+      "decimal": 0.4166666666666667,
+      "digital": "0:25",
+      "hours": 0,
+      "minutes": 25,
+      "text": "0 hrs 25 mins",
+      "seconds": null,
+      "total_seconds": 1522.664164
+    },
+    "languages": [
+      {
+        "decimal": "0.30",
+        "digital": "0:18:02",
+        "hours": 0,
+        "minutes": 18,
+        "name": "Python",
+        "percent": 71.11360775415216,
+        "seconds": 2,
+        "text": "18 mins",
+        "total_seconds": 1082.821421
+      },
+      {
+        "decimal": "0.08",
+        "digital": "0:05:38",
+        "hours": 0,
+        "minutes": 5,
+        "name": "Other",
+        "percent": 22.241775961307773,
+        "seconds": 38,
+        "text": "5 mins",
+        "total_seconds": 338.667552
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:41",
+        "hours": 0,
+        "minutes": 1,
+        "name": "YAML",
+        "percent": 6.644616284540075,
+        "seconds": 41,
+        "text": "1 min",
+        "total_seconds": 101.175191
+      }
+    ],
+    "range": {
+      "date": "2023-03-15",
+      "end": "2023-03-15T18:29:59Z",
+      "start": "2023-03-14T18:30:00Z",
+      "text": "Wed Mar 15th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": [
+      {
+        "decimal": "0.42",
+        "digital": "0:25:22",
+        "hours": 0,
+        "minutes": 25,
+        "name": "VS Code",
+        "percent": 100.00000000000001,
+        "seconds": 22,
+        "text": "25 mins",
+        "total_seconds": 1522.664164
+      }
+    ]
+  },
+  "03-08-2023": {
+    "grand_total": {
+      "decimal": 0.8833333333333333,
+      "digital": "0:53",
+      "hours": 0,
+      "minutes": 53,
+      "text": "0 hrs 53 mins",
+      "seconds": null,
+      "total_seconds": 3188.60785
+    },
+    "languages": [
+      {
+        "decimal": "0.35",
+        "digital": "0:21:23",
+        "hours": 0,
+        "minutes": 21,
+        "name": "TypeScript",
+        "percent": 40.24504524756784,
+        "seconds": 23,
+        "text": "21 mins",
+        "total_seconds": 1283.256672
+      },
+      {
+        "decimal": "0.23",
+        "digital": "0:14:49",
+        "hours": 0,
+        "minutes": 14,
+        "name": "CSS",
+        "percent": 27.90330927649194,
+        "seconds": 49,
+        "text": "14 mins",
+        "total_seconds": 889.72711
+      },
+      {
+        "decimal": "0.13",
+        "digital": "0:08:41",
+        "hours": 0,
+        "minutes": 8,
+        "name": "Python",
+        "percent": 16.36596579287729,
+        "seconds": 41,
+        "text": "8 mins",
+        "total_seconds": 521.84647
+      },
+      {
+        "decimal": "0.05",
+        "digital": "0:03:33",
+        "hours": 0,
+        "minutes": 3,
+        "name": "TSConfig",
+        "percent": 6.691188726766762,
+        "seconds": 33,
+        "text": "3 mins",
+        "total_seconds": 213.355769
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:50",
+        "hours": 0,
+        "minutes": 2,
+        "name": "Other",
+        "percent": 5.358375850451476,
+        "seconds": 50,
+        "text": "2 mins",
+        "total_seconds": 170.857593
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:42",
+        "hours": 0,
+        "minutes": 0,
+        "name": "HTML",
+        "percent": 1.331851924030106,
+        "seconds": 42,
+        "text": "42 secs",
+        "total_seconds": 42.467535
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:42",
+        "hours": 0,
+        "minutes": 0,
+        "name": "JSON",
+        "percent": 1.3211030638339551,
+        "seconds": 42,
+        "text": "42 secs",
+        "total_seconds": 42.124796
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:24",
+        "hours": 0,
+        "minutes": 0,
+        "name": "JavaScript",
+        "percent": 0.7831601179806417,
+        "seconds": 24,
+        "text": "24 secs",
+        "total_seconds": 24.971905
+      }
+    ],
+    "range": {
+      "date": "2023-03-08",
+      "end": "2023-03-08T18:29:59Z",
+      "start": "2023-03-07T18:30:00Z",
+      "text": "Wed Mar 8th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": [
+      {
+        "decimal": "0.88",
+        "digital": "0:53:08",
+        "hours": 0,
+        "minutes": 53,
+        "name": "VS Code",
+        "percent": 100.0,
+        "seconds": 8,
+        "text": "53 mins",
+        "total_seconds": 3188.60785
+      }
+    ]
+  },
+  "03-07-2023": {
+    "grand_total": {
+      "decimal": 0.7,
+      "digital": "0:42",
+      "hours": 0,
+      "minutes": 42,
+      "text": "0 hrs 42 mins",
+      "seconds": null,
+      "total_seconds": 2543.033314
+    },
+    "languages": [
+      {
+        "decimal": "0.58",
+        "digital": "0:35:36",
+        "hours": 0,
+        "minutes": 35,
+        "name": "Go",
+        "percent": 84.03099614289992,
+        "seconds": 36,
+        "text": "35 mins",
+        "total_seconds": 2136.936226
+      },
+      {
+        "decimal": "0.10",
+        "digital": "0:06:38",
+        "hours": 0,
+        "minutes": 6,
+        "name": "TypeScript",
+        "percent": 15.6528875500213,
+        "seconds": 38,
+        "text": "6 mins",
+        "total_seconds": 398.058145
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:08",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Markdown",
+        "percent": 0.3161163070787833,
+        "seconds": 8,
+        "text": "8 secs",
+        "total_seconds": 8.038943
+      }
+    ],
+    "range": {
+      "date": "2023-03-07",
+      "end": "2023-03-07T18:29:59Z",
+      "start": "2023-03-06T18:30:00Z",
+      "text": "Tue Mar 7th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": [
+      {
+        "decimal": "0.70",
+        "digital": "0:42:23",
+        "hours": 0,
+        "minutes": 42,
+        "name": "VS Code",
+        "percent": 100.0,
+        "seconds": 23,
+        "text": "42 mins",
+        "total_seconds": 2543.033314
+      }
+    ]
+  },
+  "03-16-2023": {
+    "grand_total": {
+      "decimal": 4.15,
+      "digital": "4:09",
+      "hours": 4,
+      "minutes": 9,
+      "text": "4 hrs 9 mins",
+      "seconds": null,
+      "total_seconds": 14979.500808
+    },
+    "languages": [
+      {
+        "decimal": "1.80",
+        "digital": "1:48:50",
+        "hours": 1,
+        "minutes": 48,
+        "name": "Python",
+        "percent": 43.59440138694374,
+        "seconds": 50,
+        "text": "1 hr 48 mins",
+        "total_seconds": 6530.223708
+      },
+      {
+        "decimal": "1.32",
+        "digital": "1:19:24",
+        "hours": 1,
+        "minutes": 19,
+        "name": "TypeScript",
+        "percent": 31.80938978590828,
+        "seconds": 24,
+        "text": "1 hr 19 mins",
+        "total_seconds": 4764.8878
+      },
+      {
+        "decimal": "0.35",
+        "digital": "0:21:05",
+        "hours": 0,
+        "minutes": 21,
+        "name": "JSON",
+        "percent": 8.448916964736812,
+        "seconds": 5,
+        "text": "21 mins",
+        "total_seconds": 1265.605585
+      },
+      {
+        "decimal": "0.27",
+        "digital": "0:16:01",
+        "hours": 0,
+        "minutes": 16,
+        "name": "Markdown",
+        "percent": 6.420853527283978,
+        "seconds": 1,
+        "text": "16 mins",
+        "total_seconds": 961.811806
+      },
+      {
+        "decimal": "0.15",
+        "digital": "0:09:52",
+        "hours": 0,
+        "minutes": 9,
+        "name": "Other",
+        "percent": 3.952069522128764,
+        "seconds": 52,
+        "text": "9 mins",
+        "total_seconds": 592.000286
+      },
+      {
+        "decimal": "0.10",
+        "digital": "0:06:25",
+        "hours": 0,
+        "minutes": 6,
+        "name": "CSV",
+        "percent": 2.5737728041918335,
+        "seconds": 25,
+        "text": "6 mins",
+        "total_seconds": 385.538318
+      },
+      {
+        "decimal": "0.08",
+        "digital": "0:05:28",
+        "hours": 0,
+        "minutes": 5,
+        "name": "YAML",
+        "percent": 2.1935467824436197,
+        "seconds": 28,
+        "text": "5 mins",
+        "total_seconds": 328.582358
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:20",
+        "hours": 0,
+        "minutes": 1,
+        "name": "JavaScript",
+        "percent": 0.5387492482853639,
+        "seconds": 20,
+        "text": "1 min",
+        "total_seconds": 80.701948
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:39",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Go",
+        "percent": 0.2639839371608517,
+        "seconds": 39,
+        "text": "39 secs",
+        "total_seconds": 39.543476
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:30",
+        "hours": 0,
+        "minutes": 0,
+        "name": "CSS",
+        "percent": 0.20431604091676217,
+        "seconds": 30,
+        "text": "30 secs",
+        "total_seconds": 30.605523
+      }
+    ],
+    "range": {
+      "date": "2023-03-16",
+      "end": "2023-03-16T18:29:59Z",
+      "start": "2023-03-15T18:30:00Z",
+      "text": "Thu Mar 16th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": [
+      {
+        "decimal": "4.15",
+        "digital": "4:09:39",
+        "hours": 4,
+        "minutes": 9,
+        "name": "VS Code",
+        "percent": 100.0,
+        "seconds": 39,
+        "text": "4 hrs 9 mins",
+        "total_seconds": 14979.500808
+      }
+    ]
+  },
+  "03-04-2023": {
+    "grand_total": {
+      "decimal": 2.65,
+      "digital": "2:39",
+      "hours": 2,
+      "minutes": 39,
+      "text": "2 hrs 39 mins",
+      "seconds": null,
+      "total_seconds": 9645.736038
+    },
+    "languages": [
+      {
+        "decimal": 2.5,
+        "digital": "2:30:08",
+        "hours": 2,
+        "minutes": 30,
+        "text": "2 hrs 30 mins",
+        "seconds": 8,
+        "total_seconds": 9008.645851,
+        "percent": 9.522147458541102
+      },
+      {
+        "decimal": "0.08",
+        "digital": "0:05:17",
+        "hours": 0,
+        "minutes": 5,
+        "name": "Bash",
+        "percent": 3.2895219996688865,
+        "seconds": 17,
+        "text": "5 mins",
+        "total_seconds": 317.298609
+      },
+      {
+        "decimal": "0.05",
+        "digital": "0:03:14",
+        "hours": 0,
+        "minutes": 3,
+        "name": "JavaScript",
+        "percent": 2.0151878429414682,
+        "seconds": 14,
+        "text": "3 mins",
+        "total_seconds": 194.3797
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:25",
+        "hours": 0,
+        "minutes": 1,
+        "name": "Python",
+        "percent": 0.8857283639467555,
+        "seconds": 25,
+        "text": "1 min",
+        "total_seconds": 85.43502
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:11",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Text",
+        "percent": 0.11603355053369958,
+        "seconds": 11,
+        "text": "11 secs",
+        "total_seconds": 11.19229
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Markdown",
+        "percent": 0.004396450393514283,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.42407
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:26",
+        "hours": 0,
+        "minutes": 0,
+        "name": "JSON",
+        "percent": 0.273270581904348,
+        "seconds": 26,
+        "text": "26 secs",
+        "total_seconds": 26.358959
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:02",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Other",
+        "percent": 0.02075050563393823,
+        "seconds": 2,
+        "text": "2 secs",
+        "total_seconds": 2.001539
+      }
+    ],
+    "range": {
+      "date": "2023-03-04",
+      "end": "2023-03-04T18:29:59Z",
+      "start": "2023-03-03T18:30:00Z",
+      "text": "Sat Mar 4th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": [
+      {
+        "decimal": 2.6666666666666665,
+        "digital": "2:40:44",
+        "hours": 2,
+        "minutes": 40,
+        "text": "2 hrs 40 mins",
+        "seconds": 44,
+        "total_seconds": 9645.736038,
+        "percent": 9.816168546079387
+      }
+    ]
+  },
+  "03-29-2023": {
+    "grand_total": {
+      "decimal": "2.45",
+      "digital": "2:27",
+      "hours": 2,
+      "minutes": 27,
+      "text": "2 hrs 27 mins",
+      "total_seconds": 8832.946527
+    },
+    "languages": [
+      {
+        "decimal": "2.03",
+        "digital": "2:02:08",
+        "hours": 2,
+        "minutes": 2,
+        "name": "Other",
+        "percent": 82.96,
+        "seconds": 8,
+        "text": "2 hrs 2 mins",
+        "total_seconds": 7328.104869
+      },
+      {
+        "decimal": "0.37",
+        "digital": "0:22:32",
+        "hours": 0,
+        "minutes": 22,
+        "name": "Python",
+        "percent": 15.32,
+        "seconds": 32,
+        "text": "22 mins",
+        "total_seconds": 1352.992807
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:31",
+        "hours": 0,
+        "minutes": 2,
+        "name": "JSON",
+        "percent": 1.72,
+        "seconds": 31,
+        "text": "2 mins",
+        "total_seconds": 151.848851
+      }
+    ],
+    "range": {
+      "date": "2023-03-29",
+      "end": "2023-03-29T18:29:59Z",
+      "start": "2023-03-28T18:30:00Z",
+      "text": "Wed Mar 29th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": [
+      {
+        "decimal": "2.00",
+        "digital": "2:00:00",
+        "hours": 2,
+        "minutes": 0,
+        "name": "Google Calendar",
+        "percent": 81.51,
+        "seconds": 0,
+        "text": "2 hrs",
+        "total_seconds": 7200.0
+      },
+      {
+        "decimal": "0.45",
+        "digital": "0:27:12",
+        "hours": 0,
+        "minutes": 27,
+        "name": "VS Code",
+        "percent": 18.49,
+        "seconds": 12,
+        "text": "27 mins",
+        "total_seconds": 1632.946527
+      }
+    ]
+  },
+  "03-01-2023": {
+    "grand_total": {
+      "decimal": 0.9666666666666667,
+      "digital": "0:58",
+      "hours": 0,
+      "minutes": 58,
+      "text": "0 hrs 58 mins",
+      "seconds": null,
+      "total_seconds": 3535.117891
+    },
+    "languages": [
+      {
+        "decimal": "0.82",
+        "digital": "0:49:15",
+        "hours": 0,
+        "minutes": 49,
+        "name": "Python",
+        "percent": 83.61,
+        "seconds": 15,
+        "text": "49 mins",
+        "total_seconds": 2955.563962
+      },
+      {
+        "decimal": "0.13",
+        "digital": "0:08:38",
+        "hours": 0,
+        "minutes": 8,
+        "name": "Go",
+        "percent": 14.66,
+        "seconds": 38,
+        "text": "8 mins",
+        "total_seconds": 518.40091
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:21",
+        "hours": 0,
+        "minutes": 0,
+        "name": "JSON",
+        "percent": 0.61,
+        "seconds": 21,
+        "text": "21 secs",
+        "total_seconds": 21.402698
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:19",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Other",
+        "percent": 0.56,
+        "seconds": 19,
+        "text": "19 secs",
+        "total_seconds": 19.900109
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:08",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Text",
+        "percent": 0.24,
+        "seconds": 8,
+        "text": "8 secs",
+        "total_seconds": 8.320953
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:07",
+        "hours": 0,
+        "minutes": 0,
+        "name": "CSV",
+        "percent": 0.21,
+        "seconds": 7,
+        "text": "7 secs",
+        "total_seconds": 7.458548
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:02",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Markdown",
+        "percent": 0.07,
+        "seconds": 2,
+        "text": "2 secs",
+        "total_seconds": 2.369946
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "INI",
+        "percent": 0.05,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.700765
+      }
+    ],
+    "range": {
+      "date": "2023-03-01",
+      "end": "2023-03-01T18:29:59Z",
+      "start": "2023-02-28T18:30:00Z",
+      "text": "Wed Mar 1st 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": [
+      {
+        "decimal": "0.97",
+        "digital": "0:58:55",
+        "hours": 0,
+        "minutes": 58,
+        "name": "VS Code",
+        "percent": 100.0,
+        "seconds": 55,
+        "text": "58 mins",
+        "total_seconds": 3535.117891
+      }
+    ]
+  },
+  "03-17-2023": {
+    "grand_total": {
+      "decimal": 1.95,
+      "digital": "1:57",
+      "hours": 1,
+      "minutes": 57,
+      "text": "1 hrs 57 mins",
+      "seconds": null,
+      "total_seconds": 7049.716169
+    },
+    "languages": [
+      {
+        "decimal": "1.18",
+        "digital": "1:11:43",
+        "hours": 1,
+        "minutes": 11,
+        "name": "Python",
+        "percent": 61.0408414018519,
+        "seconds": 43,
+        "text": "1 hr 11 mins",
+        "total_seconds": 4303.206066
+      },
+      {
+        "decimal": "0.30",
+        "digital": "0:18:44",
+        "hours": 0,
+        "minutes": 18,
+        "name": "TypeScript",
+        "percent": 15.947721440811952,
+        "seconds": 44,
+        "text": "18 mins",
+        "total_seconds": 1124.269097
+      },
+      {
+        "decimal": "0.27",
+        "digital": "0:16:09",
+        "hours": 0,
+        "minutes": 16,
+        "name": "Other",
+        "percent": 13.753660626276483,
+        "seconds": 9,
+        "text": "16 mins",
+        "total_seconds": 969.594037
+      },
+      {
+        "decimal": "0.15",
+        "digital": "0:09:05",
+        "hours": 0,
+        "minutes": 9,
+        "name": "YAML",
+        "percent": 7.732299484580853,
+        "seconds": 5,
+        "text": "9 mins",
+        "total_seconds": 545.105167
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:06",
+        "hours": 0,
+        "minutes": 1,
+        "name": "CSV",
+        "percent": 0.9382185951095133,
+        "seconds": 6,
+        "text": "1 min",
+        "total_seconds": 66.141748
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:38",
+        "hours": 0,
+        "minutes": 0,
+        "name": "JSON",
+        "percent": 0.5453344372792436,
+        "seconds": 38,
+        "text": "38 secs",
+        "total_seconds": 38.44453
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:02",
+        "hours": 0,
+        "minutes": 0,
+        "name": "JavaScript",
+        "percent": 0.028459401086563092,
+        "seconds": 2,
+        "text": "2 secs",
+        "total_seconds": 2.006307
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Markdown",
+        "percent": 0.0073058402303458735,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.515041
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "TSConfig",
+        "percent": 0.006158772773139713,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.434176
+      }
+    ],
+    "range": {
+      "date": "2023-03-17",
+      "end": "2023-03-17T18:29:59Z",
+      "start": "2023-03-16T18:30:00Z",
+      "text": "Fri Mar 17th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": [
+      {
+        "decimal": "1.95",
+        "digital": "1:57:29",
+        "hours": 1,
+        "minutes": 57,
+        "name": "VS Code",
+        "percent": 100.0,
+        "seconds": 29,
+        "text": "1 hr 57 mins",
+        "total_seconds": 7049.716169
+      }
+    ]
+  },
+  "03-02-2023": {
+    "grand_total": {
+      "decimal": 0.55,
+      "digital": "0:33",
+      "hours": 0,
+      "minutes": 33,
+      "text": "0 hrs 33 mins",
+      "seconds": null,
+      "total_seconds": 2019.055653
+    },
+    "languages": [
+      {
+        "decimal": "0.28",
+        "digital": "0:17:35",
+        "hours": 0,
+        "minutes": 17,
+        "name": "Other",
+        "percent": 52.26,
+        "seconds": 35,
+        "text": "17 mins",
+        "total_seconds": 1055.11553
+      },
+      {
+        "decimal": "0.20",
+        "digital": "0:12:36",
+        "hours": 0,
+        "minutes": 12,
+        "name": "Go",
+        "percent": 37.47,
+        "seconds": 36,
+        "text": "12 mins",
+        "total_seconds": 756.510938
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:25",
+        "hours": 0,
+        "minutes": 1,
+        "name": "JSON",
+        "percent": 4.22,
+        "seconds": 25,
+        "text": "1 min",
+        "total_seconds": 85.20529
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:23",
+        "hours": 0,
+        "minutes": 1,
+        "name": "JavaScript",
+        "percent": 4.12,
+        "seconds": 23,
+        "text": "1 min",
+        "total_seconds": 83.093204
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:22",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Python",
+        "percent": 1.11,
+        "seconds": 22,
+        "text": "22 secs",
+        "total_seconds": 22.43265
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:16",
+        "hours": 0,
+        "minutes": 0,
+        "name": "CSV",
+        "percent": 0.83,
+        "seconds": 16,
+        "text": "16 secs",
+        "total_seconds": 16.698041
+      }
+    ],
+    "range": {
+      "date": "2023-03-02",
+      "end": "2023-03-02T18:29:59Z",
+      "start": "2023-03-01T18:30:00Z",
+      "text": "Thu Mar 2nd 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": [
+      {
+        "decimal": "0.55",
+        "digital": "0:33:39",
+        "hours": 0,
+        "minutes": 33,
+        "name": "VS Code",
+        "percent": 100.0,
+        "seconds": 39,
+        "text": "33 mins",
+        "total_seconds": 2019.055653
+      }
+    ]
+  },
+  "03-27-2023": {
+    "grand_total": {
+      "decimal": "6.27",
+      "digital": "6:16",
+      "hours": 6,
+      "minutes": 16,
+      "text": "6 hrs 16 mins",
+      "total_seconds": 22564.426071
+    },
+    "languages": [
+      {
+        "decimal": "3.50",
+        "digital": "3:30:28",
+        "hours": 3,
+        "minutes": 30,
+        "name": "Python",
+        "percent": 55.97,
+        "seconds": 28,
+        "text": "3 hrs 30 mins",
+        "total_seconds": 12628.388712
+      },
+      {
+        "decimal": "2.03",
+        "digital": "2:02:47",
+        "hours": 2,
+        "minutes": 2,
+        "name": "SQL",
+        "percent": 32.65,
+        "seconds": 47,
+        "text": "2 hrs 2 mins",
+        "total_seconds": 7367.915759
+      },
+      {
+        "decimal": "0.25",
+        "digital": "0:15:25",
+        "hours": 0,
+        "minutes": 15,
+        "name": "JavaScript",
+        "percent": 4.1,
+        "seconds": 25,
+        "text": "15 mins",
+        "total_seconds": 925.256031
+      },
+      {
+        "decimal": "0.13",
+        "digital": "0:08:21",
+        "hours": 0,
+        "minutes": 8,
+        "name": "JSON",
+        "percent": 2.22,
+        "seconds": 21,
+        "text": "8 mins",
+        "total_seconds": 501.510035
+      },
+      {
+        "decimal": "0.10",
+        "digital": "0:06:59",
+        "hours": 0,
+        "minutes": 6,
+        "name": "Markdown",
+        "percent": 1.86,
+        "seconds": 59,
+        "text": "6 mins",
+        "total_seconds": 419.065055
+      },
+      {
+        "decimal": "0.08",
+        "digital": "0:05:14",
+        "hours": 0,
+        "minutes": 5,
+        "name": "HTML",
+        "percent": 1.4,
+        "seconds": 14,
+        "text": "5 mins",
+        "total_seconds": 314.853397
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:41",
+        "hours": 0,
+        "minutes": 2,
+        "name": "YAML",
+        "percent": 0.72,
+        "seconds": 41,
+        "text": "2 mins",
+        "total_seconds": 161.667855
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:33",
+        "hours": 0,
+        "minutes": 2,
+        "name": "TypeScript",
+        "percent": 0.68,
+        "seconds": 33,
+        "text": "2 mins",
+        "total_seconds": 153.134128
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:47",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Text",
+        "percent": 0.21,
+        "seconds": 47,
+        "text": "47 secs",
+        "total_seconds": 47.605556
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:35",
+        "hours": 0,
+        "minutes": 0,
+        "name": "SCSS",
+        "percent": 0.16,
+        "seconds": 35,
+        "text": "35 secs",
+        "total_seconds": 35.710172
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:06",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Other",
+        "percent": 0.03,
+        "seconds": 6,
+        "text": "6 secs",
+        "total_seconds": 6.437017
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:02",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Git Config",
+        "percent": 0.01,
+        "seconds": 2,
+        "text": "2 secs",
+        "total_seconds": 2.882354
+      }
+    ],
+    "range": {
+      "date": "2023-03-27",
+      "end": "2023-03-27T18:29:59Z",
+      "start": "2023-03-26T18:30:00Z",
+      "text": "Mon Mar 27th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": [
+      {
+        "decimal": "4.22",
+        "digital": "4:13:16",
+        "hours": 4,
+        "minutes": 13,
+        "name": "VS Code",
+        "percent": 67.35,
+        "seconds": 16,
+        "text": "4 hrs 13 mins",
+        "total_seconds": 15196.510312
+      },
+      {
+        "decimal": "2.03",
+        "digital": "2:02:47",
+        "hours": 2,
+        "minutes": 2,
+        "name": "DBeaver",
+        "percent": 32.65,
+        "seconds": 47,
+        "text": "2 hrs 2 mins",
+        "total_seconds": 7367.915759
+      }
+    ]
+  },
+  "03-31-2023": {
+    "grand_total": {
+      "decimal": "6.05",
+      "digital": "6:03",
+      "hours": 6,
+      "minutes": 3,
+      "text": "6 hrs 3 mins",
+      "total_seconds": 21825.810682
+    },
+    "languages": [
+      {
+        "decimal": "5.77",
+        "digital": "5:46:18",
+        "hours": 5,
+        "minutes": 46,
+        "name": "Python",
+        "percent": 95.2,
+        "seconds": 18,
+        "text": "5 hrs 46 mins",
+        "total_seconds": 20778.391343
+      },
+      {
+        "decimal": "0.12",
+        "digital": "0:07:08",
+        "hours": 0,
+        "minutes": 7,
+        "name": "YAML",
+        "percent": 1.96,
+        "seconds": 8,
+        "text": "7 mins",
+        "total_seconds": 428.872654
+      },
+      {
+        "decimal": "0.08",
+        "digital": "0:05:41",
+        "hours": 0,
+        "minutes": 5,
+        "name": "JavaScript",
+        "percent": 1.56,
+        "seconds": 41,
+        "text": "5 mins",
+        "total_seconds": 341.092828
+      },
+      {
+        "decimal": "0.07",
+        "digital": "0:04:37",
+        "hours": 0,
+        "minutes": 4,
+        "name": "SQL",
+        "percent": 1.27,
+        "seconds": 37,
+        "text": "4 mins",
+        "total_seconds": 277.453857
+      }
+    ],
+    "range": {
+      "date": "2023-03-31",
+      "end": "2023-03-31T18:29:59Z",
+      "start": "2023-03-30T18:30:00Z",
+      "text": "Fri Mar 31st 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": [
+      {
+        "decimal": "5.98",
+        "digital": "5:59:08",
+        "hours": 5,
+        "minutes": 59,
+        "name": "VS Code",
+        "percent": 98.73,
+        "seconds": 8,
+        "text": "5 hrs 59 mins",
+        "total_seconds": 21548.356825
+      },
+      {
+        "decimal": "0.07",
+        "digital": "0:04:37",
+        "hours": 0,
+        "minutes": 4,
+        "name": "DBeaver",
+        "percent": 1.27,
+        "seconds": 37,
+        "text": "4 mins",
+        "total_seconds": 277.453857
+      }
+    ]
+  },
+  "03-23-2023": {
+    "grand_total": {
+      "decimal": "1.87",
+      "digital": "1:52",
+      "hours": 1,
+      "minutes": 52,
+      "text": "1 hr 52 mins",
+      "total_seconds": 6736.796425
+    },
+    "languages": [
+      {
+        "decimal": "1.60",
+        "digital": "1:36:54",
+        "hours": 1,
+        "minutes": 36,
+        "name": "Python",
+        "percent": 86.3,
+        "seconds": 54,
+        "text": "1 hr 36 mins",
+        "total_seconds": 5814.082285
+      },
+      {
+        "decimal": "0.23",
+        "digital": "0:14:26",
+        "hours": 0,
+        "minutes": 14,
+        "name": "TypeScript",
+        "percent": 12.86,
+        "seconds": 26,
+        "text": "14 mins",
+        "total_seconds": 866.501892
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:56",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Other",
+        "percent": 0.83,
+        "seconds": 56,
+        "text": "56 secs",
+        "total_seconds": 56.212248
+      }
+    ],
+    "range": {
+      "date": "2023-03-23",
+      "end": "2023-03-23T18:29:59Z",
+      "start": "2023-03-22T18:30:00Z",
+      "text": "Thu Mar 23rd 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": [
+      {
+        "decimal": "1.85",
+        "digital": "1:51:20",
+        "hours": 1,
+        "minutes": 51,
+        "name": "VS Code",
+        "percent": 99.17,
+        "seconds": 20,
+        "text": "1 hr 51 mins",
+        "total_seconds": 6680.584177
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:56",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Bash",
+        "percent": 0.83,
+        "seconds": 56,
+        "text": "56 secs",
+        "total_seconds": 56.212248
+      }
+    ]
+  },
+  "03-13-2023": {
+    "grand_total": {
+      "decimal": 1.6833333333333333,
+      "digital": "1:41",
+      "hours": 1,
+      "minutes": 41,
+      "text": "1 hrs 41 mins",
+      "seconds": null,
+      "total_seconds": 6109.295122
+    },
+    "languages": [
+      {
+        "decimal": "0.82",
+        "digital": "0:49:22",
+        "hours": 0,
+        "minutes": 49,
+        "name": "TypeScript",
+        "percent": 48.4983488738392,
+        "seconds": 22,
+        "text": "49 mins",
+        "total_seconds": 2962.907262
+      },
+      {
+        "decimal": "0.78",
+        "digital": "0:47:43",
+        "hours": 0,
+        "minutes": 47,
+        "name": "Go",
+        "percent": 46.87445520003804,
+        "seconds": 43,
+        "text": "47 mins",
+        "total_seconds": 2863.698805
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:23",
+        "hours": 0,
+        "minutes": 2,
+        "name": "Python",
+        "percent": 2.343202335806229,
+        "seconds": 23,
+        "text": "2 mins",
+        "total_seconds": 143.153146
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:19",
+        "hours": 0,
+        "minutes": 2,
+        "name": "Markdown",
+        "percent": 2.283993590316523,
+        "seconds": 19,
+        "text": "2 mins",
+        "total_seconds": 139.535909
+      }
+    ],
+    "range": {
+      "date": "2023-03-13",
+      "end": "2023-03-13T18:29:59Z",
+      "start": "2023-03-12T18:30:00Z",
+      "text": "Mon Mar 13th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": [
+      {
+        "decimal": "1.68",
+        "digital": "1:41:49",
+        "hours": 1,
+        "minutes": 41,
+        "name": "VS Code",
+        "percent": 99.99999999999999,
+        "seconds": 49,
+        "text": "1 hr 41 mins",
+        "total_seconds": 6109.295122
+      }
+    ]
+  },
+  "03-20-2023": {
+    "grand_total": {
+      "decimal": 0.2833333333333333,
+      "digital": "0:17",
+      "hours": 0,
+      "minutes": 17,
+      "text": "0 hrs 17 mins",
+      "seconds": null,
+      "total_seconds": 1057.883508
+    },
+    "languages": [
+      {
+        "decimal": "0.28",
+        "digital": "0:17:37",
+        "hours": 0,
+        "minutes": 17,
+        "name": "TypeScript",
+        "percent": 100.0,
+        "seconds": 37,
+        "text": "17 mins",
+        "total_seconds": 1057.883508
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Python",
+        "percent": 0.0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.0
+      }
+    ],
+    "range": {
+      "date": "2023-03-20",
+      "end": "2023-03-20T18:29:59Z",
+      "start": "2023-03-19T18:30:00Z",
+      "text": "Mon Mar 20th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": [
+      {
+        "decimal": "0.28",
+        "digital": "0:17:37",
+        "hours": 0,
+        "minutes": 17,
+        "name": "VS Code",
+        "percent": 100.0,
+        "seconds": 37,
+        "text": "17 mins",
+        "total_seconds": 1057.883508
+      }
+    ]
+  },
+  "03-06-2023": {
+    "grand_total": {
+      "decimal": 0.15,
+      "digital": "0:09",
+      "hours": 0,
+      "minutes": 9,
+      "text": "0 hrs 9 mins",
+      "seconds": null,
+      "total_seconds": 554.063553
+    },
+    "languages": [
+      {
+        "decimal": "0.08",
+        "digital": "0:05:34",
+        "hours": 0,
+        "minutes": 5,
+        "name": "CSS",
+        "percent": 60.321782255906655,
+        "seconds": 34,
+        "text": "5 mins",
+        "total_seconds": 334.22101
+      },
+      {
+        "decimal": "0.05",
+        "digital": "0:03:39",
+        "hours": 0,
+        "minutes": 3,
+        "name": "HTML",
+        "percent": 39.678217744093345,
+        "seconds": 39,
+        "text": "3 mins",
+        "total_seconds": 219.842543
+      }
+    ],
+    "range": {
+      "date": "2023-03-06",
+      "end": "2023-03-06T18:29:59Z",
+      "start": "2023-03-05T18:30:00Z",
+      "text": "Mon Mar 6th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": [
+      {
+        "decimal": "0.15",
+        "digital": "0:09:14",
+        "hours": 0,
+        "minutes": 9,
+        "name": "VS Code",
+        "percent": 100.0,
+        "seconds": 14,
+        "text": "9 mins",
+        "total_seconds": 554.063553
+      }
+    ]
+  },
+  "03-11-2023": {
+    "grand_total": {
+      "decimal": 0.05,
+      "digital": "0:03",
+      "hours": 0,
+      "minutes": 3,
+      "text": "0 hrs 3 mins",
+      "seconds": null,
+      "total_seconds": 239.921324
+    },
+    "languages": [
+      {
+        "decimal": "0.05",
+        "digital": "0:03:59",
+        "hours": 0,
+        "minutes": 3,
+        "name": "Markdown",
+        "percent": 100.0,
+        "seconds": 59,
+        "text": "3 mins",
+        "total_seconds": 239.921324
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "YAML",
+        "percent": 0.0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.0
+      }
+    ],
+    "range": {
+      "date": "2023-03-11",
+      "end": "2023-03-11T18:29:59Z",
+      "start": "2023-03-10T18:30:00Z",
+      "text": "Sat Mar 11th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": [
+      {
+        "decimal": "0.05",
+        "digital": "0:03:59",
+        "hours": 0,
+        "minutes": 3,
+        "name": "VS Code",
+        "percent": 100.0,
+        "seconds": 59,
+        "text": "3 mins",
+        "total_seconds": 239.921324
+      }
+    ]
+  },
+  "03-22-2023": {
+    "grand_total": {
+      "decimal": 1.35,
+      "digital": "1:21",
+      "hours": 1,
+      "minutes": 21,
+      "text": "1 hrs 21 mins",
+      "seconds": null,
+      "total_seconds": 4887.897809
+    },
+    "languages": [
+      {
+        "decimal": "1.00",
+        "digital": "1:00:31",
+        "hours": 1,
+        "minutes": 0,
+        "name": "Python",
+        "percent": 74.29492210973514,
+        "seconds": 31,
+        "text": "1 hr",
+        "total_seconds": 3631.45987
+      },
+      {
+        "decimal": "0.33",
+        "digital": "0:20:38",
+        "hours": 0,
+        "minutes": 20,
+        "name": "TypeScript",
+        "percent": 25.34385026869943,
+        "seconds": 38,
+        "text": "20 mins",
+        "total_seconds": 1238.781502
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:11",
+        "hours": 0,
+        "minutes": 0,
+        "name": "JSON",
+        "percent": 0.2379895295392826,
+        "seconds": 11,
+        "text": "11 secs",
+        "total_seconds": 11.632685
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:06",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Other",
+        "percent": 0.12323809202615839,
+        "seconds": 6,
+        "text": "6 secs",
+        "total_seconds": 6.023752
+      }
+    ],
+    "range": {
+      "date": "2023-03-22",
+      "end": "2023-03-22T18:29:59Z",
+      "start": "2023-03-21T18:30:00Z",
+      "text": "Wed Mar 22nd 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": [
+      {
+        "decimal": "1.35",
+        "digital": "1:21:27",
+        "hours": 1,
+        "minutes": 21,
+        "name": "VS Code",
+        "percent": 100.0,
+        "seconds": 27,
+        "text": "1 hr 21 mins",
+        "total_seconds": 4887.897809
+      }
+    ]
+  },
+  "03-26-2023": {
+    "grand_total": {
+      "decimal": "5.08",
+      "digital": "5:05",
+      "hours": 5,
+      "minutes": 5,
+      "text": "5 hrs 5 mins",
+      "total_seconds": 18310.084965
+    },
+    "languages": [
+      {
+        "decimal": "4.07",
+        "digital": "4:04:16",
+        "hours": 4,
+        "minutes": 4,
+        "name": "Python",
+        "percent": 80.05,
+        "seconds": 16,
+        "text": "4 hrs 4 mins",
+        "total_seconds": 14656.488964
+      },
+      {
+        "decimal": "0.30",
+        "digital": "0:18:54",
+        "hours": 0,
+        "minutes": 18,
+        "name": "TypeScript",
+        "percent": 6.19,
+        "seconds": 54,
+        "text": "18 mins",
+        "total_seconds": 1134.173406
+      },
+      {
+        "decimal": "0.27",
+        "digital": "0:16:17",
+        "hours": 0,
+        "minutes": 16,
+        "name": "SQL",
+        "percent": 5.34,
+        "seconds": 17,
+        "text": "16 mins",
+        "total_seconds": 977.145212
+      },
+      {
+        "decimal": "0.25",
+        "digital": "0:15:42",
+        "hours": 0,
+        "minutes": 15,
+        "name": "JavaScript",
+        "percent": 5.15,
+        "seconds": 42,
+        "text": "15 mins",
+        "total_seconds": 942.843992
+      },
+      {
+        "decimal": "0.12",
+        "digital": "0:07:49",
+        "hours": 0,
+        "minutes": 7,
+        "name": "JSON",
+        "percent": 2.56,
+        "seconds": 49,
+        "text": "7 mins",
+        "total_seconds": 469.632767
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:49",
+        "hours": 0,
+        "minutes": 1,
+        "name": "Other",
+        "percent": 0.6,
+        "seconds": 49,
+        "text": "1 min",
+        "total_seconds": 109.992936
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:19",
+        "hours": 0,
+        "minutes": 0,
+        "name": "YAML",
+        "percent": 0.11,
+        "seconds": 19,
+        "text": "19 secs",
+        "total_seconds": 19.807688
+      }
+    ],
+    "range": {
+      "date": "2023-03-26",
+      "end": "2023-03-26T18:29:59Z",
+      "start": "2023-03-25T18:30:00Z",
+      "text": "Sun Mar 26th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": [
+      {
+        "decimal": "4.80",
+        "digital": "4:48:52",
+        "hours": 4,
+        "minutes": 48,
+        "name": "VS Code",
+        "percent": 94.66,
+        "seconds": 52,
+        "text": "4 hrs 48 mins",
+        "total_seconds": 17332.939753
+      },
+      {
+        "decimal": "0.27",
+        "digital": "0:16:17",
+        "hours": 0,
+        "minutes": 16,
+        "name": "DBeaver",
+        "percent": 5.34,
+        "seconds": 17,
+        "text": "16 mins",
+        "total_seconds": 977.145212
+      }
+    ]
+  },
+  "03-09-2023": {
+    "grand_total": {
+      "decimal": 0.21666666666666667,
+      "digital": "0:13",
+      "hours": 0,
+      "minutes": 13,
+      "text": "0 hrs 13 mins",
+      "seconds": null,
+      "total_seconds": 830.897273
+    },
+    "languages": [
+      {
+        "decimal": "0.17",
+        "digital": "0:10:12",
+        "hours": 0,
+        "minutes": 10,
+        "name": "Python",
+        "percent": 73.71522857314757,
+        "seconds": 12,
+        "text": "10 mins",
+        "total_seconds": 612.497824
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:11",
+        "hours": 0,
+        "minutes": 2,
+        "name": "YAML",
+        "percent": 15.870366564556049,
+        "seconds": 11,
+        "text": "2 mins",
+        "total_seconds": 131.866443
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:48",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Git Config",
+        "percent": 5.8097686162462585,
+        "seconds": 48,
+        "text": "48 secs",
+        "total_seconds": 48.273209
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:38",
+        "hours": 0,
+        "minutes": 0,
+        "name": "TypeScript",
+        "percent": 4.604636246050117,
+        "seconds": 38,
+        "text": "38 secs",
+        "total_seconds": 38.259797
+      }
+    ],
+    "range": {
+      "date": "2023-03-09",
+      "end": "2023-03-09T18:29:59Z",
+      "start": "2023-03-08T18:30:00Z",
+      "text": "Thu Mar 9th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": [
+      {
+        "decimal": "0.22",
+        "digital": "0:13:50",
+        "hours": 0,
+        "minutes": 13,
+        "name": "VS Code",
+        "percent": 100.0,
+        "seconds": 50,
+        "text": "13 mins",
+        "total_seconds": 830.897273
+      }
+    ]
+  },
+  "03-30-2023": {
+    "grand_total": {
+      "decimal": "6.17",
+      "digital": "6:10",
+      "hours": 6,
+      "minutes": 10,
+      "text": "6 hrs 10 mins",
+      "total_seconds": 22231.454414
+    },
+    "languages": [
+      {
+        "decimal": "4.98",
+        "digital": "4:59:31",
+        "hours": 4,
+        "minutes": 59,
+        "name": "Python",
+        "percent": 80.84,
+        "seconds": 31,
+        "text": "4 hrs 59 mins",
+        "total_seconds": 17971.352775
+      },
+      {
+        "decimal": "1.10",
+        "digital": "1:06:40",
+        "hours": 1,
+        "minutes": 6,
+        "name": "Other",
+        "percent": 18.0,
+        "seconds": 40,
+        "text": "1 hr 6 mins",
+        "total_seconds": 4000.801396
+      },
+      {
+        "decimal": "0.07",
+        "digital": "0:04:19",
+        "hours": 0,
+        "minutes": 4,
+        "name": "SQL",
+        "percent": 1.17,
+        "seconds": 19,
+        "text": "4 mins",
+        "total_seconds": 259.300243
+      }
+    ],
+    "range": {
+      "date": "2023-03-30",
+      "end": "2023-03-30T18:29:59Z",
+      "start": "2023-03-29T18:30:00Z",
+      "text": "Thu Mar 30th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": [
+      {
+        "decimal": "5.10",
+        "digital": "5:06:12",
+        "hours": 5,
+        "minutes": 6,
+        "name": "VS Code",
+        "percent": 82.64,
+        "seconds": 12,
+        "text": "5 hrs 6 mins",
+        "total_seconds": 18372.154171
+      },
+      {
+        "decimal": "1.00",
+        "digital": "1:00:00",
+        "hours": 1,
+        "minutes": 0,
+        "name": "Google Calendar",
+        "percent": 16.19,
+        "seconds": 0,
+        "text": "1 hr",
+        "total_seconds": 3600.0
+      },
+      {
+        "decimal": "0.07",
+        "digital": "0:04:19",
+        "hours": 0,
+        "minutes": 4,
+        "name": "DBeaver",
+        "percent": 1.17,
+        "seconds": 19,
+        "text": "4 mins",
+        "total_seconds": 259.300243
+      }
+    ]
+  },
+  "03-12-2023": {
+    "grand_total": {
+      "decimal": 0.0,
+      "digital": "0:00",
+      "hours": 0,
+      "minutes": 0,
+      "text": "0 hrs 0 mins",
+      "seconds": null,
+      "total_seconds": 0.0
+    },
+    "languages": [],
+    "range": {
+      "date": "2023-03-12",
+      "end": "2023-03-12T18:29:59Z",
+      "start": "2023-03-11T18:30:00Z",
+      "text": "Sun Mar 12th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": []
+  },
+  "03-19-2023": {
+    "grand_total": {
+      "decimal": 0.8333333333333334,
+      "digital": "0:50",
+      "hours": 0,
+      "minutes": 50,
+      "text": "0 hrs 50 mins",
+      "seconds": null,
+      "total_seconds": 3023.206373
+    },
+    "languages": [
+      {
+        "decimal": "0.83",
+        "digital": "0:50:18",
+        "hours": 0,
+        "minutes": 50,
+        "name": "TypeScript",
+        "percent": 99.84906128007822,
+        "seconds": 18,
+        "text": "50 mins",
+        "total_seconds": 3018.643184
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:02",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Markdown",
+        "percent": 0.09731416373936044,
+        "seconds": 2,
+        "text": "2 secs",
+        "total_seconds": 2.942008
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "JSON",
+        "percent": 0.05362455618242374,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.621181
+      }
+    ],
+    "range": {
+      "date": "2023-03-19",
+      "end": "2023-03-19T18:29:59Z",
+      "start": "2023-03-18T18:30:00Z",
+      "text": "Sun Mar 19th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": [
+      {
+        "decimal": "0.83",
+        "digital": "0:50:23",
+        "hours": 0,
+        "minutes": 50,
+        "name": "VS Code",
+        "percent": 100.0,
+        "seconds": 23,
+        "text": "50 mins",
+        "total_seconds": 3023.206373
+      }
+    ]
+  },
+  "03-05-2023": {
+    "grand_total": {
+      "decimal": 2.35,
+      "digital": "2:21",
+      "hours": 2,
+      "minutes": 21,
+      "text": "2 hrs 21 mins",
+      "seconds": null,
+      "total_seconds": 8492.853221
+    },
+    "languages": [
+      {
+        "decimal": "1.88",
+        "digital": "1:53:04",
+        "hours": 1,
+        "minutes": 53,
+        "name": "TypeScript",
+        "percent": 79.88866473311208,
+        "seconds": 4,
+        "text": "1 hr 53 mins",
+        "total_seconds": 6784.827036
+      },
+      {
+        "decimal": "0.37",
+        "digital": "0:22:32",
+        "hours": 0,
+        "minutes": 22,
+        "name": "JavaScript",
+        "percent": 15.92103488444358,
+        "seconds": 32,
+        "text": "22 mins",
+        "total_seconds": 1352.150124
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:38",
+        "hours": 0,
+        "minutes": 2,
+        "name": "JSON",
+        "percent": 1.8605695387420618,
+        "seconds": 38,
+        "text": "2 mins",
+        "total_seconds": 158.01544
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:51",
+        "hours": 0,
+        "minutes": 1,
+        "name": "Git Config",
+        "percent": 1.317501716894443,
+        "seconds": 51,
+        "text": "1 min",
+        "total_seconds": 111.893487
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:38",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Markdown",
+        "percent": 0.4496775701429493,
+        "seconds": 38,
+        "text": "38 secs",
+        "total_seconds": 38.190456
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:17",
+        "hours": 0,
+        "minutes": 0,
+        "name": "CSS",
+        "percent": 0.20871667670141172,
+        "seconds": 17,
+        "text": "17 secs",
+        "total_seconds": 17.726001
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:13",
+        "hours": 0,
+        "minutes": 0,
+        "name": "XML",
+        "percent": 0.16420945513948146,
+        "seconds": 13,
+        "text": "13 secs",
+        "total_seconds": 13.946068
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:08",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Other",
+        "percent": 0.0951346124765436,
+        "seconds": 8,
+        "text": "8 secs",
+        "total_seconds": 8.079643
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Text",
+        "percent": 0.06886452465160296,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.848563
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:02",
+        "hours": 0,
+        "minutes": 0,
+        "name": "SCSS",
+        "percent": 0.025626287695853258,
+        "seconds": 2,
+        "text": "2 secs",
+        "total_seconds": 2.176403
+      }
+    ],
+    "range": {
+      "date": "2023-03-05",
+      "end": "2023-03-05T18:29:59Z",
+      "start": "2023-03-04T18:30:00Z",
+      "text": "Sun Mar 5th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": [
+      {
+        "decimal": "2.35",
+        "digital": "2:21:32",
+        "hours": 2,
+        "minutes": 21,
+        "name": "VS Code",
+        "percent": 100.0,
+        "seconds": 32,
+        "text": "2 hrs 21 mins",
+        "total_seconds": 8492.853221
+      }
+    ]
+  },
+  "03-03-2023": {
+    "grand_total": {
+      "decimal": 0.38333333333333336,
+      "digital": "0:23",
+      "hours": 0,
+      "minutes": 23,
+      "text": "0 hrs 23 mins",
+      "seconds": null,
+      "total_seconds": 1428.345214
+    },
+    "languages": [
+      {
+        "decimal": "0.38",
+        "digital": "0:23:42",
+        "hours": 0,
+        "minutes": 23,
+        "name": "Python",
+        "percent": 99.61,
+        "seconds": 42,
+        "text": "23 mins",
+        "total_seconds": 1422.801675
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "JSON",
+        "percent": 0.39,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.543539
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "YAML",
+        "percent": 0.0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.0
+      }
+    ],
+    "range": {
+      "date": "2023-03-03",
+      "end": "2023-03-03T18:29:59Z",
+      "start": "2023-03-02T18:30:00Z",
+      "text": "Fri Mar 3rd 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": [
+      {
+        "decimal": "0.38",
+        "digital": "0:23:48",
+        "hours": 0,
+        "minutes": 23,
+        "name": "VS Code",
+        "percent": 100.0,
+        "seconds": 48,
+        "text": "23 mins",
+        "total_seconds": 1428.345214
+      }
+    ]
+  },
+  "03-10-2023": {
+    "grand_total": {
+      "decimal": 0.0,
+      "digital": "0:00",
+      "hours": 0,
+      "minutes": 0,
+      "text": "0 hrs 0 mins",
+      "seconds": null,
+      "total_seconds": 0.0
+    },
+    "languages": [],
+    "range": {
+      "date": "2023-03-10",
+      "end": "2023-03-10T18:29:59Z",
+      "start": "2023-03-09T18:30:00Z",
+      "text": "Fri Mar 10th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "editors": []
+  }
+}
