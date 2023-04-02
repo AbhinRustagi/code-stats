@@ -1,0 +1,58 @@
+{
+  "AbhinRustagi": {
+    "grand_total": {
+      "decimal": "1.75",
+      "digital": "1:45",
+      "hours": 1,
+      "minutes": 45,
+      "text": "1 hr 45 mins",
+      "total_seconds": 6300.0
+    },
+    "languages": [
+      {
+        "decimal": "1.75",
+        "digital": "1:45:00",
+        "hours": 1,
+        "minutes": 45,
+        "name": "Other",
+        "percent": 100.0,
+        "seconds": 0,
+        "text": "1 hr 45 mins",
+        "total_seconds": 6300.0
+      }
+    ],
+    "range": {
+      "date": "2023-01-04",
+      "end": "2023-01-04T18:29:59Z",
+      "start": "2023-01-03T18:30:00Z",
+      "text": "Wed Jan 4th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "operating_systems": [
+      {
+        "decimal": "1.75",
+        "digital": "1:45:00",
+        "hours": 1,
+        "minutes": 45,
+        "name": "Unknown OS",
+        "percent": 100.0,
+        "seconds": 0,
+        "text": "1 hr 45 mins",
+        "total_seconds": 6300.0
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "1.75",
+        "digital": "1:45:00",
+        "hours": 1,
+        "minutes": 45,
+        "name": "Google Calendar",
+        "percent": 100.0,
+        "seconds": 0,
+        "text": "1 hr 45 mins",
+        "total_seconds": 6300.0
+      }
+    ]
+  }
+}
