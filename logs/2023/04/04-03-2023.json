@@ -1,0 +1,113 @@
+{
+  "AbhinRustagi": {
+    "grand_total": {
+      "decimal": "2.40",
+      "digital": "2:24",
+      "hours": 2,
+      "minutes": 24,
+      "text": "2 hrs 24 mins",
+      "total_seconds": 8698.894331
+    },
+    "languages": [
+      {
+        "decimal": "2.23",
+        "digital": "2:14:50",
+        "hours": 2,
+        "minutes": 14,
+        "name": "TypeScript",
+        "percent": 93.0,
+        "seconds": 50,
+        "text": "2 hrs 14 mins",
+        "total_seconds": 8090.164642
+      },
+      {
+        "decimal": "0.08",
+        "digital": "0:05:17",
+        "hours": 0,
+        "minutes": 5,
+        "name": "Bash",
+        "percent": 3.65,
+        "seconds": 17,
+        "text": "5 mins",
+        "total_seconds": 317.298609
+      },
+      {
+        "decimal": "0.05",
+        "digital": "0:03:14",
+        "hours": 0,
+        "minutes": 3,
+        "name": "JavaScript",
+        "percent": 2.23,
+        "seconds": 14,
+        "text": "3 mins",
+        "total_seconds": 194.3797
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:25",
+        "hours": 0,
+        "minutes": 1,
+        "name": "Python",
+        "percent": 0.98,
+        "seconds": 25,
+        "text": "1 min",
+        "total_seconds": 85.43502
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:11",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Text",
+        "percent": 0.13,
+        "seconds": 11,
+        "text": "11 secs",
+        "total_seconds": 11.19229
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Markdown",
+        "percent": 0.0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.42407
+      }
+    ],
+    "range": {
+      "date": "2023-03-04",
+      "end": "2023-03-04T18:29:59Z",
+      "start": "2023-03-03T18:30:00Z",
+      "text": "Sat Mar 4th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "operating_systems": [
+      {
+        "decimal": "2.40",
+        "digital": "2:24:58",
+        "hours": 2,
+        "minutes": 24,
+        "name": "Mac",
+        "percent": 100.0,
+        "seconds": 58,
+        "text": "2 hrs 24 mins",
+        "total_seconds": 8698.894331
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "2.40",
+        "digital": "2:24:58",
+        "hours": 2,
+        "minutes": 24,
+        "name": "VS Code",
+        "percent": 100.0,
+        "seconds": 58,
+        "text": "2 hrs 24 mins",
+        "total_seconds": 8698.894331
+      }
+    ]
+  }
+}
