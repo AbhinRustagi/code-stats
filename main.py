@@ -10,7 +10,7 @@ if keys:
 
 BASE_URL = 'https://wakatime.com/api/v1/users/current'
 yesterday = date.today() - timedelta(days=1)
-formatted_date = yesterday.strftime('%m-%d-%Y')
+formatted_date = yesterday.strftime('%d-%m-%Y')
 
 def make_request(endpoint: str, params: dict):
     headers = {
