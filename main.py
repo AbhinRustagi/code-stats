@@ -82,7 +82,7 @@ def combine_user_summaries():
 
 def create_or_update_file(stats_obj: dict):
     # Check if folder exists
-    month = formatted_date.split("-")[0]
+    month = formatted_date.split("-")[1]
     year = formatted_date.split("-")[2]
     folder_path = os.path.join('logs', year, month)
     is_valid_path = os.path.exists(folder_path)
