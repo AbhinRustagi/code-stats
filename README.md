@@ -1,6 +1,6 @@
 # code stats
 
-> Check out the dashboard here → [wakatime.abhin.dev](https://wakatime.abhin.dev/)
+**Note: Project Deprecated/Unused**
 
 ## How does it work?
 

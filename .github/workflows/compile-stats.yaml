@@ -2,8 +2,8 @@ name: compile Wakatime stats of a month
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "05 00 01 * *" # At 00:05 AM on first day of the month
+  # schedule:
+  #   - cron: "05 00 01 * *" # At 00:05 AM on first day of the month
 
 jobs:
   build:
