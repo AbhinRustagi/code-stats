@@ -1,0 +1,69 @@
+{
+  "AbhinRustagi": {
+    "grand_total": {
+      "decimal": "0.47",
+      "digital": "0:28",
+      "hours": 0,
+      "minutes": 28,
+      "text": "28 mins",
+      "total_seconds": 1732.652795
+    },
+    "languages": [
+      {
+        "decimal": "0.32",
+        "digital": "0:19:12",
+        "hours": 0,
+        "minutes": 19,
+        "name": "TypeScript",
+        "percent": 66.51,
+        "seconds": 12,
+        "text": "19 mins",
+        "total_seconds": 1152.366089
+      },
+      {
+        "decimal": "0.15",
+        "digital": "0:09:40",
+        "hours": 0,
+        "minutes": 9,
+        "name": "Python",
+        "percent": 33.49,
+        "seconds": 40,
+        "text": "9 mins",
+        "total_seconds": 580.286706
+      }
+    ],
+    "range": {
+      "date": "2023-04-08",
+      "end": "2023-04-08T18:29:59Z",
+      "start": "2023-04-07T18:30:00Z",
+      "text": "Sat Apr 8th 2023",
+      "timezone": "Asia/Kolkata"
+    },
+    "operating_systems": [
+      {
+        "decimal": "0.47",
+        "digital": "0:28:52",
+        "hours": 0,
+        "minutes": 28,
+        "name": "Mac",
+        "percent": 100.0,
+        "seconds": 52,
+        "text": "28 mins",
+        "total_seconds": 1732.652795
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "0.47",
+        "digital": "0:28:52",
+        "hours": 0,
+        "minutes": 28,
+        "name": "VS Code",
+        "percent": 100.0,
+        "seconds": 52,
+        "text": "28 mins",
+        "total_seconds": 1732.652795
+      }
+    ]
+  }
+}
